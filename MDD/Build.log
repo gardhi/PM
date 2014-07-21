@@ -1,0 +1,310 @@
+BUILD: [Thread:SystemTickCount:Type  ] Message
+BUILD: [00:0000000000:PROGC ] Build started with parameters:
+BUILD: [00:0000000000:PROGC ] Build started in directory: C:\WINCE800\platform\rrm_ppc_windows\SRC\DRIVERS\PM\MDD
+BUILD: [00:0000000000:PROG  ] Environment: ALLUSERSPROFILE=C:\ProgramData
+BUILD: [00:0000000000:PROG  ] Environment: APPDATA=C:\Users\gh\AppData\Roaming
+BUILD: [00:0000000000:PROG  ] Environment: BSP_ALS=1
+BUILD: [00:0000000000:PROG  ] Environment: BSP_BACKLIGHT_PWM=1
+BUILD: [00:0000000000:PROG  ] Environment: BSP_BUSENUM2=1
+BUILD: [00:0000000000:PROG  ] Environment: BSP_DISPLAY_LVDS1=1
+BUILD: [00:0000000000:PROG  ] Environment: BSP_ECSPI1=1
+BUILD: [00:0000000000:PROG  ] Environment: BSP_ENET=1
+BUILD: [00:0000000000:PROG  ] Environment: BSP_I2CBUS1=1
+BUILD: [00:0000000000:PROG  ] Environment: BSP_I2CBUS2=1
+BUILD: [00:0000000000:PROG  ] Environment: BSP_I2CBUS3=1
+BUILD: [00:0000000000:PROG  ] Environment: BSP_iMX6Q=1
+BUILD: [00:0000000000:PROG  ] Environment: BSP_PP=1
+BUILD: [00:0000000000:PROG  ] Environment: BSP_TOUCH_HSD100=1
+BUILD: [00:0000000000:PROG  ] Environment: BSP_USDHC2=1
+BUILD: [00:0000000000:PROG  ] Environment: BSP_USDHC3=1
+BUILD: [00:0000000000:PROG  ] Environment: BSP_USDHC4=1
+BUILD: [00:0000000000:PROG  ] Environment: BUILD_DEFAULT=-nmake -nologo
+BUILD: [00:0000000000:PROG  ] Environment: BUILD_MULTIPROCESSOR=0
+BUILD: [00:0000000000:PROG  ] Environment: CEBASE=1
+BUILD: [00:0000000000:PROG  ] Environment: CommonProgramFiles=C:\Program Files (x86)\Common Files
+BUILD: [00:0000000000:PROG  ] Environment: CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files
+BUILD: [00:0000000000:PROG  ] Environment: CommonProgramW6432=C:\Program Files\Common Files
+BUILD: [00:0000000000:PROG  ] Environment: COMPUTERNAME=LT-MDL01
+BUILD: [00:0000000000:PROG  ] Environment: ComSpec=C:\WINDOWS\system32\cmd.exe
+BUILD: [00:0000000000:PROG  ] Environment: COPYCMD=/y
+BUILD: [00:0000000000:PROG  ] Environment: DEFAULT_LOCALE=en-US
+BUILD: [00:0000000000:PROG  ] Environment: FP_NO_HOST_CHECK=NO
+BUILD: [00:0000000000:PROG  ] Environment: HOME=c:\WINCE800\
+BUILD: [00:0000000000:PROG  ] Environment: HOMEDRIVE=C:
+BUILD: [00:0000000000:PROG  ] Environment: HOMEPATH=\Users\gh
+BUILD: [00:0000000000:PROG  ] Environment: IMGEBOOT=1
+BUILD: [00:0000000000:PROG  ] Environment: IMGNODEBUGGER=1
+BUILD: [00:0000000000:PROG  ] Environment: IMG_SCREEN_MEDIUM=1
+BUILD: [00:0000000000:PROG  ] Environment: IMG_XRST_THEME_3=1
+BUILD: [00:0000000000:PROG  ] Environment: LOCALAPPDATA=C:\Users\gh\AppData\Local
+BUILD: [00:0000000000:PROG  ] Environment: LOCALE=0409
+BUILD: [00:0000000000:PROG  ] Environment: LOGONSERVER=\\DC-HOVIK
+BUILD: [00:0000000000:PROG  ] Environment: MSBuildLoadMicrosoftTargetsReadOnly=true
+BUILD: [00:0000000000:PROG  ] Environment: NUMBER_OF_PROCESSORS=4
+BUILD: [00:0000000000:PROG  ] Environment: OS=Windows_NT
+BUILD: [00:0000000000:PROG  ] Environment: Path=C:\WINCE800\sdk\bin\i386\ARM;C:\WINCE800\sdk\bin\i386;C:\WINCE800\sdk\bin\i386\ARM;C:\WINCE800\public\common\oak\Bin\i386;C:\WINCE800\private\bin\i386;C:\WINCE800\private\bat;C:\WINCE800\public\common\oak\misc;C:\WINCE800\developr\gh;C:\Python26;C:\Qt\5.2.1\qt-src\qt-base\bin;C:\Python34;C:\Perl64\site\bin;C:\Perl64\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Microsoft\Web Platform Installer\;C:\Program Files (x86)\Microsoft ASP.NET\ASP.NET Web Pages\v1.0\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files (x86)\Windows Kits\8.0\Windows Performance Toolkit\;C:\Program Files\Microsoft Network Monitor 3\;C:\Program Files (x86)\Microsoft Visual Studio 11.0\Common7\IDE\Extensions\Microsoft\VsGraphics;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files (x86)\Microsoft Platform Builder\8.00\cepb\ideVS
+BUILD: [00:0000000000:PROG  ] Environment: PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.PY
+BUILD: [00:0000000000:PROG  ] Environment: PBCONFIG=PPC_WEC2013 ARMV7 Release
+BUILD: [00:0000000000:PROG  ] Environment: PBCONFIGTAG=A6C19DBE
+BUILD: [00:0000000000:PROG  ] Environment: PBWORKSPACE=C:\WINCE800\OSDESI~1\RRM_PP~1\RRM_PP~1\RRM_PP~1.PBX
+BUILD: [00:0000000000:PROG  ] Environment: PBWORKSPACEROOT=C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows
+BUILD: [00:0000000000:PROG  ] Environment: PkgDefApplicationConfigFile=C:\Users\gh\AppData\Local\Microsoft\VisualStudio\11.0\devenv.exe.config
+BUILD: [00:0000000000:PROG  ] Environment: PROCESSOR_ARCHITECTURE=x86
+BUILD: [00:0000000000:PROG  ] Environment: PROCESSOR_ARCHITEW6432=AMD64
+BUILD: [00:0000000000:PROG  ] Environment: PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 37 Stepping 5, GenuineIntel
+BUILD: [00:0000000000:PROG  ] Environment: PROCESSOR_LEVEL=6
+BUILD: [00:0000000000:PROG  ] Environment: PROCESSOR_REVISION=2505
+BUILD: [00:0000000000:PROG  ] Environment: ProgramData=C:\ProgramData
+BUILD: [00:0000000000:PROG  ] Environment: ProgramFiles=C:\Program Files (x86)
+BUILD: [00:0000000000:PROG  ] Environment: ProgramFiles(x86)=C:\Program Files (x86)
+BUILD: [00:0000000000:PROG  ] Environment: ProgramW6432=C:\Program Files
+BUILD: [00:0000000000:PROG  ] Environment: PROMPT=$P$G
+BUILD: [00:0000000000:PROG  ] Environment: PSModulePath=C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules\
+BUILD: [00:0000000000:PROG  ] Environment: PUBLIC=C:\Users\Public
+BUILD: [00:0000000000:PROG  ] Environment: Pythonpath=C:\Python34\Lib\site-packages
+BUILD: [00:0000000000:PROG  ] Environment: SESSIONNAME=Console
+BUILD: [00:0000000000:PROG  ] Environment: SG_OUTPUT_ROOT=C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Retail\cesysgen
+BUILD: [00:0000000000:PROG  ] Environment: SYSGEN_APPDEBUG=1
+BUILD: [00:0000000000:PROG  ] Environment: SYSGEN_ATL=1
+BUILD: [00:0000000000:PROG  ] Environment: SYSGEN_AUTH=1
+BUILD: [00:0000000000:PROG  ] Environment: SYSGEN_AUTH_KERBEROS=1
+BUILD: [00:0000000000:PROG  ] Environment: SYSGEN_AUTH_NTLM=1
+BUILD: [00:0000000000:PROG  ] Environment: SYSGEN_AUTH_SCHANNEL=1
+BUILD: [00:0000000000:PROG  ] Environment: SYSGEN_BACKLIGHT=1
+BUILD: [00:0000000000:PROG  ] Environment: SYSGEN_CMD=1
+BUILD: [00:0000000000:PROG  ] Environment: SYSGEN_COMMCTRL=1
+BUILD: [00:0000000000:PROG  ] Environment: SYSGEN_COMMDLG=1
+BUILD: [00:0000000000:PROG  ] Environment: SYSGEN_CONSOLE=1
+BUILD: [00:0000000000:PROG  ] Environment: SYSGEN_DCOM=1
+BUILD: [00:0000000000:PROG  ] Environment: SYSGEN_DDRAW=1
+BUILD: [00:0000000000:PROG  ] Environment: SYSGEN_ETH_80211_NWIFI=1
+BUILD: [00:0000000000:PROG  ] Environment: SYSGEN_FIREWALL=1
+BUILD: [00:0000000000:PROG  ] Environment: SYSGEN_HELP=1
+BUILD: [00:0000000000:PROG  ] Environment: SYSGEN_JSCRIPT=1
+BUILD: [00:0000000000:PROG  ] Environment: SYSGEN_MFC=1
+BUILD: [00:0000000000:PROG  ] Environment: SYSGEN_MINSHELL=1
+BUILD: [00:0000000000:PROG  ] Environment: SYSGEN_MINWMGR=1
+BUILD: [00:0000000000:PROG  ] Environment: SYSGEN_MSHTML=1
+BUILD: [00:0000000000:PROG  ] Environment: SYSGEN_MSXML=1
+BUILD: [00:0000000000:PROG  ] Environment: SYSGEN_MULTIMON=1
+BUILD: [00:0000000000:PROG  ] Environment: SYSGEN_NETCF_WINFORMS=1
+BUILD: [00:0000000000:PROG  ] Environment: SYSGEN_NETUTILS=1
+BUILD: [00:0000000000:PROG  ] Environment: SYSGEN_NETWORKING=1
+BUILD: [00:0000000000:PROG  ] Environment: SYSGEN_NOTIFY=1
+BUILD: [00:0000000000:PROG  ] Environment: SYSGEN_OLE=1
+BUILD: [00:0000000000:PROG  ] Environment: SYSGEN_PM=1
+BUILD: [00:0000000000:PROG  ] Environment: SYSGEN_REMOTETOOLS=1
+BUILD: [00:0000000000:PROG  ] Environment: SYSGEN_SDBUS=1
+BUILD: [00:0000000000:PROG  ] Environment: SYSGEN_SD_MEMORY=1
+BUILD: [00:0000000000:PROG  ] Environment: SYSGEN_SOFTKB=1
+BUILD: [00:0000000000:PROG  ] Environment: SYSGEN_VBSCRIPT=1
+BUILD: [00:0000000000:PROG  ] Environment: SYSGEN_WININET=1
+BUILD: [00:0000000000:PROG  ] Environment: SYSGEN_XAMLIM=1
+BUILD: [00:0000000000:PROG  ] Environment: SYSGEN_XPSKIN=1
+BUILD: [00:0000000000:PROG  ] Environment: SystemDrive=C:
+BUILD: [00:0000000000:PROG  ] Environment: SystemRoot=C:\WINDOWS
+BUILD: [00:0000000000:PROG  ] Environment: TEMP=C:\Users\gh\AppData\Local\Temp\bld_4242
+BUILD: [00:0000000000:PROG  ] Environment: TMP=C:\Users\gh\AppData\Local\Temp\bld_4242
+BUILD: [00:0000000000:PROG  ] Environment: UATDATA=C:\WINDOWS\CCM\UATData\D9F8C395-CAB8-491d-B8AC-179A1FE1BE77
+BUILD: [00:0000000000:PROG  ] Environment: USERDNSDOMAIN=data-respons.com
+BUILD: [00:0000000000:PROG  ] Environment: USERDOMAIN=DATA-RESPONS
+BUILD: [00:0000000000:PROG  ] Environment: USERNAME=gh
+BUILD: [00:0000000000:PROG  ] Environment: USERPROFILE=C:\Users\gh
+BUILD: [00:0000000000:PROG  ] Environment: USING_PB_WORKSPACE_ENVIRONMENT=1
+BUILD: [00:0000000000:PROG  ] Environment: VBOX_INSTALL_PATH=C:\Program Files\Oracle\VirtualBox\
+BUILD: [00:0000000000:PROG  ] Environment: VisualStudioDir=C:\Users\gh\Documents\Visual Studio 2012
+BUILD: [00:0000000000:PROG  ] Environment: VisualStudioEdition=Microsoft Visual Studio Professional 2012
+BUILD: [00:0000000000:PROG  ] Environment: VisualStudioVersion=11.0
+BUILD: [00:0000000000:PROG  ] Environment: VS110COMNTOOLS=C:\Program Files (x86)\Microsoft Visual Studio 11.0\Common7\Tools\
+BUILD: [00:0000000000:PROG  ] Environment: VSLANG=1033
+BUILD: [00:0000000000:PROG  ] Environment: WECSDK=SDKTEST
+BUILD: [00:0000000000:PROG  ] Environment: WINCEDEBUG=retail
+BUILD: [00:0000000000:PROG  ] Environment: WINCEMAP=1
+BUILD: [00:0000000000:PROG  ] Environment: WINCEREL=1
+BUILD: [00:0000000000:PROG  ] Environment: windir=C:\WINDOWS
+BUILD: [00:0000000000:PROG  ] Environment: windows_tracing_flags=3
+BUILD: [00:0000000000:PROG  ] Environment: windows_tracing_logfile=C:\BVTBin\Tests\installpackage\csilogfile.log
+BUILD: [00:0000000000:PROG  ] Environment: _BUILDOUTPUTFILTER_RUNNING=1
+BUILD: [00:0000000000:PROG  ] Environment: _DEPTREES=winceos dcom wgi html netcf servers cellcore ossvcs shell directx ostest CEBASE
+BUILD: [00:0000000000:PROG  ] Environment: _DOTNET20ROOT=C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727
+BUILD: [00:0000000000:PROG  ] Environment: _DOTNET20SP2INSTALLED=1
+BUILD: [00:0000000000:PROG  ] Environment: _DOTNET30ROOT=C:\WINDOWS\Microsoft.NET\Framework\v3.0
+BUILD: [00:0000000000:PROG  ] Environment: _DOTNET30SP2INSTALLED=1
+BUILD: [00:0000000000:PROG  ] Environment: _DOTNET35ROOT=C:\Windows\Microsoft.NET\Framework\v3.5
+BUILD: [00:0000000000:PROG  ] Environment: _DOTNET35SP1INSTALLED=1
+BUILD: [00:0000000000:PROG  ] Environment: _DOTNET40CLIENTINSTALLED=1
+BUILD: [00:0000000000:PROG  ] Environment: _DOTNET40FULLINSTALLED=1
+BUILD: [00:0000000000:PROG  ] Environment: _DOTNET40ROOT=C:\windows\Microsoft.NET\Framework\v4.0.30319
+BUILD: [00:0000000000:PROG  ] Environment: _DOTNET45INSTALLED=1
+BUILD: [00:0000000000:PROG  ] Environment: _DOTNETSDKROOT=C:\windows\Microsoft.NET\Framework\v4.0.30319\
+BUILD: [00:0000000000:PROG  ] Environment: _FLATRELEASEDIR=C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\RelDir\rrm_ppc_windows_ARMV7_Release
+BUILD: [00:0000000000:PROG  ] Environment: _HOSTCPUTYPE=i386
+BUILD: [00:0000000000:PROG  ] Environment: _MAJORVERSION=8
+BUILD: [00:0000000000:PROG  ] Environment: _MAKEENVROOT=C:\WINCE800\public\common\oak\misc
+BUILD: [00:0000000000:PROG  ] Environment: _MINORVERSION=00
+BUILD: [00:0000000000:PROG  ] Environment: _OSDESIGNDDKROOT=C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Retail\ddk
+BUILD: [00:0000000000:PROG  ] Environment: _OSDESIGNOAKROOT=C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Retail\oak
+BUILD: [00:0000000000:PROG  ] Environment: _OSDESIGNROOT=C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows
+BUILD: [00:0000000000:PROG  ] Environment: _OSDESIGNSDKROOT=C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Retail\sdk
+BUILD: [00:0000000000:PROG  ] Environment: _PB_INSTALL_ROOT=C:\PROGRA~2\MIFAB2~1\8.00
+BUILD: [00:0000000000:PROG  ] Environment: _PLATFORMDRIVE=C:
+BUILD: [00:0000000000:PROG  ] Environment: _PLATFORMROOT=C:\WINCE800\platform
+BUILD: [00:0000000000:PROG  ] Environment: _PREWINCEPATH=C:\Python26;C:\Qt\5.2.1\qt-src\qt-base\bin;C:\Python34;C:\Perl64\site\bin;C:\Perl64\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Microsoft\Web Platform Installer\;C:\Program Files (x86)\Microsoft ASP.NET\ASP.NET Web Pages\v1.0\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files (x86)\Windows Kits\8.0\Windows Performance Toolkit\;C:\Program Files\Microsoft Network Monitor 3\;C:\Program Files (x86)\Microsoft Visual Studio 11.0\Common7\IDE\Extensions\Microsoft\VsGraphics
+BUILD: [00:0000000000:PROG  ] Environment: _PRIVATEDRIVE=C:
+BUILD: [00:0000000000:PROG  ] Environment: _PRIVATEROOT=C:\WINCE800\private
+BUILD: [00:0000000000:PROG  ] Environment: _PROJECTDDKROOT=C:\WINCE800\public\CEBASE\ddk
+BUILD: [00:0000000000:PROG  ] Environment: _PROJECTOAKROOT=C:\WINCE800\public\CEBASE\oak
+BUILD: [00:0000000000:PROG  ] Environment: _PROJECTROOT=C:\WINCE800\public\CEBASE
+BUILD: [00:0000000000:PROG  ] Environment: _PROJECTSDKROOT=C:\WINCE800\public\CEBASE\sdk
+BUILD: [00:0000000000:PROG  ] Environment: _PROJPUBLICROOT=C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\WINCE800\PUBLIC
+BUILD: [00:0000000000:PROG  ] Environment: _PUBLICDRIVE=C:
+BUILD: [00:0000000000:PROG  ] Environment: _PUBLICROOT=C:\WINCE800\public
+BUILD: [00:0000000000:PROG  ] Environment: _SDKDRIVE=C:
+BUILD: [00:0000000000:PROG  ] Environment: _SDKROOT=C:\WINCE800\sdk
+BUILD: [00:0000000000:PROG  ] Environment: _TARGETPLATROOT=C:\WINCE800\platform\rrm_ppc_windows
+BUILD: [00:0000000000:PROG  ] Environment: _TGTCPU=ARMV7
+BUILD: [00:0000000000:PROG  ] Environment: _TGTCPUFAMILY=ARM
+BUILD: [00:0000000000:PROG  ] Environment: _TGTCPUISA=V7
+BUILD: [00:0000000000:PROG  ] Environment: _TGTOS=CE
+BUILD: [00:0000000000:PROG  ] Environment: _TGTPLAT=rrm_ppc_windows
+BUILD: [00:0000000000:PROG  ] Environment: _TGTPROJ=CEBASE
+BUILD: [00:0000000000:PROG  ] Environment: _TOOLSSDKDRIVE=C:
+BUILD: [00:0000000000:PROG  ] Environment: _TOOLSSDKROOT=C:\WINCE800\tools\public\ext
+BUILD: [00:0000000000:PROG  ] Environment: _WINCECALLED=1
+BUILD: [00:0000000000:PROG  ] Environment: _WINCEDRIVE=C:
+BUILD: [00:0000000000:PROG  ] Environment: _WINCEOSVER=800
+BUILD: [00:0000000000:PROG  ] Environment: _WINCEROOT=C:\WINCE800
+BUILD: [00:0000000000:PROGC ] Running passes WCEFILES0, MIDL, MC, ASN, THUNK, RUN_WPP, XRPACK, PRECOMPHEADER, COMPILE, RENUMBERICONIDS, RES2RES, LIB, EXPLIB, LINK, LOCALIZE, MANAGEDRESX, MANAGEDMOD, MANAGEDDLL, MANAGEDEXE, MANAGEDWIN, POSTBUILD for ARM.
+BUILD: [00:0000000000:PROGC ] Loading database "C:\wince800\platform\rrm_ppc_windows\BuildARMV7retail.dat".
+BUILD: [00:0000000031:PROGC ] Done.
+BUILD: [00:0000000031:PROGC ] Computing include file dependencies:
+BUILD: [00:0000000031:PROG  ] Waiting for 1 worker threads.
+BUILD: [01:0000000031:PROGC ] Scan C:\wince800\platform\rrm_ppc_windows\src\drivers\pm\mdd\
+BUILD: [00:0000000405:PROGC ] Directory scanning complete.
+BUILD: [00:0000000405:PROGC ] Saving C:\wince800\platform\rrm_ppc_windows\BuildARMV7retail.dat.
+BUILD: [00:0000000405:INFO  ] Done.
+BUILD: [00:0000000405:PROGC ] Saving Master Database complete.
+BUILD: [00:0000000405:PROGC ] Starting WCEFILES0 Pass.
+BUILD: [00:0000000405:PROGC ] Analyzing project dependency information for pass WCEFILES0.
+BUILD: [00:0000000405:PROGC ] Starting MIDL Pass.
+BUILD: [00:0000000405:PROGC ] Analyzing project dependency information for pass MIDL.
+BUILD: [00:0000000405:PROGC ] Starting MC Pass.
+BUILD: [00:0000000405:PROGC ] Analyzing project dependency information for pass MC.
+BUILD: [00:0000000405:PROGC ] Starting ASN Pass.
+BUILD: [00:0000000405:PROGC ] Analyzing project dependency information for pass ASN.
+BUILD: [00:0000000405:PROGC ] Starting THUNK Pass.
+BUILD: [00:0000000405:PROGC ] Analyzing project dependency information for pass THUNK.
+BUILD: [00:0000000405:PROGC ] Starting RUN_WPP Pass.
+BUILD: [00:0000000405:PROGC ] Analyzing project dependency information for pass RUN_WPP.
+BUILD: [00:0000000405:PROGC ] Starting XRPACK Pass.
+BUILD: [00:0000000405:PROGC ] Analyzing project dependency information for pass XRPACK.
+BUILD: [00:0000000405:PROGC ] Starting PRECOMPHEADER Pass.
+BUILD: [00:0000000405:PROGC ] Analyzing project dependency information for pass PRECOMPHEADER.
+BUILD: [00:0000000405:PROGC ] Starting COMPILE Pass.
+BUILD: [00:0000000405:PROGC ] Analyzing project dependency information for pass COMPILE.
+BUILD: [00:0000000452:INFO  ] Will Build C:\wince800\platform\rrm_ppc_windows\src\drivers\pm\mdd\pmsysstate.cpp because target: C:\wince800\platform\rrm_ppc_windows\src\drivers\pm\mdd\obj\ARMV7\retail\pmsysstate.obj is missing.
+BUILD: [00:0000000452:PROGC ] Building COMPILE Pass in C:\wince800\platform\rrm_ppc_windows\src\drivers\pm\mdd\ directory.
+BUILD: [00:0000000452:PROG  ] 'NMAKE.EXE TargetCompilePass  -nologo BUILDMSG=Stop.  BUILDROOT=C:\WINCE800\platform\rrm_ppc_windows NOLINK=1 NOPASS0=1' (SYNCHRONIZE_BLOCK = 0)
+BUILD: [00:0000000468:PROG  ] Waiting for 1 worker threads.
+BUILD: [01:0000000468:INFO  ] makefile.def: Including C:\WINCE800\public\common\oak\misc\Sources.default
+BUILD: [01:0000000468:INFO  ] makefile.def: BUILDROOT is C:\WINCE800\platform\rrm_ppc_windows
+BUILD: [01:0000000468:INFO  ] makefile.def: Including C:\WINCE800\platform\rrm_ppc_windows\sources.cmn
+BUILD: [01:0000000514:INFO  ] makefile.def: Including C:\wince800\platform\rrm_ppc_windows\src\drivers\pm\mdd\sources
+BUILD: [01:0000000514:INFO  ] makefile.def: Including C:\WINCE800\public\common\oak\misc\Sources.CE
+BUILD: [01:0000000514:INFO  ] Directory: C:\wince800\platform\rrm_ppc_windows\src\drivers\pm\mdd
+BUILD: [01:0000000514:INFO  ] TARGETNAME: pm_mdd_lib
+BUILD: [01:0000000514:INFO  ] makefile.def: Including C:\WINCE800\public\common\oak\misc\sources.ReleaseType_PLATFORM
+BUILD: [01:0000000561:PROGC ] Compiling .\pmsysstate.cpp
+BUILD: [01:0000000592:INFO  ] cl.exe -nologo   -FoC:\wince800\platform\rrm_ppc_windows\src\drivers\pm\mdd\obj\ARMV7\retail\  /Gy -QRimplicit-import- /QRunaligned- -c -I. -IC:\WINCE800\platform\common\src\inc -IC:\WINCE800\platform\rrm_ppc_windows\src\inc -IC:\WINCE800\platform\common\src\soc\common_fsl_v4\inc -IC:\WINCE800\platform\common\src\soc\common_fsl_v4\oal\inc -IC:\WINCE800\platform\common\src\soc\mx6_fsl_v4\inc -IC:\WINCE800\public\common\sdk\inc -IC:\WINCE800\public\common\oak\inc -IC:\WINCE800\public\common\ddk\inc -IC:\WINCE800\public\common\sdk\inc\cestl -IC:\WINCE800\public\common\sdk\inc\crt -I.\Resource\0409 -Ox -Os -Oy- -GF -Zi -FdC:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Retail\cesysgen\platform\rrm_ppc_windows\lib\ARMV7\retail\pm_mdd_lib.pdb -DTHUMBSUPPORT -D_CRT_SECURE_NO_DEPRECATE -D_USE_32BIT_TIME_T -DUNICODE -D_UNICODE -DUNDER_CE=800 -D_WIN32_WCE=0x0800 -DWINCEOEM -DWINCEINTERNAL -DWIN32 -DSTRICT -DARM -DARMV7 -D_ARM_ -D__RPC_ARM32__ -D_MIDL_USE_GUIDDEF_ -DNDEBUG=1  -DCEDDK_USEDDKMACRO -D_WINCEOSVER=800 -DARM=1 -DARMV7=1 -DSABRE_SDB -DINTERNATIONAL -DINTLMSG_CODEPAGE=1252 -FaC:\wince800\platform\rrm_ppc_windows\src\drivers\pm\mdd\obj\ARMV7\retail\ -FAsc -WX  -wd4007 -Zc:wchar_t- -Zc:forScope- -wd4867 -wd4430 -wd4603 -wd4627 -wd4100 -wd4201 -wd4115 -wd4214 -wd4049 -wd4505 -MT -U_MT /FC -W4     /GR- .\pmsysstate.cpp 
+BUILD: [01:0000000655:INFO  ] pmsysstate.cpp
+BUILD: [00:0000001622:PROGC ] Starting RENUMBERICONIDS Pass.
+BUILD: [00:0000001622:PROGC ] Analyzing project dependency information for pass RENUMBERICONIDS.
+BUILD: [00:0000001622:PROGC ] Starting RES2RES Pass.
+BUILD: [00:0000001622:PROGC ] Analyzing project dependency information for pass RES2RES.
+BUILD: [00:0000001622:PROGC ] Starting LIB Pass.
+BUILD: [00:0000001622:PROGC ] Analyzing project dependency information for pass LIB.
+BUILD: [00:0000002043:INFO  ] Will Build C:\wince800\public\common\oak\lib\armv7\retail\sqmproxy.lib because target: C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Retail\cesysgen\platform\rrm_ppc_windows\lib\ARMV7\retail\pm_mdd_lib.lib is missing.
+BUILD: [00:0000002043:INFO  ] Will Build C:\wince800\platform\rrm_ppc_windows\src\drivers\pm\mdd\obj\armv7\retail\pminit.obj because target: C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Retail\cesysgen\platform\rrm_ppc_windows\lib\ARMV7\retail\pm_mdd_lib.lib is missing.
+BUILD: [00:0000002043:INFO  ] Will Build C:\wince800\platform\rrm_ppc_windows\src\drivers\pm\mdd\obj\armv7\retail\pmpnp.obj because target: C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Retail\cesysgen\platform\rrm_ppc_windows\lib\ARMV7\retail\pm_mdd_lib.lib is missing.
+BUILD: [00:0000002043:INFO  ] Will Build C:\wince800\platform\rrm_ppc_windows\src\drivers\pm\mdd\obj\armv7\retail\pmdevice.obj because target: C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Retail\cesysgen\platform\rrm_ppc_windows\lib\ARMV7\retail\pm_mdd_lib.lib is missing.
+BUILD: [00:0000002043:INFO  ] Will Build C:\wince800\platform\rrm_ppc_windows\src\drivers\pm\mdd\obj\armv7\retail\pmrequire.obj because target: C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Retail\cesysgen\platform\rrm_ppc_windows\lib\ARMV7\retail\pm_mdd_lib.lib is missing.
+BUILD: [00:0000002043:INFO  ] Will Build C:\wince800\platform\rrm_ppc_windows\src\drivers\pm\mdd\obj\armv7\retail\pmrelation.obj because target: C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Retail\cesysgen\platform\rrm_ppc_windows\lib\ARMV7\retail\pm_mdd_lib.lib is missing.
+BUILD: [00:0000002043:INFO  ] Will Build C:\wince800\platform\rrm_ppc_windows\src\drivers\pm\mdd\obj\armv7\retail\pmnotify.obj because target: C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Retail\cesysgen\platform\rrm_ppc_windows\lib\ARMV7\retail\pm_mdd_lib.lib is missing.
+BUILD: [00:0000002043:INFO  ] Will Build C:\wince800\platform\rrm_ppc_windows\src\drivers\pm\mdd\obj\armv7\retail\pmresume.obj because target: C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Retail\cesysgen\platform\rrm_ppc_windows\lib\ARMV7\retail\pm_mdd_lib.lib is missing.
+BUILD: [00:0000002043:INFO  ] Will Build C:\wince800\platform\rrm_ppc_windows\src\drivers\pm\mdd\obj\armv7\retail\pmutils.obj because target: C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Retail\cesysgen\platform\rrm_ppc_windows\lib\ARMV7\retail\pm_mdd_lib.lib is missing.
+BUILD: [00:0000002043:INFO  ] Will Build C:\wince800\platform\rrm_ppc_windows\src\drivers\pm\mdd\obj\armv7\retail\pmsysstate.obj because target: C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Retail\cesysgen\platform\rrm_ppc_windows\lib\ARMV7\retail\pm_mdd_lib.lib is missing.
+BUILD: [00:0000002043:INFO  ] Will Build C:\wince800\platform\rrm_ppc_windows\src\drivers\pm\mdd\obj\armv7\retail\pmtimer.obj because target: C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Retail\cesysgen\platform\rrm_ppc_windows\lib\ARMV7\retail\pm_mdd_lib.lib is missing.
+BUILD: [00:0000002059:INFO  ] Will Build C:\wince800\platform\rrm_ppc_windows\src\drivers\pm\mdd\obj\armv7\retail\pmsystem.obj because target: C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Retail\cesysgen\platform\rrm_ppc_windows\lib\ARMV7\retail\pm_mdd_lib.lib is missing.
+BUILD: [00:0000002059:INFO  ] Will Build C:\wince800\platform\rrm_ppc_windows\src\drivers\pm\mdd\obj\armv7\retail\pmstream.obj because target: C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Retail\cesysgen\platform\rrm_ppc_windows\lib\ARMV7\retail\pm_mdd_lib.lib is missing.
+BUILD: [00:0000002059:INFO  ] Will Build C:\wince800\platform\rrm_ppc_windows\src\drivers\pm\mdd\obj\armv7\retail\pmdisplay.obj because target: C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Retail\cesysgen\platform\rrm_ppc_windows\lib\ARMV7\retail\pm_mdd_lib.lib is missing.
+BUILD: [00:0000002059:INFO  ] Will Build C:\wince800\platform\rrm_ppc_windows\src\drivers\pm\mdd\obj\armv7\retail\pmsqm.obj because target: C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Retail\cesysgen\platform\rrm_ppc_windows\lib\ARMV7\retail\pm_mdd_lib.lib is missing.
+BUILD: [00:0000002059:INFO  ] Will Build C:\wince800\platform\rrm_ppc_windows\src\drivers\pm\mdd\obj\armv7\retail\pmexthdl.obj because target: C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Retail\cesysgen\platform\rrm_ppc_windows\lib\ARMV7\retail\pm_mdd_lib.lib is missing.
+BUILD: [00:0000002059:INFO  ] Will Build C:\wince800\platform\rrm_ppc_windows\src\drivers\pm\mdd\ because target: C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Retail\cesysgen\platform\rrm_ppc_windows\lib\ARMV7\retail\pm_mdd_lib.lib is missing.
+BUILD: [00:0000002059:PROGC ] Building LIB Pass in C:\wince800\platform\rrm_ppc_windows\src\drivers\pm\mdd\ directory.
+BUILD: [00:0000002059:PROG  ] 'NMAKE.EXE TargetLibFiles  -nologo BUILDMSG=Stop.  BUILDROOT=C:\WINCE800\platform\rrm_ppc_windows LINKONLY=1 NOPASS0=1' (SYNCHRONIZE_BLOCK = 0)
+BUILD: [00:0000002059:PROG  ] Waiting for 1 worker threads.
+BUILD: [01:0000002090:INFO  ] makefile.def: Including C:\WINCE800\public\common\oak\misc\Sources.default
+BUILD: [01:0000002090:INFO  ] makefile.def: BUILDROOT is C:\WINCE800\platform\rrm_ppc_windows
+BUILD: [01:0000002090:INFO  ] makefile.def: Including C:\WINCE800\platform\rrm_ppc_windows\sources.cmn
+BUILD: [01:0000002106:INFO  ] makefile.def: Including C:\wince800\platform\rrm_ppc_windows\src\drivers\pm\mdd\sources
+BUILD: [01:0000002106:INFO  ] makefile.def: Including C:\WINCE800\public\common\oak\misc\Sources.CE
+BUILD: [01:0000002121:INFO  ] Directory: C:\wince800\platform\rrm_ppc_windows\src\drivers\pm\mdd
+BUILD: [01:0000002121:INFO  ] TARGETNAME: pm_mdd_lib
+BUILD: [01:0000002121:INFO  ] makefile.def: Including C:\WINCE800\public\common\oak\misc\sources.ReleaseType_PLATFORM
+BUILD: [01:0000002184:INFO  ] .
+BUILD: [01:0000002215:PROGC ] Linking C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Retail\cesysgen\platform\rrm_ppc_windows\lib\ARMV7\retail\pm_mdd_lib.lib
+BUILD: [01:0000002215:INFO  ] 	link.exe -lib  -out:C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Retail\cesysgen\platform\rrm_ppc_windows\lib\ARMV7\retail\pm_mdd_lib.lib -machine:ARM @C:\Users\gh\AppData\Local\Temp\bld_4242\thr_14\nm4F92.tmp
+BUILD: [01:0000002308:INFO  ] BUILD_MARKER:SOURCELBS_PDBS_COPY_BEGIN
+BUILD: [01:0000002308:INFO  ] 	C:\WINCE800\public\common\oak\misc\CopyResponse.bat C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Retail\cesysgen\platform\rrm_ppc_windows\lib\ARMV7\retail C:\Users\gh\AppData\Local\Temp\bld_4242\thr_14\nm4FF0.tmp
+BUILD: [01:0000002371:INFO  ] C:\WINCE800\public\COMMON\oak\lib\ARMV7\retail\sqmproxy.pdb -> C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Retail\cesysgen\platform\rrm_ppc_windows\lib\ARMV7\retail\sqmproxy.pdb
+BUILD: [01:0000002371:INFO  ] 1 File(s) copied
+BUILD: [01:0000002402:INFO  ] BUILD_MARKER:SOURCELIBS_PDBS_COPY_END
+BUILD: [00:0000002418:PROGC ] Starting EXPLIB Pass.
+BUILD: [00:0000002418:PROGC ] Analyzing project dependency information for pass EXPLIB.
+BUILD: [00:0000002418:PROGC ] Starting LINK Pass.
+BUILD: [00:0000002418:PROGC ] Analyzing project dependency information for pass LINK.
+BUILD: [00:0000002418:PROGC ] Starting LOCALIZE Pass.
+BUILD: [00:0000002418:PROGC ] Analyzing project dependency information for pass LOCALIZE.
+BUILD: [00:0000002418:PROGC ] Starting MANAGEDRESX Pass.
+BUILD: [00:0000002418:PROGC ] Analyzing project dependency information for pass MANAGEDRESX.
+BUILD: [00:0000002418:PROGC ] Starting MANAGEDMOD Pass.
+BUILD: [00:0000002418:PROGC ] Analyzing project dependency information for pass MANAGEDMOD.
+BUILD: [00:0000002433:PROGC ] Starting MANAGEDDLL Pass.
+BUILD: [00:0000002433:PROGC ] Analyzing project dependency information for pass MANAGEDDLL.
+BUILD: [00:0000002433:PROGC ] Starting MANAGEDEXE Pass.
+BUILD: [00:0000002433:PROGC ] Analyzing project dependency information for pass MANAGEDEXE.
+BUILD: [00:0000002433:PROGC ] Starting MANAGEDWIN Pass.
+BUILD: [00:0000002433:PROGC ] Analyzing project dependency information for pass MANAGEDWIN.
+BUILD: [00:0000002433:PROGC ] Starting POSTBUILD Pass.
+BUILD: [00:0000002433:PROGC ] Analyzing project dependency information for pass POSTBUILD.
+BUILD: [00:0000002433:PROGC ] Saving C:\wince800\platform\rrm_ppc_windows\BuildARMV7retail.dat.
+BUILD: [00:0000002433:INFO  ] Done.
+BUILD: [00:0000002433:PROGC ] Done.
+BUILD: [00:0000002433:PROGC ]                        Files  Warnings  Errors
+BUILD: [00:0000002433:PROGC ] Midl                       0         0       0
+BUILD: [00:0000002433:PROGC ] Message                    0         0       0
+BUILD: [00:0000002433:PROGC ] Precomp Header             0         0       0
+BUILD: [00:0000002433:PROGC ] Resource                   0         0       0
+BUILD: [00:0000002433:PROGC ] XRPack                     0         0       0
+BUILD: [00:0000002433:PROGC ] MASM                       0         0       0
+BUILD: [00:0000002433:PROGC ] SHASM                      0         0       0
+BUILD: [00:0000002433:PROGC ] ARMASM                     0         0       0
+BUILD: [00:0000002433:PROGC ] C++                        1         0       0
+BUILD: [00:0000002433:PROGC ] C                          0         0       0
+BUILD: [00:0000002433:PROGC ] CheckLibs                  0         0       0
+BUILD: [00:0000002433:PROGC ] Static Libraries           1         0       0
+BUILD: [00:0000002433:PROGC ] Exe's                      0         0       0
+BUILD: [00:0000002433:PROGC ] Dll's                      0         0       0
+BUILD: [00:0000002433:PROGC ] Preprocess deffile         0         0       0
+BUILD: [00:0000002433:PROGC ] Resx                       0         0       0
+BUILD: [00:0000002433:PROGC ] CSharp Compile             0         0       0
+BUILD: [00:0000002433:PROGC ] VCProj Compile             0         0       0
+BUILD: [00:0000002433:PROGC ] NETCF Build                0         0       0
+BUILD: [00:0000002433:PROGC ] Localization               0         0       0
+BUILD: [00:0000002433:PROGC ] Other                      0         0       0
+BUILD: [00:0000002433:PROGC ] 
+BUILD: [00:0000002433:PROGC ] Total                      2         0       0
+BUILD: [00:0000002433:PROGC ] 
+BUILD: [00:0000002433:PROGC ] 0 Warnings,  0 Errors
+BUILD: [00:0000002433:PROGC ] GetSystemTimes (seconds): Idle: 5     Kernel: 7     User: 2    
+BUILD: [00:0000002433:PROGC ] Elapsed  time  (seconds): 2    

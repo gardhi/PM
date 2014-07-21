@@ -1,0 +1,1699 @@
+BUILD: [Thread:SystemTickCount:Type  ] Message
+BUILD: [00:0000000000:PROGC ] Build started with parameters:
+BUILD: [00:0000000000:PROGC ] Build started in directory: C:\WINCE800\platform\rrm_ppc_windows\SRC\DRIVERS\PM\PDD
+BUILD: [00:0000000000:PROG  ] Environment: ALLUSERSPROFILE=C:\ProgramData
+BUILD: [00:0000000000:PROG  ] Environment: APPDATA=C:\Users\gh\AppData\Roaming
+BUILD: [00:0000000000:PROG  ] Environment: BSP_ALS=1
+BUILD: [00:0000000000:PROG  ] Environment: BSP_BACKLIGHT_PWM=1
+BUILD: [00:0000000000:PROG  ] Environment: BSP_BUSENUM2=1
+BUILD: [00:0000000000:PROG  ] Environment: BSP_DISPLAY_LVDS1=1
+BUILD: [00:0000000000:PROG  ] Environment: BSP_ECSPI1=1
+BUILD: [00:0000000000:PROG  ] Environment: BSP_ENET=1
+BUILD: [00:0000000000:PROG  ] Environment: BSP_I2CBUS1=1
+BUILD: [00:0000000000:PROG  ] Environment: BSP_I2CBUS2=1
+BUILD: [00:0000000000:PROG  ] Environment: BSP_I2CBUS3=1
+BUILD: [00:0000000000:PROG  ] Environment: BSP_iMX6Q=1
+BUILD: [00:0000000000:PROG  ] Environment: BSP_PP=1
+BUILD: [00:0000000000:PROG  ] Environment: BSP_TOUCH_HSD100=1
+BUILD: [00:0000000000:PROG  ] Environment: BSP_USDHC2=1
+BUILD: [00:0000000000:PROG  ] Environment: BSP_USDHC3=1
+BUILD: [00:0000000000:PROG  ] Environment: BSP_USDHC4=1
+BUILD: [00:0000000000:PROG  ] Environment: BUILD_DEFAULT=-nmake -nologo
+BUILD: [00:0000000000:PROG  ] Environment: BUILD_MULTIPROCESSOR=0
+BUILD: [00:0000000000:PROG  ] Environment: CEBASE=1
+BUILD: [00:0000000000:PROG  ] Environment: CommonProgramFiles=C:\Program Files (x86)\Common Files
+BUILD: [00:0000000000:PROG  ] Environment: CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files
+BUILD: [00:0000000000:PROG  ] Environment: CommonProgramW6432=C:\Program Files\Common Files
+BUILD: [00:0000000000:PROG  ] Environment: COMPUTERNAME=LT-MDL01
+BUILD: [00:0000000000:PROG  ] Environment: ComSpec=C:\WINDOWS\system32\cmd.exe
+BUILD: [00:0000000000:PROG  ] Environment: COPYCMD=/y
+BUILD: [00:0000000000:PROG  ] Environment: DEFAULT_LOCALE=en-US
+BUILD: [00:0000000000:PROG  ] Environment: FP_NO_HOST_CHECK=NO
+BUILD: [00:0000000000:PROG  ] Environment: HOME=c:\WINCE800\
+BUILD: [00:0000000000:PROG  ] Environment: HOMEDRIVE=C:
+BUILD: [00:0000000000:PROG  ] Environment: HOMEPATH=\Users\gh
+BUILD: [00:0000000000:PROG  ] Environment: IMGEBOOT=1
+BUILD: [00:0000000000:PROG  ] Environment: IMGNODEBUGGER=1
+BUILD: [00:0000000000:PROG  ] Environment: IMG_SCREEN_MEDIUM=1
+BUILD: [00:0000000000:PROG  ] Environment: IMG_XRST_THEME_3=1
+BUILD: [00:0000000000:PROG  ] Environment: LOCALAPPDATA=C:\Users\gh\AppData\Local
+BUILD: [00:0000000000:PROG  ] Environment: LOCALE=0409
+BUILD: [00:0000000000:PROG  ] Environment: LOGONSERVER=\\DC-HOVIK
+BUILD: [00:0000000000:PROG  ] Environment: MSBuildLoadMicrosoftTargetsReadOnly=true
+BUILD: [00:0000000000:PROG  ] Environment: NUMBER_OF_PROCESSORS=4
+BUILD: [00:0000000000:PROG  ] Environment: OS=Windows_NT
+BUILD: [00:0000000000:PROG  ] Environment: Path=C:\WINCE800\sdk\bin\i386\ARM;C:\WINCE800\sdk\bin\i386;C:\WINCE800\sdk\bin\i386\ARM;C:\WINCE800\public\common\oak\Bin\i386;C:\WINCE800\private\bin\i386;C:\WINCE800\private\bat;C:\WINCE800\public\common\oak\misc;C:\WINCE800\developr\gh;C:\Python26;C:\Qt\5.2.1\qt-src\qt-base\bin;C:\Python34;C:\Perl64\site\bin;C:\Perl64\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Microsoft\Web Platform Installer\;C:\Program Files (x86)\Microsoft ASP.NET\ASP.NET Web Pages\v1.0\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files (x86)\Windows Kits\8.0\Windows Performance Toolkit\;C:\Program Files\Microsoft Network Monitor 3\;C:\Program Files (x86)\Microsoft Visual Studio 11.0\Common7\IDE\Extensions\Microsoft\VsGraphics;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files (x86)\Microsoft Platform Builder\8.00\cepb\ideVS
+BUILD: [00:0000000000:PROG  ] Environment: PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.PY
+BUILD: [00:0000000000:PROG  ] Environment: PBCONFIG=PPC_WEC2013 ARMV7 Release
+BUILD: [00:0000000000:PROG  ] Environment: PBCONFIGTAG=A6C19DBE
+BUILD: [00:0000000000:PROG  ] Environment: PBWORKSPACE=C:\WINCE800\OSDESI~1\RRM_PP~1\RRM_PP~1\RRM_PP~1.PBX
+BUILD: [00:0000000000:PROG  ] Environment: PBWORKSPACEROOT=C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows
+BUILD: [00:0000000000:PROG  ] Environment: PkgDefApplicationConfigFile=C:\Users\gh\AppData\Local\Microsoft\VisualStudio\11.0\devenv.exe.config
+BUILD: [00:0000000000:PROG  ] Environment: PROCESSOR_ARCHITECTURE=x86
+BUILD: [00:0000000000:PROG  ] Environment: PROCESSOR_ARCHITEW6432=AMD64
+BUILD: [00:0000000000:PROG  ] Environment: PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 37 Stepping 5, GenuineIntel
+BUILD: [00:0000000000:PROG  ] Environment: PROCESSOR_LEVEL=6
+BUILD: [00:0000000000:PROG  ] Environment: PROCESSOR_REVISION=2505
+BUILD: [00:0000000000:PROG  ] Environment: ProgramData=C:\ProgramData
+BUILD: [00:0000000000:PROG  ] Environment: ProgramFiles=C:\Program Files (x86)
+BUILD: [00:0000000000:PROG  ] Environment: ProgramFiles(x86)=C:\Program Files (x86)
+BUILD: [00:0000000000:PROG  ] Environment: ProgramW6432=C:\Program Files
+BUILD: [00:0000000000:PROG  ] Environment: PROMPT=$P$G
+BUILD: [00:0000000000:PROG  ] Environment: PSModulePath=C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules\
+BUILD: [00:0000000000:PROG  ] Environment: PUBLIC=C:\Users\Public
+BUILD: [00:0000000000:PROG  ] Environment: Pythonpath=C:\Python34\Lib\site-packages
+BUILD: [00:0000000000:PROG  ] Environment: SESSIONNAME=Console
+BUILD: [00:0000000000:PROG  ] Environment: SG_OUTPUT_ROOT=C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Retail\cesysgen
+BUILD: [00:0000000000:PROG  ] Environment: SYSGEN_APPDEBUG=1
+BUILD: [00:0000000000:PROG  ] Environment: SYSGEN_ATL=1
+BUILD: [00:0000000000:PROG  ] Environment: SYSGEN_AUTH=1
+BUILD: [00:0000000000:PROG  ] Environment: SYSGEN_AUTH_KERBEROS=1
+BUILD: [00:0000000000:PROG  ] Environment: SYSGEN_AUTH_NTLM=1
+BUILD: [00:0000000000:PROG  ] Environment: SYSGEN_AUTH_SCHANNEL=1
+BUILD: [00:0000000000:PROG  ] Environment: SYSGEN_BACKLIGHT=1
+BUILD: [00:0000000000:PROG  ] Environment: SYSGEN_CMD=1
+BUILD: [00:0000000000:PROG  ] Environment: SYSGEN_COMMCTRL=1
+BUILD: [00:0000000000:PROG  ] Environment: SYSGEN_COMMDLG=1
+BUILD: [00:0000000000:PROG  ] Environment: SYSGEN_CONSOLE=1
+BUILD: [00:0000000000:PROG  ] Environment: SYSGEN_DCOM=1
+BUILD: [00:0000000000:PROG  ] Environment: SYSGEN_DDRAW=1
+BUILD: [00:0000000000:PROG  ] Environment: SYSGEN_ETH_80211_NWIFI=1
+BUILD: [00:0000000000:PROG  ] Environment: SYSGEN_FIREWALL=1
+BUILD: [00:0000000000:PROG  ] Environment: SYSGEN_HELP=1
+BUILD: [00:0000000000:PROG  ] Environment: SYSGEN_JSCRIPT=1
+BUILD: [00:0000000000:PROG  ] Environment: SYSGEN_MFC=1
+BUILD: [00:0000000000:PROG  ] Environment: SYSGEN_MINSHELL=1
+BUILD: [00:0000000000:PROG  ] Environment: SYSGEN_MINWMGR=1
+BUILD: [00:0000000000:PROG  ] Environment: SYSGEN_MSHTML=1
+BUILD: [00:0000000000:PROG  ] Environment: SYSGEN_MSXML=1
+BUILD: [00:0000000000:PROG  ] Environment: SYSGEN_MULTIMON=1
+BUILD: [00:0000000000:PROG  ] Environment: SYSGEN_NETCF_WINFORMS=1
+BUILD: [00:0000000000:PROG  ] Environment: SYSGEN_NETUTILS=1
+BUILD: [00:0000000000:PROG  ] Environment: SYSGEN_NETWORKING=1
+BUILD: [00:0000000000:PROG  ] Environment: SYSGEN_NOTIFY=1
+BUILD: [00:0000000000:PROG  ] Environment: SYSGEN_OLE=1
+BUILD: [00:0000000000:PROG  ] Environment: SYSGEN_PM=1
+BUILD: [00:0000000000:PROG  ] Environment: SYSGEN_REMOTETOOLS=1
+BUILD: [00:0000000000:PROG  ] Environment: SYSGEN_SDBUS=1
+BUILD: [00:0000000000:PROG  ] Environment: SYSGEN_SD_MEMORY=1
+BUILD: [00:0000000000:PROG  ] Environment: SYSGEN_SOFTKB=1
+BUILD: [00:0000000000:PROG  ] Environment: SYSGEN_VBSCRIPT=1
+BUILD: [00:0000000000:PROG  ] Environment: SYSGEN_WININET=1
+BUILD: [00:0000000000:PROG  ] Environment: SYSGEN_XAMLIM=1
+BUILD: [00:0000000000:PROG  ] Environment: SYSGEN_XPSKIN=1
+BUILD: [00:0000000000:PROG  ] Environment: SystemDrive=C:
+BUILD: [00:0000000000:PROG  ] Environment: SystemRoot=C:\WINDOWS
+BUILD: [00:0000000000:PROG  ] Environment: TEMP=C:\Users\gh\AppData\Local\Temp\bld_53762
+BUILD: [00:0000000000:PROG  ] Environment: TMP=C:\Users\gh\AppData\Local\Temp\bld_53762
+BUILD: [00:0000000000:PROG  ] Environment: UATDATA=C:\WINDOWS\CCM\UATData\D9F8C395-CAB8-491d-B8AC-179A1FE1BE77
+BUILD: [00:0000000000:PROG  ] Environment: USERDNSDOMAIN=data-respons.com
+BUILD: [00:0000000000:PROG  ] Environment: USERDOMAIN=DATA-RESPONS
+BUILD: [00:0000000000:PROG  ] Environment: USERNAME=gh
+BUILD: [00:0000000000:PROG  ] Environment: USERPROFILE=C:\Users\gh
+BUILD: [00:0000000000:PROG  ] Environment: USING_PB_WORKSPACE_ENVIRONMENT=1
+BUILD: [00:0000000000:PROG  ] Environment: VBOX_INSTALL_PATH=C:\Program Files\Oracle\VirtualBox\
+BUILD: [00:0000000000:PROG  ] Environment: VisualStudioDir=C:\Users\gh\Documents\Visual Studio 2012
+BUILD: [00:0000000000:PROG  ] Environment: VisualStudioEdition=Microsoft Visual Studio Professional 2012
+BUILD: [00:0000000000:PROG  ] Environment: VisualStudioVersion=11.0
+BUILD: [00:0000000000:PROG  ] Environment: VS110COMNTOOLS=C:\Program Files (x86)\Microsoft Visual Studio 11.0\Common7\Tools\
+BUILD: [00:0000000000:PROG  ] Environment: VSLANG=1033
+BUILD: [00:0000000000:PROG  ] Environment: WECSDK=SDKTEST
+BUILD: [00:0000000000:PROG  ] Environment: WINCEDEBUG=retail
+BUILD: [00:0000000000:PROG  ] Environment: WINCEMAP=1
+BUILD: [00:0000000000:PROG  ] Environment: WINCEREL=1
+BUILD: [00:0000000000:PROG  ] Environment: windir=C:\WINDOWS
+BUILD: [00:0000000000:PROG  ] Environment: windows_tracing_flags=3
+BUILD: [00:0000000000:PROG  ] Environment: windows_tracing_logfile=C:\BVTBin\Tests\installpackage\csilogfile.log
+BUILD: [00:0000000000:PROG  ] Environment: _BUILDOUTPUTFILTER_RUNNING=1
+BUILD: [00:0000000000:PROG  ] Environment: _DEPTREES=winceos dcom wgi html netcf servers cellcore ossvcs shell directx ostest CEBASE
+BUILD: [00:0000000000:PROG  ] Environment: _DOTNET20ROOT=C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727
+BUILD: [00:0000000000:PROG  ] Environment: _DOTNET20SP2INSTALLED=1
+BUILD: [00:0000000000:PROG  ] Environment: _DOTNET30ROOT=C:\WINDOWS\Microsoft.NET\Framework\v3.0
+BUILD: [00:0000000000:PROG  ] Environment: _DOTNET30SP2INSTALLED=1
+BUILD: [00:0000000000:PROG  ] Environment: _DOTNET35ROOT=C:\Windows\Microsoft.NET\Framework\v3.5
+BUILD: [00:0000000000:PROG  ] Environment: _DOTNET35SP1INSTALLED=1
+BUILD: [00:0000000000:PROG  ] Environment: _DOTNET40CLIENTINSTALLED=1
+BUILD: [00:0000000000:PROG  ] Environment: _DOTNET40FULLINSTALLED=1
+BUILD: [00:0000000000:PROG  ] Environment: _DOTNET40ROOT=C:\windows\Microsoft.NET\Framework\v4.0.30319
+BUILD: [00:0000000000:PROG  ] Environment: _DOTNET45INSTALLED=1
+BUILD: [00:0000000000:PROG  ] Environment: _DOTNETSDKROOT=C:\windows\Microsoft.NET\Framework\v4.0.30319\
+BUILD: [00:0000000000:PROG  ] Environment: _FLATRELEASEDIR=C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\RelDir\rrm_ppc_windows_ARMV7_Release
+BUILD: [00:0000000000:PROG  ] Environment: _HOSTCPUTYPE=i386
+BUILD: [00:0000000000:PROG  ] Environment: _MAJORVERSION=8
+BUILD: [00:0000000000:PROG  ] Environment: _MAKEENVROOT=C:\WINCE800\public\common\oak\misc
+BUILD: [00:0000000000:PROG  ] Environment: _MINORVERSION=00
+BUILD: [00:0000000000:PROG  ] Environment: _OSDESIGNDDKROOT=C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Retail\ddk
+BUILD: [00:0000000000:PROG  ] Environment: _OSDESIGNOAKROOT=C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Retail\oak
+BUILD: [00:0000000000:PROG  ] Environment: _OSDESIGNROOT=C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows
+BUILD: [00:0000000000:PROG  ] Environment: _OSDESIGNSDKROOT=C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Retail\sdk
+BUILD: [00:0000000000:PROG  ] Environment: _PB_INSTALL_ROOT=C:\PROGRA~2\MIFAB2~1\8.00
+BUILD: [00:0000000000:PROG  ] Environment: _PLATFORMDRIVE=C:
+BUILD: [00:0000000000:PROG  ] Environment: _PLATFORMROOT=C:\WINCE800\platform
+BUILD: [00:0000000000:PROG  ] Environment: _PREWINCEPATH=C:\Python26;C:\Qt\5.2.1\qt-src\qt-base\bin;C:\Python34;C:\Perl64\site\bin;C:\Perl64\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Microsoft\Web Platform Installer\;C:\Program Files (x86)\Microsoft ASP.NET\ASP.NET Web Pages\v1.0\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files (x86)\Windows Kits\8.0\Windows Performance Toolkit\;C:\Program Files\Microsoft Network Monitor 3\;C:\Program Files (x86)\Microsoft Visual Studio 11.0\Common7\IDE\Extensions\Microsoft\VsGraphics
+BUILD: [00:0000000000:PROG  ] Environment: _PRIVATEDRIVE=C:
+BUILD: [00:0000000000:PROG  ] Environment: _PRIVATEROOT=C:\WINCE800\private
+BUILD: [00:0000000000:PROG  ] Environment: _PROJECTDDKROOT=C:\WINCE800\public\CEBASE\ddk
+BUILD: [00:0000000000:PROG  ] Environment: _PROJECTOAKROOT=C:\WINCE800\public\CEBASE\oak
+BUILD: [00:0000000000:PROG  ] Environment: _PROJECTROOT=C:\WINCE800\public\CEBASE
+BUILD: [00:0000000000:PROG  ] Environment: _PROJECTSDKROOT=C:\WINCE800\public\CEBASE\sdk
+BUILD: [00:0000000000:PROG  ] Environment: _PROJPUBLICROOT=C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\WINCE800\PUBLIC
+BUILD: [00:0000000000:PROG  ] Environment: _PUBLICDRIVE=C:
+BUILD: [00:0000000000:PROG  ] Environment: _PUBLICROOT=C:\WINCE800\public
+BUILD: [00:0000000000:PROG  ] Environment: _SDKDRIVE=C:
+BUILD: [00:0000000000:PROG  ] Environment: _SDKROOT=C:\WINCE800\sdk
+BUILD: [00:0000000000:PROG  ] Environment: _TARGETPLATROOT=C:\WINCE800\platform\rrm_ppc_windows
+BUILD: [00:0000000000:PROG  ] Environment: _TGTCPU=ARMV7
+BUILD: [00:0000000000:PROG  ] Environment: _TGTCPUFAMILY=ARM
+BUILD: [00:0000000000:PROG  ] Environment: _TGTCPUISA=V7
+BUILD: [00:0000000000:PROG  ] Environment: _TGTOS=CE
+BUILD: [00:0000000000:PROG  ] Environment: _TGTPLAT=rrm_ppc_windows
+BUILD: [00:0000000000:PROG  ] Environment: _TGTPROJ=CEBASE
+BUILD: [00:0000000000:PROG  ] Environment: _TOOLSSDKDRIVE=C:
+BUILD: [00:0000000000:PROG  ] Environment: _TOOLSSDKROOT=C:\WINCE800\tools\public\ext
+BUILD: [00:0000000000:PROG  ] Environment: _WINCECALLED=1
+BUILD: [00:0000000000:PROG  ] Environment: _WINCEDRIVE=C:
+BUILD: [00:0000000000:PROG  ] Environment: _WINCEOSVER=800
+BUILD: [00:0000000000:PROG  ] Environment: _WINCEROOT=C:\WINCE800
+BUILD: [00:0000000000:PROGC ] Running passes WCEFILES0, MIDL, MC, ASN, THUNK, RUN_WPP, XRPACK, PRECOMPHEADER, COMPILE, RENUMBERICONIDS, RES2RES, LIB, EXPLIB, LINK, LOCALIZE, MANAGEDRESX, MANAGEDMOD, MANAGEDDLL, MANAGEDEXE, MANAGEDWIN, POSTBUILD for ARM.
+BUILD: [00:0000000000:PROGC ] Loading database "C:\wince800\platform\rrm_ppc_windows\BuildARMV7retail.dat".
+BUILD: [00:0000000047:PROGC ] Done.
+BUILD: [00:0000000047:PROGC ] Computing include file dependencies:
+BUILD: [01:0000000218:PROGC ] Scan C:\wince800\platform\rrm_ppc_windows\src\drivers\pm\pdd\
+BUILD: [00:0000000218:PROG  ] Waiting for 1 worker threads.
+BUILD: [00:0000001154:PROGC ] Directory scanning complete.
+BUILD: [00:0000001154:PROGC ] Saving C:\wince800\platform\rrm_ppc_windows\BuildARMV7retail.dat.
+BUILD: [00:0000001154:INFO  ] Done.
+BUILD: [00:0000001154:PROGC ] Saving Master Database complete.
+BUILD: [00:0000001154:PROGC ] Starting WCEFILES0 Pass.
+BUILD: [00:0000001154:PROGC ] Analyzing project dependency information for pass WCEFILES0.
+BUILD: [00:0000001170:PROGC ] Starting MIDL Pass.
+BUILD: [00:0000001170:PROGC ] Analyzing project dependency information for pass MIDL.
+BUILD: [00:0000001170:PROGC ] Starting MC Pass.
+BUILD: [00:0000001170:PROGC ] Analyzing project dependency information for pass MC.
+BUILD: [00:0000001170:PROGC ] Starting ASN Pass.
+BUILD: [00:0000001170:PROGC ] Analyzing project dependency information for pass ASN.
+BUILD: [00:0000001170:PROGC ] Starting THUNK Pass.
+BUILD: [00:0000001170:PROGC ] Analyzing project dependency information for pass THUNK.
+BUILD: [00:0000001170:PROGC ] Starting RUN_WPP Pass.
+BUILD: [00:0000001170:PROGC ] Analyzing project dependency information for pass RUN_WPP.
+BUILD: [00:0000001170:PROGC ] Starting XRPACK Pass.
+BUILD: [00:0000001170:PROGC ] Analyzing project dependency information for pass XRPACK.
+BUILD: [00:0000001170:PROGC ] Starting PRECOMPHEADER Pass.
+BUILD: [00:0000001170:PROGC ] Analyzing project dependency information for pass PRECOMPHEADER.
+BUILD: [00:0000001170:PROGC ] Starting COMPILE Pass.
+BUILD: [00:0000001170:PROGC ] Analyzing project dependency information for pass COMPILE.
+BUILD: [00:0000001248:PROGC ] Starting RENUMBERICONIDS Pass.
+BUILD: [00:0000001248:PROGC ] Analyzing project dependency information for pass RENUMBERICONIDS.
+BUILD: [00:0000001248:PROGC ] Starting RES2RES Pass.
+BUILD: [00:0000001248:PROGC ] Analyzing project dependency information for pass RES2RES.
+BUILD: [00:0000001248:PROGC ] Starting LIB Pass.
+BUILD: [00:0000001248:PROGC ] Analyzing project dependency information for pass LIB.
+BUILD: [00:0000001248:PROGC ] Starting EXPLIB Pass.
+BUILD: [00:0000001248:PROGC ] Analyzing project dependency information for pass EXPLIB.
+BUILD: [00:0000001451:INFO  ] Will Build C:\wince800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\wince800\rrm_ppc_windows_armv7_retail\cesysgen\oak\lib\armv7\retail\pm_mdd_lib.lib because target: C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Retail\cesysgen\platform\rrm_ppc_windows\lib\ARMV7\retail\pm.lib is missing.
+BUILD: [00:0000001451:INFO  ] Will Build C:\wince800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\wince800\rrm_ppc_windows_armv7_retail\cesysgen\oak\lib\armv7\retail\pm_pdd_common_lib.lib because target: C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Retail\cesysgen\platform\rrm_ppc_windows\lib\ARMV7\retail\pm.lib is missing.
+BUILD: [00:0000001451:INFO  ] Will Build C:\wince800\platform\rrm_ppc_windows\src\drivers\pm\pdd\obj\armv7\retail\platform.obj because target: C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Retail\cesysgen\platform\rrm_ppc_windows\lib\ARMV7\retail\pm.lib is missing.
+BUILD: [00:0000001451:INFO  ] Will Build C:\wince800\platform\rrm_ppc_windows\src\drivers\pm\pdd\obj\armv7\retail\pwstatemgr.obj because target: C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Retail\cesysgen\platform\rrm_ppc_windows\lib\ARMV7\retail\pm.lib is missing.
+BUILD: [00:0000001451:INFO  ] Will Build C:\wince800\platform\rrm_ppc_windows\src\drivers\pm\pdd\obj\armv7\retail\pwstates.obj because target: C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Retail\cesysgen\platform\rrm_ppc_windows\lib\ARMV7\retail\pm.lib is missing.
+BUILD: [00:0000001451:INFO  ] Will Build C:\wince800\platform\rrm_ppc_windows\src\drivers\pm\pdd\obj\armv7\retail\pwrButton.obj because target: C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Retail\cesysgen\platform\rrm_ppc_windows\lib\ARMV7\retail\pm.lib is missing.
+BUILD: [00:0000001451:INFO  ] Will Build C:\wince800\platform\rrm_ppc_windows\src\drivers\pm\pdd\ because target: C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Retail\cesysgen\platform\rrm_ppc_windows\lib\ARMV7\retail\pm.lib is missing.
+BUILD: [00:0000001451:PROGC ] Building EXPLIB Pass in C:\wince800\platform\rrm_ppc_windows\src\drivers\pm\pdd\ directory.
+BUILD: [00:0000001451:PROG  ] 'NMAKE.EXE TargetExpLibFiles  -nologo BUILDMSG=Stop.  BUILDROOT=C:\WINCE800\platform\rrm_ppc_windows LINKONLY=1 NOPASS0=1' (SYNCHRONIZE_BLOCK = 0)
+BUILD: [00:0000001451:PROG  ] Waiting for 1 worker threads.
+BUILD: [01:0000001466:INFO  ] makefile.def: Including C:\WINCE800\public\common\oak\misc\Sources.default
+BUILD: [01:0000001466:INFO  ] makefile.def: BUILDROOT is C:\WINCE800\platform\rrm_ppc_windows
+BUILD: [01:0000001466:INFO  ] makefile.def: Including C:\WINCE800\platform\rrm_ppc_windows\sources.cmn
+BUILD: [01:0000001498:INFO  ] makefile.def: Including C:\wince800\platform\rrm_ppc_windows\src\drivers\pm\pdd\sources
+BUILD: [01:0000001498:INFO  ] makefile.def: Including C:\WINCE800\public\common\oak\misc\Sources.CE
+BUILD: [01:0000001498:INFO  ] Directory: C:\wince800\platform\rrm_ppc_windows\src\drivers\pm\pdd
+BUILD: [01:0000001498:INFO  ] TARGETNAME: pm
+BUILD: [01:0000001498:INFO  ] makefile.def: Including C:\WINCE800\public\common\oak\misc\sources.ReleaseType_PLATFORM
+BUILD: [01:0000001544:INFO  ] .
+BUILD: [01:0000001576:PROGC ] Linking C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Retail\cesysgen\platform\rrm_ppc_windows\lib\ARMV7\retail\pm.lib
+BUILD: [01:0000001576:INFO  ] 	link.exe -lib  -out:C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Retail\cesysgen\platform\rrm_ppc_windows\lib\ARMV7\retail\pm.lib -def:C:\WINCE800\public\common\oak\inc\pm.def -machine:ARM @C:\Users\gh\AppData\Local\Temp\bld_53762\thr_13\nmE08D.tmp
+BUILD: [01:0000001810:INFO  ] Microsoft (R) Library Manager Version 11.00.50727.114
+BUILD: [01:0000001810:INFO  ] Copyright (C) Microsoft Corporation.  All rights reserved.
+BUILD: [01:0000001810:INFO  ] 
+BUILD: [01:0000001810:INFO  ] -nodefaultlib 
+BUILD: [01:0000001810:INFO  ] -ignore:4001 
+BUILD: [01:0000001810:INFO  ] /subsystem:windowsce,8.00 
+BUILD: [01:0000001810:INFO  ] C:\wince800\platform\rrm_ppc_windows\src\drivers\pm\pdd\obj\ARMV7\retail\platform.obj 
+BUILD: [01:0000001810:INFO  ] C:\wince800\platform\rrm_ppc_windows\src\drivers\pm\pdd\obj\ARMV7\retail\pwstatemgr.obj 
+BUILD: [01:0000001810:INFO  ] C:\wince800\platform\rrm_ppc_windows\src\drivers\pm\pdd\obj\ARMV7\retail\pwstates.obj 
+BUILD: [01:0000001810:INFO  ] C:\wince800\platform\rrm_ppc_windows\src\drivers\pm\pdd\obj\ARMV7\retail\pwrButton.obj 
+BUILD: [01:0000001810:INFO  ] C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Retail\cesysgen\oak\lib\ARMV7\retail\pm_mdd_lib.lib 
+BUILD: [01:0000001810:INFO  ] C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Retail\cesysgen\oak\lib\ARMV7\retail\pm_pdd_common_lib.lib 
+BUILD: [01:0000002028:INFO  ]    Creating library C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Retail\cesysgen\platform\rrm_ppc_windows\lib\ARMV7\retail\pm.lib and object C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Retail\cesysgen\platform\rrm_ppc_windows\lib\ARMV7\retail\pm.exp
+BUILD: [00:0000002106:PROGC ] Starting LINK Pass.
+BUILD: [00:0000002106:PROGC ] Analyzing project dependency information for pass LINK.
+BUILD: [00:0000002215:INFO  ] Will Build C:\wince800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\wince800\rrm_ppc_windows_armv7_retail\cesysgen\oak\lib\armv7\retail\pm_mdd_lib.lib because target: C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Retail\cesysgen\platform\rrm_ppc_windows\target\ARMV7\retail\pm.dll is missing.
+BUILD: [00:0000002215:INFO  ] Will Build C:\wince800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\wince800\rrm_ppc_windows_armv7_retail\cesysgen\oak\lib\armv7\retail\pm_pdd_common_lib.lib because target: C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Retail\cesysgen\platform\rrm_ppc_windows\target\ARMV7\retail\pm.dll is missing.
+BUILD: [00:0000002215:INFO  ] Will Build C:\wince800\public\common\oak\inc\pm.def because target: C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Retail\cesysgen\platform\rrm_ppc_windows\target\ARMV7\retail\pm.dll is missing.
+BUILD: [00:0000002215:INFO  ] Will Build C:\wince800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\wince800\rrm_ppc_windows_armv7_retail\cesysgen\sdk\lib\armv7\retail\coredll.lib because target: C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Retail\cesysgen\platform\rrm_ppc_windows\target\ARMV7\retail\pm.dll is missing.
+BUILD: [00:0000002215:INFO  ] Will Build C:\wince800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\wince800\rrm_ppc_windows_armv7_retail\cesysgen\sdk\lib\armv7\retail\ceosutil.lib because target: C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Retail\cesysgen\platform\rrm_ppc_windows\target\ARMV7\retail\pm.dll is missing.
+BUILD: [00:0000002215:INFO  ] Will Build C:\wince800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\wince800\rrm_ppc_windows_armv7_retail\cesysgen\oak\lib\armv7\retail\ceddk.lib because target: C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Retail\cesysgen\platform\rrm_ppc_windows\target\ARMV7\retail\pm.dll is missing.
+BUILD: [00:0000002215:INFO  ] Will Build C:\wince800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\wince800\rrm_ppc_windows_armv7_retail\cesysgen\platform\rrm_ppc_windows\lib\armv7\retail\cspddk.lib because target: C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Retail\cesysgen\platform\rrm_ppc_windows\target\ARMV7\retail\pm.dll is missing.
+BUILD: [00:0000002215:INFO  ] Will Build C:\wince800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\wince800\rrm_ppc_windows_armv7_retail\cesysgen\platcomm\rrm_ppc_windows\lib\armv7\retail\pwm_mx6_fsl_v4.lib because target: C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Retail\cesysgen\platform\rrm_ppc_windows\target\ARMV7\retail\pm.dll is missing.
+BUILD: [00:0000002215:INFO  ] Will Build C:\wince800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\wince800\rrm_ppc_windows_armv7_retail\cesysgen\oak\lib\armv7\retail\ccrt0.lib because target: C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Retail\cesysgen\platform\rrm_ppc_windows\target\ARMV7\retail\pm.dll is missing.
+BUILD: [00:0000002215:INFO  ] Will Build C:\wince800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\wince800\rrm_ppc_windows_armv7_retail\cesysgen\oak\lib\armv7\retail\msvcrt.lib because target: C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Retail\cesysgen\platform\rrm_ppc_windows\target\ARMV7\retail\pm.dll is missing.
+BUILD: [00:0000002215:INFO  ] Will Build C:\wince800\platform\rrm_ppc_windows\src\drivers\pm\pdd\obj\armv7\retail\platform.obj because target: C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Retail\cesysgen\platform\rrm_ppc_windows\target\ARMV7\retail\pm.dll is missing.
+BUILD: [00:0000002215:INFO  ] Will Build C:\wince800\platform\rrm_ppc_windows\src\drivers\pm\pdd\obj\armv7\retail\pwstatemgr.obj because target: C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Retail\cesysgen\platform\rrm_ppc_windows\target\ARMV7\retail\pm.dll is missing.
+BUILD: [00:0000002215:INFO  ] Will Build C:\wince800\platform\rrm_ppc_windows\src\drivers\pm\pdd\obj\armv7\retail\pwstates.obj because target: C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Retail\cesysgen\platform\rrm_ppc_windows\target\ARMV7\retail\pm.dll is missing.
+BUILD: [00:0000002215:INFO  ] Will Build C:\wince800\platform\rrm_ppc_windows\src\drivers\pm\pdd\obj\armv7\retail\pwrButton.obj because target: C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Retail\cesysgen\platform\rrm_ppc_windows\target\ARMV7\retail\pm.dll is missing.
+BUILD: [00:0000002215:INFO  ] Will Build C:\wince800\platform\rrm_ppc_windows\src\drivers\pm\pdd\ because target: C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Retail\cesysgen\platform\rrm_ppc_windows\target\ARMV7\retail\pm.dll is missing.
+BUILD: [00:0000002215:PROGC ] Building LINK Pass in C:\wince800\platform\rrm_ppc_windows\src\drivers\pm\pdd\ directory.
+BUILD: [00:0000002215:PROG  ] 'NMAKE.EXE TargetExeFiles  -nologo BUILDMSG=Stop.  BUILDROOT=C:\WINCE800\platform\rrm_ppc_windows LINKONLY=1 NOPASS0=1MAKEDLL=1' (SYNCHRONIZE_BLOCK = 0)
+BUILD: [00:0000002215:PROG  ] Waiting for 1 worker threads.
+BUILD: [01:0000002231:INFO  ] makefile.def: Including C:\WINCE800\public\common\oak\misc\Sources.default
+BUILD: [01:0000002231:INFO  ] makefile.def: BUILDROOT is C:\WINCE800\platform\rrm_ppc_windows
+BUILD: [01:0000002231:INFO  ] makefile.def: Including C:\WINCE800\platform\rrm_ppc_windows\sources.cmn
+BUILD: [01:0000002262:INFO  ] makefile.def: Including C:\wince800\platform\rrm_ppc_windows\src\drivers\pm\pdd\sources
+BUILD: [01:0000002262:INFO  ] makefile.def: Including C:\WINCE800\public\common\oak\misc\Sources.CE
+BUILD: [01:0000002278:INFO  ] Directory: C:\wince800\platform\rrm_ppc_windows\src\drivers\pm\pdd
+BUILD: [01:0000002278:INFO  ] TARGETNAME: pm
+BUILD: [01:0000002278:INFO  ] makefile.def: Including C:\WINCE800\public\common\oak\misc\sources.ReleaseType_PLATFORM
+BUILD: [01:0000002324:INFO  ] .
+BUILD: [01:0000002324:INFO  ] 	set LIB=
+BUILD: [01:0000002340:PROGC ] Linking C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Retail\cesysgen\platform\rrm_ppc_windows\target\ARMV7\retail\pm.dll
+BUILD: [01:0000002340:INFO  ] 	link.exe /LARGEADDRESSAWARE /filealign:0x1000 -out:C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Retail\cesysgen\platform\rrm_ppc_windows\target\ARMV7\retail\pm.dll -dll -machine:ARM @C:\Users\gh\AppData\Local\Temp\bld_53762\thr_14\nmE389.tmp
+BUILD: [01:0000002371:INFO  ] Microsoft (R) Incremental Linker Version 11.00.50727.114
+BUILD: [01:0000002371:INFO  ] Copyright (C) Microsoft Corporation.  All rights reserved.
+BUILD: [01:0000002371:INFO  ] 
+BUILD: [01:0000002371:INFO  ] -nodefaultlib 
+BUILD: [01:0000002371:INFO  ] -include:DllMain -entry:_DllMainCRTStartup 
+BUILD: [01:0000002371:INFO  ] -pdb:C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Retail\cesysgen\platform\rrm_ppc_windows\target\ARMV7\retail\pm.pdb 
+BUILD: [01:0000002371:INFO  ] -pdbaltpath:pm.pdb 
+BUILD: [01:0000002371:INFO  ] /opt:ref,icf /verbose 
+BUILD: [01:0000002371:INFO  ] -debug -incremental:no -debugtype:cv,fixup,PDATA -novcfeature 
+BUILD: [01:0000002371:INFO  ] -map:C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Retail\cesysgen\platform\rrm_ppc_windows\target\ARMV7\retail\pm.map 
+BUILD: [01:0000002371:INFO  ] -savebaserelocations:C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Retail\cesysgen\platform\rrm_ppc_windows\target\ARMV7\retail\pm.rel 
+BUILD: [01:0000002371:INFO  ] -MERGE:.rdata=.text -merge:.astart=.text -ignore:4001,4070,4078,4086,4089,4096,4099,4108,4229 /STACK:65536,4096 
+BUILD: [01:0000002371:INFO  ] /subsystem:windowsce,8.00 
+BUILD: [01:0000002371:INFO  ] /base:0x10000000 
+BUILD: [01:0000002371:INFO  ] C:\wince800\platform\rrm_ppc_windows\src\drivers\pm\pdd\obj\ARMV7\retail\platform.obj 
+BUILD: [01:0000002371:INFO  ] C:\wince800\platform\rrm_ppc_windows\src\drivers\pm\pdd\obj\ARMV7\retail\pwstatemgr.obj 
+BUILD: [01:0000002371:INFO  ] C:\wince800\platform\rrm_ppc_windows\src\drivers\pm\pdd\obj\ARMV7\retail\pwstates.obj 
+BUILD: [01:0000002371:INFO  ] C:\wince800\platform\rrm_ppc_windows\src\drivers\pm\pdd\obj\ARMV7\retail\pwrButton.obj 
+BUILD: [01:0000002371:INFO  ] C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Retail\cesysgen\oak\lib\ARMV7\retail\pm_mdd_lib.lib 
+BUILD: [01:0000002371:INFO  ] C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Retail\cesysgen\oak\lib\ARMV7\retail\pm_pdd_common_lib.lib 
+BUILD: [01:0000002371:INFO  ] C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Retail\cesysgen\sdk\lib\ARMV7\retail\coredll.lib 
+BUILD: [01:0000002371:INFO  ] C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Retail\cesysgen\sdk\lib\ARMV7\retail\ceosutil.lib 
+BUILD: [01:0000002371:INFO  ] C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Retail\cesysgen\oak\lib\ARMV7\retail\ceddk.lib 
+BUILD: [01:0000002371:INFO  ] C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Retail\cesysgen\platform\rrm_ppc_windows\lib\ARMV7\retail\cspddk.lib 
+BUILD: [01:0000002371:INFO  ] C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Retail\cesysgen\platcomm\rrm_ppc_windows\lib\ARMV7\retail\PWM_mx6_fsl_v4.lib 
+BUILD: [01:0000002371:INFO  ] C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Retail\cesysgen\oak\lib\ARMV7\retail\ccrt0.lib 
+BUILD: [01:0000002371:INFO  ] C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Retail\cesysgen\oak\lib\ARMV7\retail\msvcrt.lib 
+BUILD: [01:0000002371:INFO  ] C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Retail\cesysgen\platform\rrm_ppc_windows\lib\ARMV7\retail\pm.exp 
+BUILD: [01:0000002371:INFO  ] 
+BUILD: [01:0000002371:INFO  ] Starting pass 1
+BUILD: [01:0000002449:INFO  ] 
+BUILD: [01:0000002449:INFO  ] Searching libraries
+BUILD: [01:0000002449:INFO  ]     Searching C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Retail\cesysgen\oak\lib\ARMV7\retail\pm_mdd_lib.lib:
+BUILD: [01:0000002449:INFO  ]       Found DllMain
+BUILD: [01:0000002449:INFO  ]         Loaded pm_mdd_lib.lib(pminit.obj)
+BUILD: [01:0000002449:INFO  ]       Found RegQueryTypedValue
+BUILD: [01:0000002449:INFO  ]         Referenced in platform.obj
+BUILD: [01:0000002449:INFO  ]         Loaded pm_mdd_lib.lib(pmutils.obj)
+BUILD: [01:0000002465:INFO  ]       Found gDisplayInterface
+BUILD: [01:0000002465:INFO  ]         Referenced in platform.obj
+BUILD: [01:0000002465:INFO  ]         Loaded pm_mdd_lib.lib(pmdisplay.obj)
+BUILD: [01:0000002465:INFO  ]       Found gStreamInterface
+BUILD: [01:0000002465:INFO  ]         Referenced in platform.obj
+BUILD: [01:0000002465:INFO  ]         Loaded pm_mdd_lib.lib(pmstream.obj)
+BUILD: [01:0000002465:INFO  ]       Found PmUpdateSystemPowerStatesIfChanged
+BUILD: [01:0000002465:INFO  ]         Referenced in platform.obj
+BUILD: [01:0000002465:INFO  ]         Loaded pm_mdd_lib.lib(pmsysstate.obj)
+BUILD: [01:0000002465:INFO  ]       Found GenerateNotifications
+BUILD: [01:0000002465:INFO  ]         Referenced in platform.obj
+BUILD: [01:0000002465:INFO  ]         Loaded pm_mdd_lib.lib(pmnotify.obj)
+BUILD: [01:0000002465:INFO  ]       Found UpdateClassDeviceStates
+BUILD: [01:0000002465:INFO  ]         Referenced in platform.obj
+BUILD: [01:0000002465:INFO  ]         Loaded pm_mdd_lib.lib(pmdevice.obj)
+BUILD: [01:0000002480:INFO  ]       Found "int __cdecl PMExt_GetNotificationHandle(unsigned long &,void * * const)" (?PMExt_GetNotificationHandle@@YAHAAKQAPAX@Z)
+BUILD: [01:0000002480:INFO  ]         Referenced in pwstatemgr.obj
+BUILD: [01:0000002480:INFO  ]         Loaded pm_mdd_lib.lib(pmexthdl.obj)
+BUILD: [01:0000002480:INFO  ]       Found PmPowerHandler
+BUILD: [01:0000002480:INFO  ]         Referenced in pm.exp
+BUILD: [01:0000002480:INFO  ]         Loaded pm_mdd_lib.lib(pmresume.obj)
+BUILD: [01:0000002480:INFO  ]       Found PmRegisterPowerRelationship
+BUILD: [01:0000002480:INFO  ]         Referenced in pm.exp
+BUILD: [01:0000002480:INFO  ]         Loaded pm_mdd_lib.lib(pmrelation.obj)
+BUILD: [01:0000002480:INFO  ]       Found PmReleasePowerRequirement
+BUILD: [01:0000002480:INFO  ]         Referenced in pm.exp
+BUILD: [01:0000002480:INFO  ]         Loaded pm_mdd_lib.lib(pmrequire.obj)
+BUILD: [01:0000002480:INFO  ]       Found PnpThreadProc
+BUILD: [01:0000002480:INFO  ]         Referenced in pm_mdd_lib.lib(pminit.obj)
+BUILD: [01:0000002480:INFO  ]         Loaded pm_mdd_lib.lib(pmpnp.obj)
+BUILD: [01:0000002480:INFO  ]       Found ActivityTimersThreadProc
+BUILD: [01:0000002480:INFO  ]         Referenced in pm_mdd_lib.lib(pminit.obj)
+BUILD: [01:0000002480:INFO  ]         Loaded pm_mdd_lib.lib(pmtimer.obj)
+BUILD: [01:0000002480:INFO  ]       Found SystemThreadProc
+BUILD: [01:0000002480:INFO  ]         Referenced in pm_mdd_lib.lib(pminit.obj)
+BUILD: [01:0000002480:INFO  ]         Loaded pm_mdd_lib.lib(pmsystem.obj)
+BUILD: [01:0000002480:INFO  ]       Found PMSQM_Set
+BUILD: [01:0000002480:INFO  ]         Referenced in pm_mdd_lib.lib(pmsysstate.obj)
+BUILD: [01:0000002480:INFO  ]         Referenced in pm_mdd_lib.lib(pmdevice.obj)
+BUILD: [01:0000002480:INFO  ]         Loaded pm_mdd_lib.lib(pmsqm.obj)
+BUILD: [01:0000002480:INFO  ]       Found SqmGetManagedSession
+BUILD: [01:0000002480:INFO  ]         Referenced in pm_mdd_lib.lib(pmsqm.obj)
+BUILD: [01:0000002480:INFO  ]         Loaded pm_mdd_lib.lib(sqmproxy.obj)
+BUILD: [01:0000002496:INFO  ]     Searching C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Retail\cesysgen\oak\lib\ARMV7\retail\pm_pdd_common_lib.lib:
+BUILD: [01:0000002496:INFO  ]       Found PmInitPowerStatus
+BUILD: [01:0000002496:INFO  ]         Referenced in platform.obj
+BUILD: [01:0000002496:INFO  ]         Loaded pm_pdd_common_lib.lib(pddpower.obj)
+BUILD: [01:0000002496:INFO  ]       Found PmPolicyCreateNotificationQueue
+BUILD: [01:0000002496:INFO  ]         Referenced in platform.obj
+BUILD: [01:0000002496:INFO  ]         Referenced in pwstatemgr.obj
+BUILD: [01:0000002496:INFO  ]         Loaded pm_pdd_common_lib.lib(pddpolicy.obj)
+BUILD: [01:0000002496:INFO  ]       Found PlatformSendInitialNotifications
+BUILD: [01:0000002496:INFO  ]         Referenced in pm_mdd_lib.lib(pmnotify.obj)
+BUILD: [01:0000002496:INFO  ]         Loaded pm_pdd_common_lib.lib(pddnotify.obj)
+BUILD: [01:0000002496:INFO  ]     Searching C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Retail\cesysgen\sdk\lib\ARMV7\retail\coredll.lib:
+BUILD: [01:0000002496:INFO  ]       Found EventModify
+BUILD: [01:0000002496:INFO  ]         Referenced in pm_mdd_lib.lib(pmresume.obj)
+BUILD: [01:0000002496:INFO  ]         Referenced in pm_mdd_lib.lib(pmpnp.obj)
+BUILD: [01:0000002496:INFO  ]         Referenced in pm_mdd_lib.lib(pmtimer.obj)
+BUILD: [01:0000002496:INFO  ]         Referenced in pm_mdd_lib.lib(pmsqm.obj)
+BUILD: [01:0000002496:INFO  ]         Referenced in platform.obj
+BUILD: [01:0000002496:INFO  ]         Referenced in pwstatemgr.obj
+BUILD: [01:0000002496:INFO  ]         Referenced in pm_mdd_lib.lib(pminit.obj)
+BUILD: [01:0000002496:INFO  ]         Referenced in pm_mdd_lib.lib(pmsysstate.obj)
+BUILD: [01:0000002496:INFO  ]         Loaded coredll.lib(COREDLL.dll)
+BUILD: [01:0000002496:INFO  ]       Found __GetUserKData
+BUILD: [01:0000002496:INFO  ]         Referenced in platform.obj
+BUILD: [01:0000002496:INFO  ]         Referenced in pwstatemgr.obj
+BUILD: [01:0000002496:INFO  ]         Referenced in pm_mdd_lib.lib(pmsqm.obj)
+BUILD: [01:0000002496:INFO  ]         Loaded coredll.lib(COREDLL.dll)
+BUILD: [01:0000002496:INFO  ]       Found StringCchVPrintfW
+BUILD: [01:0000002496:INFO  ]         Referenced in platform.obj
+BUILD: [01:0000002496:INFO  ]         Referenced in pwstatemgr.obj
+BUILD: [01:0000002496:INFO  ]         Referenced in pwstates.obj
+BUILD: [01:0000002496:INFO  ]         Loaded coredll.lib(COREDLL.dll)
+BUILD: [01:0000002496:INFO  ]       Found StringCchLengthW
+BUILD: [01:0000002496:INFO  ]         Referenced in platform.obj
+BUILD: [01:0000002496:INFO  ]         Referenced in pwstatemgr.obj
+BUILD: [01:0000002496:INFO  ]         Referenced in pwstates.obj
+BUILD: [01:0000002496:INFO  ]         Loaded coredll.lib(COREDLL.dll)
+BUILD: [01:0000002496:INFO  ]       Found CeLogData
+BUILD: [01:0000002496:INFO  ]         Referenced in platform.obj
+BUILD: [01:0000002496:INFO  ]         Referenced in pwstatemgr.obj
+BUILD: [01:0000002496:INFO  ]         Referenced in pwstates.obj
+BUILD: [01:0000002496:INFO  ]         Loaded coredll.lib(COREDLL.dll)
+BUILD: [01:0000002496:INFO  ]       Found EnterCriticalSection
+BUILD: [01:0000002496:INFO  ]         Referenced in pm_mdd_lib.lib(sqmproxy.obj)
+BUILD: [01:0000002496:INFO  ]         Referenced in platform.obj
+BUILD: [01:0000002496:INFO  ]         Referenced in pwstatemgr.obj
+BUILD: [01:0000002496:INFO  ]         Referenced in pm_mdd_lib.lib(pmutils.obj)
+BUILD: [01:0000002496:INFO  ]         Referenced in pm_mdd_lib.lib(pmsysstate.obj)
+BUILD: [01:0000002496:INFO  ]         Loaded coredll.lib(COREDLL.dll)
+BUILD: [01:0000002496:INFO  ]       Found LeaveCriticalSection
+BUILD: [01:0000002496:INFO  ]         Referenced in pm_mdd_lib.lib(sqmproxy.obj)
+BUILD: [01:0000002496:INFO  ]         Referenced in platform.obj
+BUILD: [01:0000002496:INFO  ]         Referenced in pwstatemgr.obj
+BUILD: [01:0000002496:INFO  ]         Referenced in pm_mdd_lib.lib(pmutils.obj)
+BUILD: [01:0000002496:INFO  ]         Referenced in pm_mdd_lib.lib(pmsysstate.obj)
+BUILD: [01:0000002496:INFO  ]         Loaded coredll.lib(COREDLL.dll)
+BUILD: [01:0000002496:INFO  ]       Found StringCchCopyW
+BUILD: [01:0000002496:INFO  ]         Referenced in platform.obj
+BUILD: [01:0000002496:INFO  ]         Referenced in pwstatemgr.obj
+BUILD: [01:0000002496:INFO  ]         Referenced in pm_mdd_lib.lib(pmutils.obj)
+BUILD: [01:0000002496:INFO  ]         Referenced in pm_mdd_lib.lib(pmsysstate.obj)
+BUILD: [01:0000002496:INFO  ]         Loaded coredll.lib(COREDLL.dll)
+BUILD: [01:0000002496:INFO  ]       Found RegQueryValueExW
+BUILD: [01:0000002496:INFO  ]         Referenced in pm_mdd_lib.lib(pmexthdl.obj)
+BUILD: [01:0000002496:INFO  ]         Referenced in pm_mdd_lib.lib(pmtimer.obj)
+BUILD: [01:0000002496:INFO  ]         Referenced in platform.obj
+BUILD: [01:0000002496:INFO  ]         Referenced in pwstatemgr.obj
+BUILD: [01:0000002496:INFO  ]         Referenced in pm_mdd_lib.lib(pmutils.obj)
+BUILD: [01:0000002496:INFO  ]         Referenced in pm_mdd_lib.lib(pmsysstate.obj)
+BUILD: [01:0000002496:INFO  ]         Loaded coredll.lib(COREDLL.dll)
+BUILD: [01:0000002496:INFO  ]       Found KernelIoControl
+BUILD: [01:0000002496:INFO  ]         Referenced in platform.obj
+BUILD: [01:0000002496:INFO  ]         Referenced in pwrButton.obj
+BUILD: [01:0000002496:INFO  ]         Loaded coredll.lib(COREDLL.dll)
+BUILD: [01:0000002496:INFO  ]       Found CeGetThreadPriority
+BUILD: [01:0000002496:INFO  ]         Referenced in platform.obj
+BUILD: [01:0000002496:INFO  ]         Loaded coredll.lib(COREDLL.dll)
+BUILD: [01:0000002496:INFO  ]       Found CeSetThreadPriority
+BUILD: [01:0000002496:INFO  ]         Referenced in pm_mdd_lib.lib(pmtimer.obj)
+BUILD: [01:0000002496:INFO  ]         Referenced in pm_mdd_lib.lib(pmsystem.obj)
+BUILD: [01:0000002496:INFO  ]         Referenced in platform.obj
+BUILD: [01:0000002496:INFO  ]         Referenced in pwrButton.obj
+BUILD: [01:0000002496:INFO  ]         Referenced in pm_mdd_lib.lib(pmresume.obj)
+BUILD: [01:0000002496:INFO  ]         Referenced in pm_mdd_lib.lib(pmpnp.obj)
+BUILD: [01:0000002496:INFO  ]         Loaded coredll.lib(COREDLL.dll)
+BUILD: [01:0000002496:INFO  ]       Found RegCreateKeyExW
+BUILD: [01:0000002496:INFO  ]         Referenced in platform.obj
+BUILD: [01:0000002496:INFO  ]         Referenced in pwstates.obj
+BUILD: [01:0000002496:INFO  ]         Loaded coredll.lib(COREDLL.dll)
+BUILD: [01:0000002496:INFO  ]       Found RegSetValueExW
+BUILD: [01:0000002496:INFO  ]         Referenced in platform.obj
+BUILD: [01:0000002496:INFO  ]         Referenced in pwstates.obj
+BUILD: [01:0000002496:INFO  ]         Loaded coredll.lib(COREDLL.dll)
+BUILD: [01:0000002496:INFO  ]       Found RegCloseKey
+BUILD: [01:0000002496:INFO  ]         Referenced in pm_mdd_lib.lib(pmutils.obj)
+BUILD: [01:0000002496:INFO  ]         Referenced in pm_mdd_lib.lib(pmsysstate.obj)
+BUILD: [01:0000002496:INFO  ]         Referenced in pm_mdd_lib.lib(pmexthdl.obj)
+BUILD: [01:0000002496:INFO  ]         Referenced in pm_mdd_lib.lib(pmtimer.obj)
+BUILD: [01:0000002496:INFO  ]         Referenced in platform.obj
+BUILD: [01:0000002496:INFO  ]         Referenced in pwstatemgr.obj
+BUILD: [01:0000002496:INFO  ]         Referenced in pwstates.obj
+BUILD: [01:0000002496:INFO  ]         Referenced in pm_mdd_lib.lib(pminit.obj)
+BUILD: [01:0000002496:INFO  ]         Loaded coredll.lib(COREDLL.dll)
+BUILD: [01:0000002496:INFO  ]       Found LoadLibraryW
+BUILD: [01:0000002496:INFO  ]         Referenced in platform.obj
+BUILD: [01:0000002496:INFO  ]         Referenced in pm_mdd_lib.lib(pmdisplay.obj)
+BUILD: [01:0000002496:INFO  ]         Referenced in pm_mdd_lib.lib(pmexthdl.obj)
+BUILD: [01:0000002496:INFO  ]         Referenced in pm_mdd_lib.lib(sqmproxy.obj)
+BUILD: [01:0000002496:INFO  ]         Loaded coredll.lib(COREDLL.dll)
+BUILD: [01:0000002496:INFO  ]       Found GetProcAddressW
+BUILD: [01:0000002496:INFO  ]         Referenced in pm_pdd_common_lib.lib(pddpower.obj)
+BUILD: [01:0000002496:INFO  ]         Referenced in platform.obj
+BUILD: [01:0000002496:INFO  ]         Referenced in pm_mdd_lib.lib(pmdisplay.obj)
+BUILD: [01:0000002496:INFO  ]         Referenced in pm_mdd_lib.lib(pmexthdl.obj)
+BUILD: [01:0000002496:INFO  ]         Referenced in pm_mdd_lib.lib(sqmproxy.obj)
+BUILD: [01:0000002496:INFO  ]         Loaded coredll.lib(COREDLL.dll)
+BUILD: [01:0000002496:INFO  ]       Found CreateEventW
+BUILD: [01:0000002496:INFO  ]         Referenced in pm_mdd_lib.lib(pmsqm.obj)
+BUILD: [01:0000002496:INFO  ]         Referenced in pm_mdd_lib.lib(pminit.obj)
+BUILD: [01:0000002496:INFO  ]         Referenced in pm_mdd_lib.lib(pmutils.obj)
+BUILD: [01:0000002496:INFO  ]         Referenced in pm_mdd_lib.lib(pmsysstate.obj)
+BUILD: [01:0000002496:INFO  ]         Referenced in pm_mdd_lib.lib(pmtimer.obj)
+BUILD: [01:0000002496:INFO  ]         Referenced in platform.obj
+BUILD: [01:0000002496:INFO  ]         Referenced in pwstatemgr.obj
+BUILD: [01:0000002496:INFO  ]         Referenced in pwstates.obj
+BUILD: [01:0000002496:INFO  ]         Referenced in pwrButton.obj
+BUILD: [01:0000002496:INFO  ]         Loaded coredll.lib(COREDLL.dll)
+BUILD: [01:0000002496:INFO  ]       Found CloseHandle
+BUILD: [01:0000002496:INFO  ]         Referenced in pm_mdd_lib.lib(pmsqm.obj)
+BUILD: [01:0000002496:INFO  ]         Referenced in pm_mdd_lib.lib(pmutils.obj)
+BUILD: [01:0000002496:INFO  ]         Referenced in pm_mdd_lib.lib(pmstream.obj)
+BUILD: [01:0000002496:INFO  ]         Referenced in pm_mdd_lib.lib(pmsysstate.obj)
+BUILD: [01:0000002496:INFO  ]         Referenced in pm_mdd_lib.lib(pmtimer.obj)
+BUILD: [01:0000002496:INFO  ]         Referenced in platform.obj
+BUILD: [01:0000002496:INFO  ]         Referenced in pwstatemgr.obj
+BUILD: [01:0000002496:INFO  ]         Referenced in pwstates.obj
+BUILD: [01:0000002496:INFO  ]         Referenced in pm_mdd_lib.lib(pminit.obj)
+BUILD: [01:0000002496:INFO  ]         Loaded coredll.lib(COREDLL.dll)
+BUILD: [01:0000002496:INFO  ]       Found FreeLibrary
+BUILD: [01:0000002496:INFO  ]         Referenced in platform.obj
+BUILD: [01:0000002496:INFO  ]         Referenced in pm_mdd_lib.lib(pmdisplay.obj)
+BUILD: [01:0000002496:INFO  ]         Referenced in pm_mdd_lib.lib(pmexthdl.obj)
+BUILD: [01:0000002496:INFO  ]         Referenced in pm_mdd_lib.lib(sqmproxy.obj)
+BUILD: [01:0000002496:INFO  ]         Loaded coredll.lib(COREDLL.dll)
+BUILD: [01:0000002496:INFO  ]       Found RegEnumKeyExW
+BUILD: [01:0000002496:INFO  ]         Referenced in platform.obj
+BUILD: [01:0000002496:INFO  ]         Referenced in pm_mdd_lib.lib(pmsysstate.obj)
+BUILD: [01:0000002496:INFO  ]         Referenced in pm_mdd_lib.lib(pmexthdl.obj)
+BUILD: [01:0000002496:INFO  ]         Referenced in pm_mdd_lib.lib(pmtimer.obj)
+BUILD: [01:0000002496:INFO  ]         Loaded coredll.lib(COREDLL.dll)
+BUILD: [01:0000002496:INFO  ]       Found RegEnumValueW
+BUILD: [01:0000002496:INFO  ]         Referenced in platform.obj
+BUILD: [01:0000002496:INFO  ]         Referenced in pm_mdd_lib.lib(pminit.obj)
+BUILD: [01:0000002496:INFO  ]         Referenced in pm_mdd_lib.lib(pmsysstate.obj)
+BUILD: [01:0000002496:INFO  ]         Loaded coredll.lib(COREDLL.dll)
+BUILD: [01:0000002496:INFO  ]       Found RegOpenKeyExW
+BUILD: [01:0000002496:INFO  ]         Referenced in pm_mdd_lib.lib(pmsysstate.obj)
+BUILD: [01:0000002496:INFO  ]         Referenced in pm_mdd_lib.lib(pmexthdl.obj)
+BUILD: [01:0000002496:INFO  ]         Referenced in pm_mdd_lib.lib(pmtimer.obj)
+BUILD: [01:0000002496:INFO  ]         Referenced in platform.obj
+BUILD: [01:0000002496:INFO  ]         Referenced in pwstatemgr.obj
+BUILD: [01:0000002496:INFO  ]         Referenced in pm_mdd_lib.lib(pminit.obj)
+BUILD: [01:0000002496:INFO  ]         Referenced in pm_mdd_lib.lib(pmutils.obj)
+BUILD: [01:0000002496:INFO  ]         Loaded coredll.lib(COREDLL.dll)
+BUILD: [01:0000002496:INFO  ]       Found CeFindNextRegChange
+BUILD: [01:0000002496:INFO  ]         Referenced in platform.obj
+BUILD: [01:0000002496:INFO  ]         Referenced in pwstatemgr.obj
+BUILD: [01:0000002496:INFO  ]         Referenced in pm_mdd_lib.lib(pmsysstate.obj)
+BUILD: [01:0000002512:INFO  ]         Loaded coredll.lib(COREDLL.dll)
+BUILD: [01:0000002512:INFO  ]       Found WaitForAPIReady
+BUILD: [01:0000002512:INFO  ]         Referenced in platform.obj
+BUILD: [01:0000002512:INFO  ]         Referenced in pm_mdd_lib.lib(pmdisplay.obj)
+BUILD: [01:0000002512:INFO  ]         Loaded coredll.lib(COREDLL.dll)
+BUILD: [01:0000002512:INFO  ]       Found Sleep
+BUILD: [01:0000002512:INFO  ]         Referenced in platform.obj
+BUILD: [01:0000002512:INFO  ]         Referenced in pwrButton.obj
+BUILD: [01:0000002512:INFO  ]         Referenced in pm_mdd_lib.lib(pmtimer.obj)
+BUILD: [01:0000002512:INFO  ]         Referenced in pm_mdd_lib.lib(pmsqm.obj)
+BUILD: [01:0000002512:INFO  ]         Loaded coredll.lib(COREDLL.dll)
+BUILD: [01:0000002512:INFO  ]       Found ForcePageout
+BUILD: [01:0000002512:INFO  ]         Referenced in platform.obj
+BUILD: [01:0000002512:INFO  ]         Loaded coredll.lib(COREDLL.dll)
+BUILD: [01:0000002512:INFO  ]       Found SetCleanRebootFlag
+BUILD: [01:0000002512:INFO  ]         Referenced in platform.obj
+BUILD: [01:0000002512:INFO  ]         Loaded coredll.lib(COREDLL.dll)
+BUILD: [01:0000002512:INFO  ]       Found FileSystemPowerFunction
+BUILD: [01:0000002512:INFO  ]         Referenced in platform.obj
+BUILD: [01:0000002512:INFO  ]         Loaded coredll.lib(COREDLL.dll)
+BUILD: [01:0000002512:INFO  ]       Found KernelLibIoControl
+BUILD: [01:0000002512:INFO  ]         Referenced in platform.obj
+BUILD: [01:0000002512:INFO  ]         Referenced in pm_mdd_lib.lib(pmnotify.obj)
+BUILD: [01:0000002512:INFO  ]         Loaded coredll.lib(COREDLL.dll)
+BUILD: [01:0000002512:INFO  ]       Found NKDbgPrintfW
+BUILD: [01:0000002512:INFO  ]         Referenced in platform.obj
+BUILD: [01:0000002512:INFO  ]         Referenced in pwrButton.obj
+BUILD: [01:0000002512:INFO  ]         Loaded coredll.lib(COREDLL.dll)
+BUILD: [01:0000002512:INFO  ]       Found PowerOffSystem
+BUILD: [01:0000002512:INFO  ]         Referenced in platform.obj
+BUILD: [01:0000002512:INFO  ]         Loaded coredll.lib(COREDLL.dll)
+BUILD: [01:0000002512:INFO  ]       Found InitializeCriticalSection
+BUILD: [01:0000002512:INFO  ]         Referenced in pwstatemgr.obj
+BUILD: [01:0000002512:INFO  ]         Referenced in pm_mdd_lib.lib(pminit.obj)
+BUILD: [01:0000002512:INFO  ]         Referenced in pm_mdd_lib.lib(pmsysstate.obj)
+BUILD: [01:0000002512:INFO  ]         Referenced in pm_mdd_lib.lib(sqmproxy.obj)
+BUILD: [01:0000002512:INFO  ]         Loaded coredll.lib(COREDLL.dll)
+BUILD: [01:0000002512:INFO  ]       Found DeleteCriticalSection
+BUILD: [01:0000002512:INFO  ]         Referenced in pwstatemgr.obj
+BUILD: [01:0000002512:INFO  ]         Referenced in pm_mdd_lib.lib(pmsysstate.obj)
+BUILD: [01:0000002512:INFO  ]         Referenced in pm_mdd_lib.lib(sqmproxy.obj)
+BUILD: [01:0000002512:INFO  ]         Loaded coredll.lib(COREDLL.dll)
+BUILD: [01:0000002512:INFO  ]       Found WaitForSingleObject
+BUILD: [01:0000002512:INFO  ]         Referenced in pm_mdd_lib.lib(pmtimer.obj)
+BUILD: [01:0000002512:INFO  ]         Referenced in pm_mdd_lib.lib(pmsqm.obj)
+BUILD: [01:0000002512:INFO  ]         Referenced in pwstatemgr.obj
+BUILD: [01:0000002512:INFO  ]         Referenced in pwrButton.obj
+BUILD: [01:0000002512:INFO  ]         Referenced in pm_mdd_lib.lib(pminit.obj)
+BUILD: [01:0000002512:INFO  ]         Referenced in pm_mdd_lib.lib(pmsysstate.obj)
+BUILD: [01:0000002512:INFO  ]         Loaded coredll.lib(COREDLL.dll)
+BUILD: [01:0000002512:INFO  ]       Found CaptureDumpFileOnDevice
+BUILD: [01:0000002512:INFO  ]         Referenced in pwstatemgr.obj
+BUILD: [01:0000002512:INFO  ]         Loaded coredll.lib(COREDLL.dll)
+BUILD: [01:0000002512:INFO  ]       Found CeFindFirstRegChange
+BUILD: [01:0000002512:INFO  ]         Referenced in pwstatemgr.obj
+BUILD: [01:0000002512:INFO  ]         Referenced in pm_mdd_lib.lib(pmsysstate.obj)
+BUILD: [01:0000002512:INFO  ]         Loaded coredll.lib(COREDLL.dll)
+BUILD: [01:0000002512:INFO  ]       Found StringCchPrintfW
+BUILD: [01:0000002512:INFO  ]         Referenced in pm_mdd_lib.lib(pmtimer.obj)
+BUILD: [01:0000002512:INFO  ]         Referenced in pwstatemgr.obj
+BUILD: [01:0000002512:INFO  ]         Referenced in pwstates.obj
+BUILD: [01:0000002512:INFO  ]         Referenced in pm_mdd_lib.lib(pminit.obj)
+BUILD: [01:0000002512:INFO  ]         Referenced in pm_mdd_lib.lib(pmutils.obj)
+BUILD: [01:0000002512:INFO  ]         Loaded coredll.lib(COREDLL.dll)
+BUILD: [01:0000002512:INFO  ]       Found OpenEventW
+BUILD: [01:0000002512:INFO  ]         Referenced in pwstatemgr.obj
+BUILD: [01:0000002512:INFO  ]         Referenced in pm_mdd_lib.lib(pmsysstate.obj)
+BUILD: [01:0000002512:INFO  ]         Loaded coredll.lib(COREDLL.dll)
+BUILD: [01:0000002512:INFO  ]       Found WaitForMultipleObjects
+BUILD: [01:0000002512:INFO  ]         Referenced in pm_mdd_lib.lib(pmresume.obj)
+BUILD: [01:0000002512:INFO  ]         Referenced in pm_mdd_lib.lib(pmpnp.obj)
+BUILD: [01:0000002512:INFO  ]         Referenced in pm_mdd_lib.lib(pmtimer.obj)
+BUILD: [01:0000002512:INFO  ]         Referenced in pm_mdd_lib.lib(pmsqm.obj)
+BUILD: [01:0000002512:INFO  ]         Referenced in pwstatemgr.obj
+BUILD: [01:0000002512:INFO  ]         Referenced in pwstates.obj
+BUILD: [01:0000002512:INFO  ]         Referenced in pm_mdd_lib.lib(pminit.obj)
+BUILD: [01:0000002512:INFO  ]         Referenced in pm_mdd_lib.lib(pmsysstate.obj)
+BUILD: [01:0000002512:INFO  ]         Loaded coredll.lib(COREDLL.dll)
+BUILD: [01:0000002512:INFO  ]       Found GetTickCount
+BUILD: [01:0000002512:INFO  ]         Referenced in pwstates.obj
+BUILD: [01:0000002512:INFO  ]         Referenced in pwrButton.obj
+BUILD: [01:0000002512:INFO  ]         Referenced in pm_mdd_lib.lib(pmtimer.obj)
+BUILD: [01:0000002512:INFO  ]         Loaded coredll.lib(COREDLL.dll)
+BUILD: [01:0000002512:INFO  ]       Found GetSystemPowerState
+BUILD: [01:0000002512:INFO  ]         Referenced in pwrButton.obj
+BUILD: [01:0000002512:INFO  ]         Loaded coredll.lib(COREDLL.dll)
+BUILD: [01:0000002512:INFO  ]       Found InterruptDone
+BUILD: [01:0000002512:INFO  ]         Referenced in pwrButton.obj
+BUILD: [01:0000002512:INFO  ]         Loaded coredll.lib(COREDLL.dll)
+BUILD: [01:0000002512:INFO  ]       Found InterruptInitialize
+BUILD: [01:0000002512:INFO  ]         Referenced in pwrButton.obj
+BUILD: [01:0000002512:INFO  ]         Loaded coredll.lib(COREDLL.dll)
+BUILD: [01:0000002512:INFO  ]       Found CreateThread
+BUILD: [01:0000002512:INFO  ]         Referenced in pwrButton.obj
+BUILD: [01:0000002512:INFO  ]         Referenced in pm_mdd_lib.lib(pminit.obj)
+BUILD: [01:0000002512:INFO  ]         Referenced in pm_mdd_lib.lib(pmsysstate.obj)
+BUILD: [01:0000002512:INFO  ]         Referenced in pm_mdd_lib.lib(pmsqm.obj)
+BUILD: [01:0000002512:INFO  ]         Loaded coredll.lib(COREDLL.dll)
+BUILD: [01:0000002512:INFO  ]       Found DisableThreadLibraryCalls
+BUILD: [01:0000002512:INFO  ]         Referenced in pm_mdd_lib.lib(pminit.obj)
+BUILD: [01:0000002512:INFO  ]         Loaded coredll.lib(COREDLL.dll)
+BUILD: [01:0000002512:INFO  ]       Found GetProcessHeap
+BUILD: [01:0000002512:INFO  ]         Referenced in pm_mdd_lib.lib(pminit.obj)
+BUILD: [01:0000002512:INFO  ]         Loaded coredll.lib(COREDLL.dll)
+BUILD: [01:0000002512:INFO  ]       Found HeapAlloc
+BUILD: [01:0000002512:INFO  ]         Referenced in pm_mdd_lib.lib(pmutils.obj)
+BUILD: [01:0000002512:INFO  ]         Loaded coredll.lib(COREDLL.dll)
+BUILD: [01:0000002512:INFO  ]       Found HeapFree
+BUILD: [01:0000002512:INFO  ]         Referenced in pm_mdd_lib.lib(pmutils.obj)
+BUILD: [01:0000002512:INFO  ]         Loaded coredll.lib(COREDLL.dll)
+BUILD: [01:0000002512:INFO  ]       Found CloseMsgQueue
+BUILD: [01:0000002512:INFO  ]         Referenced in pm_mdd_lib.lib(pmutils.obj)
+BUILD: [01:0000002512:INFO  ]         Referenced in pm_pdd_common_lib.lib(pddpolicy.obj)
+BUILD: [01:0000002512:INFO  ]         Loaded coredll.lib(COREDLL.dll)
+BUILD: [01:0000002512:INFO  ]       Found CreateMsgQueue
+BUILD: [01:0000002512:INFO  ]         Referenced in pm_mdd_lib.lib(pmutils.obj)
+BUILD: [01:0000002512:INFO  ]         Referenced in pm_pdd_common_lib.lib(pddpolicy.obj)
+BUILD: [01:0000002512:INFO  ]         Loaded coredll.lib(COREDLL.dll)
+BUILD: [01:0000002512:INFO  ]       Found GetLastError
+BUILD: [01:0000002512:INFO  ]         Referenced in pm_mdd_lib.lib(pmutils.obj)
+BUILD: [01:0000002512:INFO  ]         Referenced in pm_mdd_lib.lib(pmnotify.obj)
+BUILD: [01:0000002512:INFO  ]         Referenced in pm_mdd_lib.lib(pmdevice.obj)
+BUILD: [01:0000002512:INFO  ]         Referenced in pm_pdd_common_lib.lib(pddpolicy.obj)
+BUILD: [01:0000002512:INFO  ]         Loaded coredll.lib(COREDLL.dll)
+BUILD: [01:0000002512:INFO  ]       Found OpenMsgQueue
+BUILD: [01:0000002512:INFO  ]         Referenced in pm_mdd_lib.lib(pmutils.obj)
+BUILD: [01:0000002512:INFO  ]         Loaded coredll.lib(COREDLL.dll)
+BUILD: [01:0000002512:INFO  ]       Found StringCbCopyW
+BUILD: [01:0000002512:INFO  ]         Referenced in pm_mdd_lib.lib(pmutils.obj)
+BUILD: [01:0000002512:INFO  ]         Referenced in pm_mdd_lib.lib(pmsysstate.obj)
+BUILD: [01:0000002512:INFO  ]         Loaded coredll.lib(COREDLL.dll)
+BUILD: [01:0000002512:INFO  ]       Found CreateFileW
+BUILD: [01:0000002512:INFO  ]         Referenced in pm_mdd_lib.lib(pmstream.obj)
+BUILD: [01:0000002512:INFO  ]         Loaded coredll.lib(COREDLL.dll)
+BUILD: [01:0000002512:INFO  ]       Found DeviceIoControl
+BUILD: [01:0000002512:INFO  ]         Referenced in pm_mdd_lib.lib(pmstream.obj)
+BUILD: [01:0000002512:INFO  ]         Loaded coredll.lib(COREDLL.dll)
+BUILD: [01:0000002512:INFO  ]       Found TerminateThread
+BUILD: [01:0000002512:INFO  ]         Referenced in pm_mdd_lib.lib(pmsysstate.obj)
+BUILD: [01:0000002512:INFO  ]         Referenced in pm_mdd_lib.lib(pmsqm.obj)
+BUILD: [01:0000002512:INFO  ]         Loaded coredll.lib(COREDLL.dll)
+BUILD: [01:0000002512:INFO  ]       Found ExitThread
+BUILD: [01:0000002512:INFO  ]         Referenced in pm_mdd_lib.lib(pmsysstate.obj)
+BUILD: [01:0000002512:INFO  ]         Loaded coredll.lib(COREDLL.dll)
+BUILD: [01:0000002512:INFO  ]       Found InterlockedIncrement
+BUILD: [01:0000002512:INFO  ]         Referenced in pm_mdd_lib.lib(pmsysstate.obj)
+BUILD: [01:0000002512:INFO  ]         Loaded coredll.lib(COREDLL.dll)
+BUILD: [01:0000002512:INFO  ]       Found InterlockedDecrement
+BUILD: [01:0000002512:INFO  ]         Referenced in pm_mdd_lib.lib(pmsysstate.obj)
+BUILD: [01:0000002512:INFO  ]         Loaded coredll.lib(COREDLL.dll)
+BUILD: [01:0000002512:INFO  ]       Found ResumeThread
+BUILD: [01:0000002512:INFO  ]         Referenced in pm_mdd_lib.lib(pmsysstate.obj)
+BUILD: [01:0000002512:INFO  ]         Loaded coredll.lib(COREDLL.dll)
+BUILD: [01:0000002512:INFO  ]       Found CeFindCloseRegChange
+BUILD: [01:0000002512:INFO  ]         Referenced in pm_mdd_lib.lib(pmsysstate.obj)
+BUILD: [01:0000002512:INFO  ]         Loaded coredll.lib(COREDLL.dll)
+BUILD: [01:0000002512:INFO  ]       Found StringCbPrintfW
+BUILD: [01:0000002512:INFO  ]         Referenced in pm_mdd_lib.lib(pmsysstate.obj)
+BUILD: [01:0000002512:INFO  ]         Loaded coredll.lib(COREDLL.dll)
+BUILD: [01:0000002512:INFO  ]       Found WriteMsgQueue
+BUILD: [01:0000002512:INFO  ]         Referenced in pm_mdd_lib.lib(pmnotify.obj)
+BUILD: [01:0000002512:INFO  ]         Loaded coredll.lib(COREDLL.dll)
+BUILD: [01:0000002512:INFO  ]       Found GetCallerVMProcessId
+BUILD: [01:0000002512:INFO  ]         Referenced in pm_mdd_lib.lib(pmnotify.obj)
+BUILD: [01:0000002512:INFO  ]         Referenced in pm_mdd_lib.lib(pmrequire.obj)
+BUILD: [01:0000002512:INFO  ]         Loaded coredll.lib(COREDLL.dll)
+BUILD: [01:0000002512:INFO  ]       Found SetLastError
+BUILD: [01:0000002512:INFO  ]         Referenced in pm_mdd_lib.lib(pmnotify.obj)
+BUILD: [01:0000002512:INFO  ]         Referenced in pm_mdd_lib.lib(pmrelation.obj)
+BUILD: [01:0000002512:INFO  ]         Referenced in pm_mdd_lib.lib(pmrequire.obj)
+BUILD: [01:0000002512:INFO  ]         Loaded coredll.lib(COREDLL.dll)
+BUILD: [01:0000002512:INFO  ]       Found CeGetRawTime
+BUILD: [01:0000002512:INFO  ]         Referenced in pm_mdd_lib.lib(pmdevice.obj)
+BUILD: [01:0000002512:INFO  ]         Referenced in pm_pdd_common_lib.lib(pddpower.obj)
+BUILD: [01:0000002512:INFO  ]         Loaded coredll.lib(COREDLL.dll)
+BUILD: [01:0000002512:INFO  ]       Found LoadDriver
+BUILD: [01:0000002512:INFO  ]         Referenced in pm_mdd_lib.lib(pmexthdl.obj)
+BUILD: [01:0000002512:INFO  ]         Loaded coredll.lib(COREDLL.dll)
+BUILD: [01:0000002512:INFO  ]       Found CeSetPowerOnEvent
+BUILD: [01:0000002512:INFO  ]         Referenced in pm_mdd_lib.lib(pmresume.obj)
+BUILD: [01:0000002512:INFO  ]         Loaded coredll.lib(COREDLL.dll)
+BUILD: [01:0000002527:INFO  ]       Found ReadMsgQueue
+BUILD: [01:0000002527:INFO  ]         Referenced in pm_mdd_lib.lib(pmpnp.obj)
+BUILD: [01:0000002527:INFO  ]         Referenced in pm_pdd_common_lib.lib(pddpolicy.obj)
+BUILD: [01:0000002527:INFO  ]         Loaded coredll.lib(COREDLL.dll)
+BUILD: [01:0000002527:INFO  ]       Found RequestDeviceNotifications
+BUILD: [01:0000002527:INFO  ]         Referenced in pm_mdd_lib.lib(pmpnp.obj)
+BUILD: [01:0000002527:INFO  ]         Loaded coredll.lib(COREDLL.dll)
+BUILD: [01:0000002527:INFO  ]       Found StopDeviceNotifications
+BUILD: [01:0000002527:INFO  ]         Referenced in pm_mdd_lib.lib(pmpnp.obj)
+BUILD: [01:0000002527:INFO  ]         Loaded coredll.lib(COREDLL.dll)
+BUILD: [01:0000002527:INFO  ]       Found RegQueryInfoKeyW
+BUILD: [01:0000002527:INFO  ]         Referenced in pm_mdd_lib.lib(pmtimer.obj)
+BUILD: [01:0000002527:INFO  ]         Loaded coredll.lib(COREDLL.dll)
+BUILD: [01:0000002527:INFO  ]       Found InterlockedCompareExchange
+BUILD: [01:0000002527:INFO  ]         Referenced in pm_mdd_lib.lib(sqmproxy.obj)
+BUILD: [01:0000002527:INFO  ]         Loaded coredll.lib(COREDLL.dll)
+BUILD: [01:0000002527:INFO  ]       Found __IMPORT_DESCRIPTOR_COREDLL
+BUILD: [01:0000002527:INFO  ]         Referenced in coredll.lib(COREDLL.dll)
+BUILD: [01:0000002527:INFO  ]         Referenced in coredll.lib(COREDLL.dll)
+BUILD: [01:0000002527:INFO  ]         Referenced in coredll.lib(COREDLL.dll)
+BUILD: [01:0000002527:INFO  ]         Referenced in coredll.lib(COREDLL.dll)
+BUILD: [01:0000002527:INFO  ]         Referenced in coredll.lib(COREDLL.dll)
+BUILD: [01:0000002527:INFO  ]         Referenced in coredll.lib(COREDLL.dll)
+BUILD: [01:0000002527:INFO  ]         Referenced in coredll.lib(COREDLL.dll)
+BUILD: [01:0000002527:INFO  ]         Referenced in coredll.lib(COREDLL.dll)
+BUILD: [01:0000002527:INFO  ]         Referenced in coredll.lib(COREDLL.dll)
+BUILD: [01:0000002527:INFO  ]         Referenced in coredll.lib(COREDLL.dll)
+BUILD: [01:0000002527:INFO  ]         Referenced in coredll.lib(COREDLL.dll)
+BUILD: [01:0000002527:INFO  ]         Referenced in coredll.lib(COREDLL.dll)
+BUILD: [01:0000002527:INFO  ]         Referenced in coredll.lib(COREDLL.dll)
+BUILD: [01:0000002527:INFO  ]         Referenced in coredll.lib(COREDLL.dll)
+BUILD: [01:0000002527:INFO  ]         Referenced in coredll.lib(COREDLL.dll)
+BUILD: [01:0000002527:INFO  ]         Referenced in coredll.lib(COREDLL.dll)
+BUILD: [01:0000002527:INFO  ]         Referenced in coredll.lib(COREDLL.dll)
+BUILD: [01:0000002527:INFO  ]         Referenced in coredll.lib(COREDLL.dll)
+BUILD: [01:0000002527:INFO  ]         Referenced in coredll.lib(COREDLL.dll)
+BUILD: [01:0000002527:INFO  ]         Referenced in coredll.lib(COREDLL.dll)
+BUILD: [01:0000002527:INFO  ]         Referenced in coredll.lib(COREDLL.dll)
+BUILD: [01:0000002527:INFO  ]         Referenced in coredll.lib(COREDLL.dll)
+BUILD: [01:0000002527:INFO  ]         Referenced in coredll.lib(COREDLL.dll)
+BUILD: [01:0000002527:INFO  ]         Referenced in coredll.lib(COREDLL.dll)
+BUILD: [01:0000002527:INFO  ]         Referenced in coredll.lib(COREDLL.dll)
+BUILD: [01:0000002527:INFO  ]         Referenced in coredll.lib(COREDLL.dll)
+BUILD: [01:0000002527:INFO  ]         Referenced in coredll.lib(COREDLL.dll)
+BUILD: [01:0000002527:INFO  ]         Referenced in coredll.lib(COREDLL.dll)
+BUILD: [01:0000002527:INFO  ]         Referenced in coredll.lib(COREDLL.dll)
+BUILD: [01:0000002527:INFO  ]         Referenced in coredll.lib(COREDLL.dll)
+BUILD: [01:0000002527:INFO  ]         Referenced in coredll.lib(COREDLL.dll)
+BUILD: [01:0000002527:INFO  ]         Referenced in coredll.lib(COREDLL.dll)
+BUILD: [01:0000002527:INFO  ]         Referenced in coredll.lib(COREDLL.dll)
+BUILD: [01:0000002527:INFO  ]         Referenced in coredll.lib(COREDLL.dll)
+BUILD: [01:0000002527:INFO  ]         Referenced in coredll.lib(COREDLL.dll)
+BUILD: [01:0000002527:INFO  ]         Referenced in coredll.lib(COREDLL.dll)
+BUILD: [01:0000002527:INFO  ]         Referenced in coredll.lib(COREDLL.dll)
+BUILD: [01:0000002527:INFO  ]         Referenced in coredll.lib(COREDLL.dll)
+BUILD: [01:0000002527:INFO  ]         Referenced in coredll.lib(COREDLL.dll)
+BUILD: [01:0000002527:INFO  ]         Referenced in coredll.lib(COREDLL.dll)
+BUILD: [01:0000002527:INFO  ]         Referenced in coredll.lib(COREDLL.dll)
+BUILD: [01:0000002527:INFO  ]         Referenced in coredll.lib(COREDLL.dll)
+BUILD: [01:0000002527:INFO  ]         Referenced in coredll.lib(COREDLL.dll)
+BUILD: [01:0000002527:INFO  ]         Referenced in coredll.lib(COREDLL.dll)
+BUILD: [01:0000002527:INFO  ]         Referenced in coredll.lib(COREDLL.dll)
+BUILD: [01:0000002527:INFO  ]         Referenced in coredll.lib(COREDLL.dll)
+BUILD: [01:0000002527:INFO  ]         Referenced in coredll.lib(COREDLL.dll)
+BUILD: [01:0000002527:INFO  ]         Referenced in coredll.lib(COREDLL.dll)
+BUILD: [01:0000002527:INFO  ]         Referenced in coredll.lib(COREDLL.dll)
+BUILD: [01:0000002527:INFO  ]         Referenced in coredll.lib(COREDLL.dll)
+BUILD: [01:0000002527:INFO  ]         Referenced in coredll.lib(COREDLL.dll)
+BUILD: [01:0000002527:INFO  ]         Referenced in coredll.lib(COREDLL.dll)
+BUILD: [01:0000002527:INFO  ]         Referenced in coredll.lib(COREDLL.dll)
+BUILD: [01:0000002527:INFO  ]         Referenced in coredll.lib(COREDLL.dll)
+BUILD: [01:0000002527:INFO  ]         Referenced in coredll.lib(COREDLL.dll)
+BUILD: [01:0000002527:INFO  ]         Referenced in coredll.lib(COREDLL.dll)
+BUILD: [01:0000002527:INFO  ]         Referenced in coredll.lib(COREDLL.dll)
+BUILD: [01:0000002527:INFO  ]         Referenced in coredll.lib(COREDLL.dll)
+BUILD: [01:0000002527:INFO  ]         Referenced in coredll.lib(COREDLL.dll)
+BUILD: [01:0000002527:INFO  ]         Referenced in coredll.lib(COREDLL.dll)
+BUILD: [01:0000002527:INFO  ]         Referenced in coredll.lib(COREDLL.dll)
+BUILD: [01:0000002527:INFO  ]         Referenced in coredll.lib(COREDLL.dll)
+BUILD: [01:0000002527:INFO  ]         Referenced in coredll.lib(COREDLL.dll)
+BUILD: [01:0000002527:INFO  ]         Referenced in coredll.lib(COREDLL.dll)
+BUILD: [01:0000002527:INFO  ]         Referenced in coredll.lib(COREDLL.dll)
+BUILD: [01:0000002527:INFO  ]         Referenced in coredll.lib(COREDLL.dll)
+BUILD: [01:0000002527:INFO  ]         Referenced in coredll.lib(COREDLL.dll)
+BUILD: [01:0000002527:INFO  ]         Referenced in coredll.lib(COREDLL.dll)
+BUILD: [01:0000002527:INFO  ]         Referenced in coredll.lib(COREDLL.dll)
+BUILD: [01:0000002527:INFO  ]         Referenced in coredll.lib(COREDLL.dll)
+BUILD: [01:0000002527:INFO  ]         Referenced in coredll.lib(COREDLL.dll)
+BUILD: [01:0000002527:INFO  ]         Referenced in coredll.lib(COREDLL.dll)
+BUILD: [01:0000002527:INFO  ]         Referenced in coredll.lib(COREDLL.dll)
+BUILD: [01:0000002527:INFO  ]         Referenced in coredll.lib(COREDLL.dll)
+BUILD: [01:0000002527:INFO  ]         Loaded coredll.lib(COREDLL.dll)
+BUILD: [01:0000002527:INFO  ]       Found __NULL_IMPORT_DESCRIPTOR
+BUILD: [01:0000002527:INFO  ]         Referenced in coredll.lib(COREDLL.dll)
+BUILD: [01:0000002527:INFO  ]         Loaded coredll.lib(COREDLL.dll)
+BUILD: [01:0000002527:INFO  ]       Found COREDLL_NULL_THUNK_DATA
+BUILD: [01:0000002527:INFO  ]         Referenced in coredll.lib(COREDLL.dll)
+BUILD: [01:0000002527:INFO  ]         Loaded coredll.lib(COREDLL.dll)
+BUILD: [01:0000002527:INFO  ]     Searching C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Retail\cesysgen\sdk\lib\ARMV7\retail\ceosutil.lib:
+BUILD: [01:0000002527:INFO  ]     Searching C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Retail\cesysgen\oak\lib\ARMV7\retail\ceddk.lib:
+BUILD: [01:0000002527:INFO  ]     Searching C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Retail\cesysgen\platform\rrm_ppc_windows\lib\ARMV7\retail\cspddk.lib:
+BUILD: [01:0000002527:INFO  ]       Found DDKGpioReadDataPin
+BUILD: [01:0000002527:INFO  ]         Referenced in pwrButton.obj
+BUILD: [01:0000002527:INFO  ]         Loaded cspddk.lib(CSPDDK.dll)
+BUILD: [01:0000002527:INFO  ]       Found DDKGpioClearIntrPin
+BUILD: [01:0000002527:INFO  ]         Referenced in pwrButton.obj
+BUILD: [01:0000002527:INFO  ]         Loaded cspddk.lib(CSPDDK.dll)
+BUILD: [01:0000002527:INFO  ]       Found DDKGpioSetConfig
+BUILD: [01:0000002527:INFO  ]         Referenced in pwrButton.obj
+BUILD: [01:0000002527:INFO  ]         Loaded cspddk.lib(CSPDDK.dll)
+BUILD: [01:0000002527:INFO  ]       Found __IMPORT_DESCRIPTOR_CSPDDK
+BUILD: [01:0000002527:INFO  ]         Referenced in cspddk.lib(CSPDDK.dll)
+BUILD: [01:0000002527:INFO  ]         Referenced in cspddk.lib(CSPDDK.dll)
+BUILD: [01:0000002527:INFO  ]         Referenced in cspddk.lib(CSPDDK.dll)
+BUILD: [01:0000002527:INFO  ]         Loaded cspddk.lib(CSPDDK.dll)
+BUILD: [01:0000002527:INFO  ]       Found CSPDDK_NULL_THUNK_DATA
+BUILD: [01:0000002527:INFO  ]         Referenced in cspddk.lib(CSPDDK.dll)
+BUILD: [01:0000002527:INFO  ]         Loaded cspddk.lib(CSPDDK.dll)
+BUILD: [01:0000002527:INFO  ]     Searching C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Retail\cesysgen\platcomm\rrm_ppc_windows\lib\ARMV7\retail\PWM_mx6_fsl_v4.lib:
+BUILD: [01:0000002527:INFO  ]     Searching C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Retail\cesysgen\oak\lib\ARMV7\retail\ccrt0.lib:
+BUILD: [01:0000002527:INFO  ]       Found _DllMainCRTStartup
+BUILD: [01:0000002527:INFO  ]         Loaded ccrt0.lib(pegdmain.obj)
+BUILD: [01:0000002527:INFO  ]       Found __security_push_cookie
+BUILD: [01:0000002527:INFO  ]         Referenced in pm_pdd_common_lib.lib(pddpower.obj)
+BUILD: [01:0000002527:INFO  ]         Referenced in pm_pdd_common_lib.lib(pddpolicy.obj)
+BUILD: [01:0000002527:INFO  ]         Referenced in pm_pdd_common_lib.lib(pddnotify.obj)
+BUILD: [01:0000002527:INFO  ]         Referenced in pm_mdd_lib.lib(pmexthdl.obj)
+BUILD: [01:0000002527:INFO  ]         Referenced in pm_mdd_lib.lib(pmpnp.obj)
+BUILD: [01:0000002527:INFO  ]         Referenced in pm_mdd_lib.lib(pmtimer.obj)
+BUILD: [01:0000002527:INFO  ]         Referenced in pm_mdd_lib.lib(pmsqm.obj)
+BUILD: [01:0000002527:INFO  ]         Referenced in pm_mdd_lib.lib(pminit.obj)
+BUILD: [01:0000002527:INFO  ]         Referenced in pm_mdd_lib.lib(pmutils.obj)
+BUILD: [01:0000002527:INFO  ]         Referenced in pm_mdd_lib.lib(pmdisplay.obj)
+BUILD: [01:0000002527:INFO  ]         Referenced in pm_mdd_lib.lib(pmsysstate.obj)
+BUILD: [01:0000002527:INFO  ]         Referenced in platform.obj
+BUILD: [01:0000002527:INFO  ]         Referenced in pwstatemgr.obj
+BUILD: [01:0000002527:INFO  ]         Referenced in pwstates.obj
+BUILD: [01:0000002527:INFO  ]         Referenced in pwrButton.obj
+BUILD: [01:0000002527:INFO  ]         Loaded ccrt0.lib(secpushpop.obj)
+BUILD: [01:0000002527:INFO  ]       Found __GSHandlerCheck
+BUILD: [01:0000002527:INFO  ]         Referenced in pm_pdd_common_lib.lib(pddpower.obj)
+BUILD: [01:0000002527:INFO  ]         Referenced in pm_pdd_common_lib.lib(pddpolicy.obj)
+BUILD: [01:0000002527:INFO  ]         Referenced in pm_pdd_common_lib.lib(pddnotify.obj)
+BUILD: [01:0000002527:INFO  ]         Referenced in pm_mdd_lib.lib(pmexthdl.obj)
+BUILD: [01:0000002527:INFO  ]         Referenced in pm_mdd_lib.lib(pmpnp.obj)
+BUILD: [01:0000002527:INFO  ]         Referenced in pm_mdd_lib.lib(pmtimer.obj)
+BUILD: [01:0000002527:INFO  ]         Referenced in pm_mdd_lib.lib(pmsqm.obj)
+BUILD: [01:0000002527:INFO  ]         Referenced in pm_mdd_lib.lib(pminit.obj)
+BUILD: [01:0000002527:INFO  ]         Referenced in pm_mdd_lib.lib(pmutils.obj)
+BUILD: [01:0000002527:INFO  ]         Referenced in pm_mdd_lib.lib(pmdisplay.obj)
+BUILD: [01:0000002527:INFO  ]         Referenced in pm_mdd_lib.lib(pmsysstate.obj)
+BUILD: [01:0000002527:INFO  ]         Referenced in platform.obj
+BUILD: [01:0000002527:INFO  ]         Referenced in pwstatemgr.obj
+BUILD: [01:0000002527:INFO  ]         Referenced in pwstates.obj
+BUILD: [01:0000002527:INFO  ]         Referenced in pwrButton.obj
+BUILD: [01:0000002527:INFO  ]         Loaded ccrt0.lib(gshandler.obj)
+BUILD: [01:0000002527:INFO  ]       Found __GSHandlerCheck_SEH
+BUILD: [01:0000002527:INFO  ]         Referenced in pm_mdd_lib.lib(pmutils.obj)
+BUILD: [01:0000002527:INFO  ]         Referenced in pm_mdd_lib.lib(pmsysstate.obj)
+BUILD: [01:0000002527:INFO  ]         Loaded ccrt0.lib(gshandlerseh.obj)
+BUILD: [01:0000002527:INFO  ]       Found __report_rangecheckfailure
+BUILD: [01:0000002527:INFO  ]         Referenced in pm_mdd_lib.lib(pmsysstate.obj)
+BUILD: [01:0000002527:INFO  ]         Loaded ccrt0.lib(armsecgs.obj)
+BUILD: [01:0000002527:INFO  ]       Found _cinit
+BUILD: [01:0000002527:INFO  ]         Referenced in ccrt0.lib(pegdmain.obj)
+BUILD: [01:0000002527:INFO  ]         Loaded ccrt0.lib(crt0dat.obj)
+BUILD: [01:0000002527:INFO  ]       Found __security_init_cookie
+BUILD: [01:0000002527:INFO  ]         Referenced in ccrt0.lib(pegdmain.obj)
+BUILD: [01:0000002527:INFO  ]         Loaded ccrt0.lib(seccinit.obj)
+BUILD: [01:0000002527:INFO  ]       Found __initialmbcinfo
+BUILD: [01:0000002527:INFO  ]         Referenced in ccrt0.lib(crt0dat.obj)
+BUILD: [01:0000002527:INFO  ]         Loaded ccrt0.lib(cmiscdat.obj)
+BUILD: [01:0000002527:INFO  ]       Found __xp_a
+BUILD: [01:0000002527:INFO  ]         Referenced in ccrt0.lib(crt0dat.obj)
+BUILD: [01:0000002527:INFO  ]         Loaded ccrt0.lib(crt0init.obj)
+BUILD: [01:0000002527:INFO  ]       Found __crt_ExitProcess
+BUILD: [01:0000002527:INFO  ]         Referenced in ccrt0.lib(crt0dat.obj)
+BUILD: [01:0000002527:INFO  ]         Loaded ccrt0.lib(exitproc_proxy.obj)
+BUILD: [01:0000002527:INFO  ]       Found _FF_MSGBANNER
+BUILD: [01:0000002527:INFO  ]         Referenced in ccrt0.lib(crt0dat.obj)
+BUILD: [01:0000002527:INFO  ]         Loaded ccrt0.lib(crt0msg.obj)
+BUILD: [01:0000002527:INFO  ]       Found _fptrap
+BUILD: [01:0000002527:INFO  ]         Referenced in ccrt0.lib(cmiscdat.obj)
+BUILD: [01:0000002527:INFO  ]         Loaded ccrt0.lib(crt0fp.obj)
+BUILD: [01:0000002527:INFO  ]     Searching C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Retail\cesysgen\oak\lib\ARMV7\retail\msvcrt.lib:
+BUILD: [01:0000002527:INFO  ]       Found memcmp
+BUILD: [01:0000002527:INFO  ]         Referenced in pm_pdd_common_lib.lib(pddpower.obj)
+BUILD: [01:0000002527:INFO  ]         Referenced in platform.obj
+BUILD: [01:0000002527:INFO  ]         Referenced in pm_mdd_lib.lib(pminit.obj)
+BUILD: [01:0000002527:INFO  ]         Referenced in pm_mdd_lib.lib(pmutils.obj)
+BUILD: [01:0000002527:INFO  ]         Referenced in pm_mdd_lib.lib(pmdevice.obj)
+BUILD: [01:0000002527:INFO  ]         Loaded msvcrt.lib(MSVCRT.dll)
+BUILD: [01:0000002527:INFO  ]       Found wcslen
+BUILD: [01:0000002527:INFO  ]         Referenced in platform.obj
+BUILD: [01:0000002527:INFO  ]         Referenced in pm_mdd_lib.lib(pmutils.obj)
+BUILD: [01:0000002527:INFO  ]         Referenced in pm_mdd_lib.lib(pmsysstate.obj)
+BUILD: [01:0000002527:INFO  ]         Loaded msvcrt.lib(MSVCRT.dll)
+BUILD: [01:0000002527:INFO  ]       Found "void * __cdecl operator new(unsigned int)" (??2@YAPAXI@Z)
+BUILD: [01:0000002527:INFO  ]         Referenced in platform.obj
+BUILD: [01:0000002527:INFO  ]         Referenced in pwstatemgr.obj
+BUILD: [01:0000002527:INFO  ]         Referenced in pm_mdd_lib.lib(pmsysstate.obj)
+BUILD: [01:0000002527:INFO  ]         Referenced in pm_mdd_lib.lib(pmexthdl.obj)
+BUILD: [01:0000002527:INFO  ]         Loaded msvcrt.lib(MSVCRT.dll)
+BUILD: [01:0000002527:INFO  ]       Found "void __cdecl operator delete(void *)" (??3@YAXPAX@Z)
+BUILD: [01:0000002527:INFO  ]         Referenced in pm_mdd_lib.lib(pmexthdl.obj)
+BUILD: [01:0000002527:INFO  ]         Referenced in platform.obj
+BUILD: [01:0000002527:INFO  ]         Referenced in pwstatemgr.obj
+BUILD: [01:0000002527:INFO  ]         Referenced in pwstates.obj
+BUILD: [01:0000002527:INFO  ]         Referenced in pm_mdd_lib.lib(pmsysstate.obj)
+BUILD: [01:0000002527:INFO  ]         Loaded msvcrt.lib(MSVCRT.dll)
+BUILD: [01:0000002527:INFO  ]       Found wcscpy_s
+BUILD: [01:0000002527:INFO  ]         Referenced in platform.obj
+BUILD: [01:0000002527:INFO  ]         Loaded msvcrt.lib(MSVCRT.dll)
+BUILD: [01:0000002527:INFO  ]       Found memcpy
+BUILD: [01:0000002527:INFO  ]         Referenced in pm_pdd_common_lib.lib(pddnotify.obj)
+BUILD: [01:0000002527:INFO  ]         Referenced in platform.obj
+BUILD: [01:0000002527:INFO  ]         Referenced in pm_mdd_lib.lib(pmsysstate.obj)
+BUILD: [01:0000002527:INFO  ]         Referenced in pm_mdd_lib.lib(pmdevice.obj)
+BUILD: [01:0000002527:INFO  ]         Referenced in pm_pdd_common_lib.lib(pddpower.obj)
+BUILD: [01:0000002527:INFO  ]         Loaded msvcrt.lib(MSVCRT.dll)
+BUILD: [01:0000002527:INFO  ]       Found wcscmp
+BUILD: [01:0000002527:INFO  ]         Referenced in platform.obj
+BUILD: [01:0000002527:INFO  ]         Referenced in pm_mdd_lib.lib(pmutils.obj)
+BUILD: [01:0000002527:INFO  ]         Referenced in pm_mdd_lib.lib(pmrequire.obj)
+BUILD: [01:0000002527:INFO  ]         Loaded msvcrt.lib(MSVCRT.dll)
+BUILD: [01:0000002527:INFO  ]       Found wcsncpy_s
+BUILD: [01:0000002527:INFO  ]         Referenced in platform.obj
+BUILD: [01:0000002527:INFO  ]         Loaded msvcrt.lib(MSVCRT.dll)
+BUILD: [01:0000002527:INFO  ]       Found _purecall
+BUILD: [01:0000002527:INFO  ]         Referenced in pwstatemgr.obj
+BUILD: [01:0000002527:INFO  ]         Referenced in pwstates.obj
+BUILD: [01:0000002527:INFO  ]         Referenced in pm_mdd_lib.lib(pmsysstate.obj)
+BUILD: [01:0000002527:INFO  ]         Loaded msvcrt.lib(MSVCRT.dll)
+BUILD: [01:0000002527:INFO  ]       Found __C_specific_handler
+BUILD: [01:0000002527:INFO  ]         Referenced in ccrt0.lib(pegdmain.obj)
+BUILD: [01:0000002527:INFO  ]         Referenced in ccrt0.lib(gshandlerseh.obj)
+BUILD: [01:0000002527:INFO  ]         Referenced in ccrt0.lib(crt0dat.obj)
+BUILD: [01:0000002527:INFO  ]         Referenced in pm_mdd_lib.lib(pmsysstate.obj)
+BUILD: [01:0000002527:INFO  ]         Referenced in pm_mdd_lib.lib(pmdevice.obj)
+BUILD: [01:0000002527:INFO  ]         Referenced in pm_mdd_lib.lib(pmexthdl.obj)
+BUILD: [01:0000002527:INFO  ]         Referenced in pm_mdd_lib.lib(sqmproxy.obj)
+BUILD: [01:0000002527:INFO  ]         Referenced in pwstatemgr.obj
+BUILD: [01:0000002527:INFO  ]         Referenced in pm_mdd_lib.lib(pmutils.obj)
+BUILD: [01:0000002527:INFO  ]         Referenced in pm_mdd_lib.lib(pmdisplay.obj)
+BUILD: [01:0000002527:INFO  ]         Referenced in pm_mdd_lib.lib(pmstream.obj)
+BUILD: [01:0000002527:INFO  ]         Loaded msvcrt.lib(MSVCRT.dll)
+BUILD: [01:0000002527:INFO  ]       Found _wcsicmp
+BUILD: [01:0000002527:INFO  ]         Referenced in pwstatemgr.obj
+BUILD: [01:0000002527:INFO  ]         Referenced in pm_mdd_lib.lib(pmsysstate.obj)
+BUILD: [01:0000002527:INFO  ]         Loaded msvcrt.lib(MSVCRT.dll)
+BUILD: [01:0000002527:INFO  ]       Found memset
+BUILD: [01:0000002527:INFO  ]         Referenced in pm_mdd_lib.lib(pmsqm.obj)
+BUILD: [01:0000002527:INFO  ]         Referenced in pm_pdd_common_lib.lib(pddpower.obj)
+BUILD: [01:0000002527:INFO  ]         Referenced in pm_pdd_common_lib.lib(pddpolicy.obj)
+BUILD: [01:0000002527:INFO  ]         Referenced in pwstates.obj
+BUILD: [01:0000002527:INFO  ]         Referenced in pm_mdd_lib.lib(pmutils.obj)
+BUILD: [01:0000002527:INFO  ]         Referenced in pm_mdd_lib.lib(pmpnp.obj)
+BUILD: [01:0000002527:INFO  ]         Referenced in pm_mdd_lib.lib(pmtimer.obj)
+BUILD: [01:0000002527:INFO  ]         Loaded msvcrt.lib(MSVCRT.dll)
+BUILD: [01:0000002527:INFO  ]       Found towlower
+BUILD: [01:0000002527:INFO  ]         Referenced in pm_mdd_lib.lib(pmutils.obj)
+BUILD: [01:0000002527:INFO  ]         Referenced in pm_mdd_lib.lib(pmsysstate.obj)
+BUILD: [01:0000002527:INFO  ]         Referenced in pm_mdd_lib.lib(pmpnp.obj)
+BUILD: [01:0000002527:INFO  ]         Loaded msvcrt.lib(MSVCRT.dll)
+BUILD: [01:0000002527:INFO  ]       Found wcstol
+BUILD: [01:0000002527:INFO  ]         Referenced in pm_mdd_lib.lib(pmutils.obj)
+BUILD: [01:0000002527:INFO  ]         Loaded msvcrt.lib(MSVCRT.dll)
+BUILD: [01:0000002527:INFO  ]       Found malloc
+BUILD: [01:0000002527:INFO  ]         Referenced in pm_mdd_lib.lib(pmutils.obj)
+BUILD: [01:0000002527:INFO  ]         Referenced in pm_mdd_lib.lib(sqmproxy.obj)
+BUILD: [01:0000002527:INFO  ]         Loaded msvcrt.lib(MSVCRT.dll)
+BUILD: [01:0000002527:INFO  ]       Found free
+BUILD: [01:0000002527:INFO  ]         Referenced in pm_mdd_lib.lib(pmutils.obj)
+BUILD: [01:0000002527:INFO  ]         Referenced in pm_mdd_lib.lib(sqmproxy.obj)
+BUILD: [01:0000002527:INFO  ]         Referenced in ccrt0.lib(crt0dat.obj)
+BUILD: [01:0000002527:INFO  ]         Loaded msvcrt.lib(MSVCRT.dll)
+BUILD: [01:0000002527:INFO  ]       Found _XcptFilter
+BUILD: [01:0000002527:INFO  ]         Referenced in ccrt0.lib(pegdmain.obj)
+BUILD: [01:0000002527:INFO  ]         Loaded msvcrt.lib(MSVCRT.dll)
+BUILD: [01:0000002527:INFO  ]       Found __report_gsfailure
+BUILD: [01:0000002527:INFO  ]         Referenced in ccrt0.lib(armsecgs.obj)
+BUILD: [01:0000002527:INFO  ]         Loaded msvcrt.lib(MSVCRT.dll)
+BUILD: [01:0000002527:INFO  ]       Found _lock
+BUILD: [01:0000002527:INFO  ]         Referenced in ccrt0.lib(crt0dat.obj)
+BUILD: [01:0000002527:INFO  ]         Loaded msvcrt.lib(MSVCRT.dll)
+BUILD: [01:0000002527:INFO  ]       Found _unlock
+BUILD: [01:0000002527:INFO  ]         Referenced in ccrt0.lib(crt0dat.obj)
+BUILD: [01:0000002527:INFO  ]         Loaded msvcrt.lib(MSVCRT.dll)
+BUILD: [01:0000002527:INFO  ]       Found _initp_heap_handler
+BUILD: [01:0000002527:INFO  ]         Referenced in ccrt0.lib(crt0dat.obj)
+BUILD: [01:0000002527:INFO  ]         Loaded msvcrt.lib(MSVCRT.dll)
+BUILD: [01:0000002527:INFO  ]       Found _initp_misc_invarg
+BUILD: [01:0000002527:INFO  ]         Referenced in ccrt0.lib(crt0dat.obj)
+BUILD: [01:0000002527:INFO  ]         Loaded msvcrt.lib(MSVCRT.dll)
+BUILD: [01:0000002527:INFO  ]       Found _initp_misc_purevirt
+BUILD: [01:0000002527:INFO  ]         Referenced in ccrt0.lib(crt0dat.obj)
+BUILD: [01:0000002527:INFO  ]         Loaded msvcrt.lib(MSVCRT.dll)
+BUILD: [01:0000002527:INFO  ]       Found _errno
+BUILD: [01:0000002527:INFO  ]         Referenced in ccrt0.lib(crt0dat.obj)
+BUILD: [01:0000002527:INFO  ]         Loaded msvcrt.lib(MSVCRT.dll)
+BUILD: [01:0000002527:INFO  ]       Found _invalid_parameter_noinfo
+BUILD: [01:0000002527:INFO  ]         Referenced in ccrt0.lib(crt0dat.obj)
+BUILD: [01:0000002527:INFO  ]         Loaded msvcrt.lib(MSVCRT.dll)
+BUILD: [01:0000002527:INFO  ]       Found __security_gen_cookie2
+BUILD: [01:0000002527:INFO  ]         Referenced in ccrt0.lib(seccinit.obj)
+BUILD: [01:0000002527:INFO  ]         Loaded msvcrt.lib(MSVCRT.dll)
+BUILD: [01:0000002527:INFO  ]       Found _set_error_mode
+BUILD: [01:0000002527:INFO  ]         Referenced in ccrt0.lib(crt0msg.obj)
+BUILD: [01:0000002527:INFO  ]         Loaded msvcrt.lib(MSVCRT.dll)
+BUILD: [01:0000002527:INFO  ]       Found __IMPORT_DESCRIPTOR_MSVCRT
+BUILD: [01:0000002527:INFO  ]         Referenced in msvcrt.lib(MSVCRT.dll)
+BUILD: [01:0000002527:INFO  ]         Referenced in msvcrt.lib(MSVCRT.dll)
+BUILD: [01:0000002527:INFO  ]         Referenced in msvcrt.lib(MSVCRT.dll)
+BUILD: [01:0000002527:INFO  ]         Referenced in msvcrt.lib(MSVCRT.dll)
+BUILD: [01:0000002527:INFO  ]         Referenced in msvcrt.lib(MSVCRT.dll)
+BUILD: [01:0000002527:INFO  ]         Referenced in msvcrt.lib(MSVCRT.dll)
+BUILD: [01:0000002527:INFO  ]         Referenced in msvcrt.lib(MSVCRT.dll)
+BUILD: [01:0000002527:INFO  ]         Referenced in msvcrt.lib(MSVCRT.dll)
+BUILD: [01:0000002527:INFO  ]         Referenced in msvcrt.lib(MSVCRT.dll)
+BUILD: [01:0000002527:INFO  ]         Referenced in msvcrt.lib(MSVCRT.dll)
+BUILD: [01:0000002527:INFO  ]         Referenced in msvcrt.lib(MSVCRT.dll)
+BUILD: [01:0000002543:INFO  ]         Referenced in msvcrt.lib(MSVCRT.dll)
+BUILD: [01:0000002543:INFO  ]         Referenced in msvcrt.lib(MSVCRT.dll)
+BUILD: [01:0000002543:INFO  ]         Referenced in msvcrt.lib(MSVCRT.dll)
+BUILD: [01:0000002543:INFO  ]         Referenced in msvcrt.lib(MSVCRT.dll)
+BUILD: [01:0000002543:INFO  ]         Referenced in msvcrt.lib(MSVCRT.dll)
+BUILD: [01:0000002543:INFO  ]         Referenced in msvcrt.lib(MSVCRT.dll)
+BUILD: [01:0000002543:INFO  ]         Referenced in msvcrt.lib(MSVCRT.dll)
+BUILD: [01:0000002543:INFO  ]         Referenced in msvcrt.lib(MSVCRT.dll)
+BUILD: [01:0000002543:INFO  ]         Referenced in msvcrt.lib(MSVCRT.dll)
+BUILD: [01:0000002543:INFO  ]         Referenced in msvcrt.lib(MSVCRT.dll)
+BUILD: [01:0000002543:INFO  ]         Referenced in msvcrt.lib(MSVCRT.dll)
+BUILD: [01:0000002543:INFO  ]         Referenced in msvcrt.lib(MSVCRT.dll)
+BUILD: [01:0000002543:INFO  ]         Referenced in msvcrt.lib(MSVCRT.dll)
+BUILD: [01:0000002543:INFO  ]         Referenced in msvcrt.lib(MSVCRT.dll)
+BUILD: [01:0000002543:INFO  ]         Referenced in msvcrt.lib(MSVCRT.dll)
+BUILD: [01:0000002543:INFO  ]         Referenced in msvcrt.lib(MSVCRT.dll)
+BUILD: [01:0000002543:INFO  ]         Loaded msvcrt.lib(MSVCRT.dll)
+BUILD: [01:0000002543:INFO  ]       Found MSVCRT_NULL_THUNK_DATA
+BUILD: [01:0000002543:INFO  ]         Referenced in msvcrt.lib(MSVCRT.dll)
+BUILD: [01:0000002543:INFO  ]         Loaded msvcrt.lib(MSVCRT.dll)
+BUILD: [01:0000002543:INFO  ]     Searching C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Retail\cesysgen\oak\lib\ARMV7\retail\pm_mdd_lib.lib:
+BUILD: [01:0000002543:INFO  ]     Searching C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Retail\cesysgen\oak\lib\ARMV7\retail\pm_pdd_common_lib.lib:
+BUILD: [01:0000002543:INFO  ]     Searching C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Retail\cesysgen\sdk\lib\ARMV7\retail\coredll.lib:
+BUILD: [01:0000002543:INFO  ]       Found TerminateProcess
+BUILD: [01:0000002543:INFO  ]         Referenced in ccrt0.lib(exitproc_proxy.obj)
+BUILD: [01:0000002543:INFO  ]         Loaded coredll.lib(COREDLL.dll)
+BUILD: [01:0000002543:INFO  ]     Searching C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Retail\cesysgen\sdk\lib\ARMV7\retail\ceosutil.lib:
+BUILD: [01:0000002543:INFO  ]     Searching C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Retail\cesysgen\oak\lib\ARMV7\retail\ceddk.lib:
+BUILD: [01:0000002543:INFO  ]     Searching C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Retail\cesysgen\platform\rrm_ppc_windows\lib\ARMV7\retail\cspddk.lib:
+BUILD: [01:0000002543:INFO  ]     Searching C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Retail\cesysgen\platcomm\rrm_ppc_windows\lib\ARMV7\retail\PWM_mx6_fsl_v4.lib:
+BUILD: [01:0000002543:INFO  ]     Searching C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Retail\cesysgen\oak\lib\ARMV7\retail\ccrt0.lib:
+BUILD: [01:0000002543:INFO  ] 
+BUILD: [01:0000002543:INFO  ] Finished searching libraries
+BUILD: [01:0000002543:INFO  ] 
+BUILD: [01:0000002543:INFO  ] Finished pass 1
+BUILD: [01:0000002543:INFO  ] 
+BUILD: [01:0000002543:INFO  ] 
+BUILD: [01:0000002543:INFO  ] Searching libraries
+BUILD: [01:0000002543:INFO  ]     Searching C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Retail\cesysgen\oak\lib\ARMV7\retail\pm_mdd_lib.lib:
+BUILD: [01:0000002543:INFO  ]     Searching C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Retail\cesysgen\oak\lib\ARMV7\retail\pm_pdd_common_lib.lib:
+BUILD: [01:0000002543:INFO  ]     Searching C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Retail\cesysgen\sdk\lib\ARMV7\retail\coredll.lib:
+BUILD: [01:0000002543:INFO  ]     Searching C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Retail\cesysgen\sdk\lib\ARMV7\retail\ceosutil.lib:
+BUILD: [01:0000002543:INFO  ]     Searching C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Retail\cesysgen\oak\lib\ARMV7\retail\ceddk.lib:
+BUILD: [01:0000002543:INFO  ]     Searching C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Retail\cesysgen\platform\rrm_ppc_windows\lib\ARMV7\retail\cspddk.lib:
+BUILD: [01:0000002543:INFO  ]     Searching C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Retail\cesysgen\platcomm\rrm_ppc_windows\lib\ARMV7\retail\PWM_mx6_fsl_v4.lib:
+BUILD: [01:0000002543:INFO  ]     Searching C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Retail\cesysgen\oak\lib\ARMV7\retail\ccrt0.lib:
+BUILD: [01:0000002543:INFO  ]     Searching C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Retail\cesysgen\oak\lib\ARMV7\retail\msvcrt.lib:
+BUILD: [01:0000002543:INFO  ] 
+BUILD: [01:0000002543:INFO  ] Finished searching libraries
+BUILD: [01:0000003978:INFO  ] 
+BUILD: [01:0000003978:INFO  ] Unused libraries:
+BUILD: [01:0000003978:INFO  ]   C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Retail\cesysgen\sdk\lib\ARMV7\retail\ceosutil.lib
+BUILD: [01:0000003978:INFO  ]   C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Retail\cesysgen\oak\lib\ARMV7\retail\ceddk.lib
+BUILD: [01:0000003978:INFO  ]   C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Retail\cesysgen\platcomm\rrm_ppc_windows\lib\ARMV7\retail\PWM_mx6_fsl_v4.lib
+BUILD: [01:0000003978:INFO  ] 
+BUILD: [01:0000003978:INFO  ]     Discarded __imp_GetSystemPowerState from coredll.lib(COREDLL.dll)
+BUILD: [01:0000003978:INFO  ]     Discarded __imp_InterruptDone from coredll.lib(COREDLL.dll)
+BUILD: [01:0000003978:INFO  ]     Discarded __imp_InterruptInitialize from coredll.lib(COREDLL.dll)
+BUILD: [01:0000003978:INFO  ]     Discarded __imp__initp_heap_handler from msvcrt.lib(MSVCRT.dll)
+BUILD: [01:0000003978:INFO  ]     Discarded __imp__initp_misc_invarg from msvcrt.lib(MSVCRT.dll)
+BUILD: [01:0000003978:INFO  ]     Discarded __imp__initp_misc_purevirt from msvcrt.lib(MSVCRT.dll)
+BUILD: [01:0000003978:INFO  ]     Discarded __imp__errno from msvcrt.lib(MSVCRT.dll)
+BUILD: [01:0000003978:INFO  ]     Discarded __imp__invalid_parameter_noinfo from msvcrt.lib(MSVCRT.dll)
+BUILD: [01:0000003978:INFO  ]     Discarded __env_initialized
+BUILD: [01:0000003978:INFO  ]     Discarded '.pdata' from platform.obj
+BUILD: [01:0000003978:INFO  ]     Discarded '.pdata' from platform.obj
+BUILD: [01:0000003978:INFO  ]     Discarded '.pdata' from platform.obj
+BUILD: [01:0000003978:INFO  ]     Discarded '.pdata' from platform.obj
+BUILD: [01:0000003978:INFO  ]     Discarded '.pdata' from platform.obj
+BUILD: [01:0000003978:INFO  ]     Discarded '.pdata' from platform.obj
+BUILD: [01:0000003978:INFO  ]     Discarded '.pdata' from platform.obj
+BUILD: [01:0000003978:INFO  ]     Discarded '.pdata' from platform.obj
+BUILD: [01:0000003978:INFO  ]     Discarded '.pdata' from platform.obj
+BUILD: [01:0000003978:INFO  ]     Discarded '.pdata' from pwstatemgr.obj
+BUILD: [01:0000003978:INFO  ]     Discarded '.pdata' from pwstatemgr.obj
+BUILD: [01:0000003978:INFO  ]     Discarded '.pdata' from pwstatemgr.obj
+BUILD: [01:0000003978:INFO  ]     Discarded '.pdata' from pwstatemgr.obj
+BUILD: [01:0000003978:INFO  ]     Discarded '.pdata' from pwstatemgr.obj
+BUILD: [01:0000003978:INFO  ]     Discarded '.pdata' from pwstatemgr.obj
+BUILD: [01:0000003978:INFO  ]     Discarded '.pdata' from pwstatemgr.obj
+BUILD: [01:0000003978:INFO  ]     Discarded '.pdata' from pwstatemgr.obj
+BUILD: [01:0000003978:INFO  ]     Discarded '.pdata' from pwstatemgr.obj
+BUILD: [01:0000003978:INFO  ]     Discarded '.pdata' from pwstatemgr.obj
+BUILD: [01:0000003978:INFO  ]     Discarded '.pdata' from pwstatemgr.obj
+BUILD: [01:0000003978:INFO  ]     Discarded '.pdata' from pwstatemgr.obj
+BUILD: [01:0000003978:INFO  ]     Discarded '.pdata' from pwstatemgr.obj
+BUILD: [01:0000003978:INFO  ]     Discarded '.pdata' from pwstatemgr.obj
+BUILD: [01:0000003978:INFO  ]     Discarded '.pdata' from pwstatemgr.obj
+BUILD: [01:0000003978:INFO  ]     Discarded '.pdata' from pwstatemgr.obj
+BUILD: [01:0000003978:INFO  ]     Discarded '.pdata' from pwstatemgr.obj
+BUILD: [01:0000003978:INFO  ]     Discarded '.pdata' from pwstatemgr.obj
+BUILD: [01:0000003978:INFO  ]     Discarded '.pdata' from pwrButton.obj
+BUILD: [01:0000003978:INFO  ]     Discarded '.pdata' from pwrButton.obj
+BUILD: [01:0000003978:INFO  ]     Discarded '.pdata' from pm_mdd_lib.lib(pmutils.obj)
+BUILD: [01:0000003978:INFO  ]     Discarded '.pdata' from pm_mdd_lib.lib(pmsysstate.obj)
+BUILD: [01:0000003978:INFO  ]     Discarded '.pdata' from pm_mdd_lib.lib(pmsysstate.obj)
+BUILD: [01:0000003978:INFO  ]     Discarded '.pdata' from pm_mdd_lib.lib(pmsysstate.obj)
+BUILD: [01:0000003978:INFO  ]     Discarded '.pdata' from pm_mdd_lib.lib(pmsysstate.obj)
+BUILD: [01:0000003978:INFO  ]     Discarded '.pdata' from pm_mdd_lib.lib(pmsysstate.obj)
+BUILD: [01:0000003978:INFO  ]     Discarded '.pdata' from pm_mdd_lib.lib(pmsysstate.obj)
+BUILD: [01:0000003978:INFO  ]     Discarded '.pdata' from pm_mdd_lib.lib(pmsysstate.obj)
+BUILD: [01:0000003978:INFO  ]     Discarded '.pdata' from pm_mdd_lib.lib(pmsysstate.obj)
+BUILD: [01:0000003978:INFO  ]     Discarded '.pdata' from pm_mdd_lib.lib(pmsysstate.obj)
+BUILD: [01:0000003978:INFO  ]     Discarded '.pdata' from pm_mdd_lib.lib(pmsysstate.obj)
+BUILD: [01:0000003978:INFO  ]     Discarded '.pdata' from pm_mdd_lib.lib(pmnotify.obj)
+BUILD: [01:0000003978:INFO  ]     Discarded '.pdata' from pm_mdd_lib.lib(pmexthdl.obj)
+BUILD: [01:0000003978:INFO  ]     Discarded '.pdata' from pm_mdd_lib.lib(pmexthdl.obj)
+BUILD: [01:0000003978:INFO  ]     Discarded '.pdata' from pm_mdd_lib.lib(pmexthdl.obj)
+BUILD: [01:0000003978:INFO  ]     Discarded '.pdata' from pm_mdd_lib.lib(pmexthdl.obj)
+BUILD: [01:0000003978:INFO  ]     Discarded '.pdata' from pm_mdd_lib.lib(pmexthdl.obj)
+BUILD: [01:0000003978:INFO  ]     Discarded '.pdata' from pm_mdd_lib.lib(pmexthdl.obj)
+BUILD: [01:0000003978:INFO  ]     Discarded '.pdata' from pm_mdd_lib.lib(pmexthdl.obj)
+BUILD: [01:0000003978:INFO  ]     Discarded '.pdata' from pm_mdd_lib.lib(pmsqm.obj)
+BUILD: [01:0000003978:INFO  ]     Discarded '.pdata' from pm_mdd_lib.lib(sqmproxy.obj)
+BUILD: [01:0000003978:INFO  ]     Discarded '.pdata' from pm_mdd_lib.lib(sqmproxy.obj)
+BUILD: [01:0000003978:INFO  ]     Discarded '.pdata' from pm_mdd_lib.lib(sqmproxy.obj)
+BUILD: [01:0000003978:INFO  ]     Discarded '.pdata' from pm_mdd_lib.lib(sqmproxy.obj)
+BUILD: [01:0000003978:INFO  ]     Discarded '.pdata' from pm_mdd_lib.lib(sqmproxy.obj)
+BUILD: [01:0000003978:INFO  ]     Discarded '.pdata' from pm_mdd_lib.lib(sqmproxy.obj)
+BUILD: [01:0000003978:INFO  ]     Discarded '.pdata' from pm_mdd_lib.lib(sqmproxy.obj)
+BUILD: [01:0000003978:INFO  ]     Discarded '.pdata' from pm_mdd_lib.lib(sqmproxy.obj)
+BUILD: [01:0000003978:INFO  ]     Discarded '.pdata' from pm_mdd_lib.lib(sqmproxy.obj)
+BUILD: [01:0000003978:INFO  ]     Discarded '.pdata' from pm_mdd_lib.lib(sqmproxy.obj)
+BUILD: [01:0000003978:INFO  ]     Discarded '.pdata' from pm_mdd_lib.lib(sqmproxy.obj)
+BUILD: [01:0000003978:INFO  ]     Discarded '.pdata' from pm_mdd_lib.lib(sqmproxy.obj)
+BUILD: [01:0000003978:INFO  ]     Discarded '.pdata' from pm_mdd_lib.lib(sqmproxy.obj)
+BUILD: [01:0000003978:INFO  ]     Discarded '.pdata' from pm_mdd_lib.lib(sqmproxy.obj)
+BUILD: [01:0000003978:INFO  ]     Discarded '.pdata' from pm_mdd_lib.lib(sqmproxy.obj)
+BUILD: [01:0000003978:INFO  ]     Discarded '.pdata' from pm_mdd_lib.lib(sqmproxy.obj)
+BUILD: [01:0000003978:INFO  ]     Discarded '.pdata' from pm_mdd_lib.lib(sqmproxy.obj)
+BUILD: [01:0000003978:INFO  ]     Discarded '.pdata' from pm_mdd_lib.lib(sqmproxy.obj)
+BUILD: [01:0000003978:INFO  ]     Discarded '.pdata' from pm_mdd_lib.lib(sqmproxy.obj)
+BUILD: [01:0000003978:INFO  ]     Discarded '.pdata' from pm_mdd_lib.lib(sqmproxy.obj)
+BUILD: [01:0000003978:INFO  ]     Discarded '.pdata' from pm_mdd_lib.lib(sqmproxy.obj)
+BUILD: [01:0000003978:INFO  ]     Discarded '.pdata' from pm_mdd_lib.lib(sqmproxy.obj)
+BUILD: [01:0000003978:INFO  ]     Discarded '.pdata' from pm_mdd_lib.lib(sqmproxy.obj)
+BUILD: [01:0000003978:INFO  ]     Discarded '.pdata' from pm_mdd_lib.lib(sqmproxy.obj)
+BUILD: [01:0000003978:INFO  ]     Discarded '.pdata' from pm_mdd_lib.lib(sqmproxy.obj)
+BUILD: [01:0000003978:INFO  ]     Discarded '.pdata' from pm_mdd_lib.lib(sqmproxy.obj)
+BUILD: [01:0000003978:INFO  ]     Discarded '.pdata' from pm_mdd_lib.lib(sqmproxy.obj)
+BUILD: [01:0000003978:INFO  ]     Discarded '.pdata' from pm_mdd_lib.lib(sqmproxy.obj)
+BUILD: [01:0000003978:INFO  ]     Discarded '.pdata' from pm_mdd_lib.lib(sqmproxy.obj)
+BUILD: [01:0000003978:INFO  ]     Discarded '.pdata' from pm_mdd_lib.lib(sqmproxy.obj)
+BUILD: [01:0000003978:INFO  ]     Discarded '.pdata' from pm_mdd_lib.lib(sqmproxy.obj)
+BUILD: [01:0000003978:INFO  ]     Discarded '.pdata' from pm_mdd_lib.lib(sqmproxy.obj)
+BUILD: [01:0000003978:INFO  ]     Discarded '.pdata' from ccrt0.lib(crt0dat.obj)
+BUILD: [01:0000003978:INFO  ]     Discarded '.pdata' from ccrt0.lib(crt0dat.obj)
+BUILD: [01:0000003978:INFO  ]     Discarded '.pdata' from ccrt0.lib(crt0dat.obj)
+BUILD: [01:0000003978:INFO  ]     Discarded '.pdata' from ccrt0.lib(crt0dat.obj)
+BUILD: [01:0000003978:INFO  ]     Discarded '.pdata' from ccrt0.lib(crt0dat.obj)
+BUILD: [01:0000003978:INFO  ]     Discarded '.pdata' from ccrt0.lib(crt0dat.obj)
+BUILD: [01:0000003978:INFO  ]     Discarded '.pdata' from ccrt0.lib(crt0msg.obj)
+BUILD: [01:0000003978:INFO  ]     Discarded "`string'" (??_C@_1EG@CHFCBFON@?$AA?$CF?$AAs?$AA?$CI?$AA?$CJ?$AA?3?$AA?5?$AAf?$AAa?$AAi?$AAl?$AAe?$AAd?$AA?5?$AAt?$AAo?$AA?5?$AAc?$AAr?$AAe?$AAa?$AAt?$AAe?$AA?5?$AAI?$AAS?$AAT?$AA?5?$AAe?$AAv?$AAe?$AAn?$AAt@) from pwrButton.obj
+BUILD: [01:0000003978:INFO  ]     Discarded "`string'" (??_C@_19HABNGADD@?$AAI?$AAn?$AAi?$AAt?$AA?$AA@) from pwrButton.obj
+BUILD: [01:0000003978:INFO  ]     Discarded "`string'" (??_C@_1CI@OHCJFJPM@?$AAE?$AAR?$AAR?$AAO?$AAR?$AA?3?$AA?5?$AA?$CF?$AAs?$AA?5?$AAl?$AAi?$AAn?$AAe?$AA?5?$AA?$CF?$AAd?$AA?3?$AA?5?$AA?$AA@) from pwrButton.obj
+BUILD: [01:0000003978:INFO  ]     Discarded "`string'" (??_C@_1IM@JHFPOGNN@?$AAc?$AA?3?$AA?2?$AAw?$AAi?$AAn?$AAc?$AAe?$AA8?$AA0?$AA0?$AA?2?$AAp?$AAl?$AAa?$AAt?$AAf?$AAo?$AAr?$AAm?$AA?2?$AAr?$AAr?$AAm?$AA_?$AAp?$AAp?$AAc?$AA_?$AAw?$AAi?$AAn@) from pwrButton.obj
+BUILD: [01:0000003978:INFO  ]     Discarded "`string'" (??_C@_1FA@CBMFLOL@?$AA?$CF?$AAs?$AA?$CI?$AA?$CJ?$AA?3?$AA?5?$AAf?$AAa?$AAi?$AAl?$AAe?$AAd?$AA?5?$AAt?$AAo?$AA?5?$AAm?$AAa?$AAp?$AA?5?$AAi?$AAr?$AAq?$AA?5?$AAi?$AAn?$AAt?$AAo?$AA?5?$AAs?$AAy?$AAs@) from pwrButton.obj
+BUILD: [01:0000003978:INFO  ]     Discarded "`string'" (??_C@_1EI@MFNLECAP@?$AA?$CF?$AAs?$AA?$CI?$AA?$CJ?$AA?3?$AA?5?$AAf?$AAa?$AAi?$AAl?$AAe?$AAd?$AA?5?$AAt?$AAo?$AA?5?$AAr?$AAe?$AAg?$AAi?$AAs?$AAt?$AAe?$AAr?$AA?5?$AAs?$AAy?$AAs?$AA?5?$AAi?$AAn?$AAt@) from pwrButton.obj
+BUILD: [01:0000003978:INFO  ]     Discarded "`string'" (??_C@_1FE@BIOKHGAH@?$AA?$CF?$AAs?$AA?$CI?$AA?$CJ?$AA?3?$AA?5?$AAf?$AAa?$AAi?$AAl?$AAe?$AAd?$AA?5?$AAt?$AAo?$AA?5?$AAr?$AAe?$AAg?$AAi?$AAs?$AAt?$AAe?$AAr?$AA?5?$AAa?$AAs?$AA?5?$AAw?$AAa?$AAk?$AAe@) from pwrButton.obj
+BUILD: [01:0000003978:INFO  ]     Discarded "`string'" (??_C@_1FO@BFMKAFKP@?$AAC?$AAr?$AAe?$AAa?$AAt?$AAe?$AAT?$AAh?$AAr?$AAe?$AAa?$AAd?$AA?5?$AAf?$AAa?$AAi?$AAl?$AAe?$AAd?$AA?5?$AAf?$AAo?$AAr?$AA?5?$AAp?$AAo?$AAw?$AAe?$AAr?$AA?5?$AAb?$AAu@) from pwrButton.obj
+BUILD: [01:0000003978:INFO  ]     Discarded SetEvent from platform.obj
+BUILD: [01:0000003978:INFO  ]     Discarded GetCurrentThread from platform.obj
+BUILD: [01:0000003978:INFO  ]     Discarded GetCurrentThreadId from platform.obj
+BUILD: [01:0000003994:INFO  ]     Discarded "int __cdecl IsEqualGUID(struct _GUID const &,struct _GUID const &)" (?IsEqualGUID@@YAHABU_GUID@@0@Z) from platform.obj
+BUILD: [01:0000003994:INFO  ]     Discarded "public: void __cdecl CLockObject::Lock(void)" (?Lock@CLockObject@@QAAXXZ) from platform.obj
+BUILD: [01:0000003994:INFO  ]     Discarded "public: void __cdecl CLockObject::Unlock(void)" (?Unlock@CLockObject@@QAAXXZ) from platform.obj
+BUILD: [01:0000003994:INFO  ]     Discarded "public: virtual __cdecl RegKeyOrValue::~RegKeyOrValue(void)" (??1RegKeyOrValue@@UAA@XZ) from platform.obj
+BUILD: [01:0000003994:INFO  ]     Discarded "public: class RegKeyOrValue * __cdecl RegKeyOrValue::GetNextRegKeyOrValuePtr(void)" (?GetNextRegKeyOrValuePtr@RegKeyOrValue@@QAAPAV1@XZ) from platform.obj
+BUILD: [01:0000003994:INFO  ]     Discarded "public: void * __cdecl PowerStateManager::`scalar deleting destructor'(unsigned int)" (??_GPowerStateManager@@QAAPAXI@Z) from platform.obj
+BUILD: [01:0000003994:INFO  ]     Discarded "int __cdecl operator==(struct _GUID const &,struct _GUID const &)" (??8@YAHABU_GUID@@0@Z) from platform.obj
+BUILD: [01:0000003994:INFO  ]     Discarded "public: void __cdecl SystemNotifyRegKey::LeaveLock(void)" (?LeaveLock@SystemNotifyRegKey@@QAAXXZ) from platform.obj
+BUILD: [01:0000003994:INFO  ]     Discarded "public: __cdecl RegKey::RegKey(struct HKEY__ *,unsigned short const *,unsigned long,class RegKey *)" (??0RegKey@@QAA@PAUHKEY__@@PBGKPAV0@@Z) from platform.obj
+BUILD: [01:0000003994:INFO  ]     Discarded "protected: void __cdecl RegKey::DeleteAll(void)" (?DeleteAll@RegKey@@IAAXXZ) from platform.obj
+BUILD: [01:0000003994:INFO  ]     Discarded "public: __cdecl RegValue::RegValue(struct HKEY__ *,unsigned short const *,class RegValue *)" (??0RegValue@@QAA@PAUHKEY__@@PBGPAV0@@Z) from platform.obj
+BUILD: [01:0000003994:INFO  ]     Discarded "int __cdecl operator!=(struct _GUID const &,struct _GUID const &)" (??9@YAHABU_GUID@@0@Z) from platform.obj
+BUILD: [01:0000003994:INFO  ]     Discarded "public: virtual __cdecl RegValue::~RegValue(void)" (??1RegValue@@UAA@XZ) from platform.obj
+BUILD: [01:0000003994:INFO  ]     Discarded "public: int __cdecl SystemNotifyRegKey::UpdateAllValue(void)" (?UpdateAllValue@SystemNotifyRegKey@@QAAHXZ) from platform.obj
+BUILD: [01:0000003994:INFO  ]     Discarded ResetEvent from pwstatemgr.obj
+BUILD: [01:0000003994:INFO  ]     Discarded GetCurrentProcessId from pwstatemgr.obj
+BUILD: [01:0000003994:INFO  ]     Discarded "public: __cdecl CRegistryEdit::CRegistryEdit(struct HKEY__ *,unsigned short const *)" (??0CRegistryEdit@@QAA@PAUHKEY__@@PBG@Z) from pwstatemgr.obj
+BUILD: [01:0000003994:INFO  ]     Discarded "public: int __cdecl CRegistryEdit::CloseKey(void)" (?CloseKey@CRegistryEdit@@QAAHXZ) from pwstatemgr.obj
+BUILD: [01:0000003994:INFO  ]     Discarded "public: int __cdecl CRegistryEdit::GetRegValue(unsigned short const *,unsigned char *,unsigned long)" (?GetRegValue@CRegistryEdit@@QAAHPBGPAEK@Z) from pwstatemgr.obj
+BUILD: [01:0000003994:INFO  ]     Discarded "public: struct HKEY__ * __cdecl CRegistryEdit::GetHKey(void)" (?GetHKey@CRegistryEdit@@QAAPAUHKEY__@@XZ) from pwstatemgr.obj
+BUILD: [01:0000003994:INFO  ]     Discarded "public: __cdecl CLockObject::CLockObject(void)" (??0CLockObject@@QAA@XZ) from pwstatemgr.obj
+BUILD: [01:0000003994:INFO  ]     Discarded "public: __cdecl CLockObject::~CLockObject(void)" (??1CLockObject@@QAA@XZ) from pwstatemgr.obj
+BUILD: [01:0000003994:INFO  ]     Discarded "public: class PowerState * __cdecl PowerState::GetNextPowerState(void)" (?GetNextPowerState@PowerState@@QAAPAV1@XZ) from pwstatemgr.obj
+BUILD: [01:0000003994:INFO  ]     Discarded "public: __cdecl PowerStateOff::PowerStateOff(class PowerStateManager *,class PowerState *)" (??0PowerStateOff@@QAA@PAVPowerStateManager@@PAVPowerState@@@Z) from pwstatemgr.obj
+BUILD: [01:0000003994:INFO  ]     Discarded "public: __cdecl PowerStateOn::PowerStateOn(class PowerStateManager *,class PowerState *)" (??0PowerStateOn@@QAA@PAVPowerStateManager@@PAVPowerState@@@Z) from pwstatemgr.obj
+BUILD: [01:0000003994:INFO  ]     Discarded "public: __cdecl PowerStateUserIdle::PowerStateUserIdle(class PowerStateManager *,class PowerState *)" (??0PowerStateUserIdle@@QAA@PAVPowerStateManager@@PAVPowerState@@@Z) from pwstatemgr.obj
+BUILD: [01:0000003994:INFO  ]     Discarded "public: __cdecl PowerStateUnattended::PowerStateUnattended(class PowerStateManager *,class PowerState *)" (??0PowerStateUnattended@@QAA@PAVPowerStateManager@@PAVPowerState@@@Z) from pwstatemgr.obj
+BUILD: [01:0000003994:INFO  ]     Discarded "public: __cdecl PowerStateResuming::PowerStateResuming(class PowerStateManager *,class PowerState *)" (??0PowerStateResuming@@QAA@PAVPowerStateManager@@PAVPowerState@@@Z) from pwstatemgr.obj
+BUILD: [01:0000003994:INFO  ]     Discarded "public: __cdecl PowerStateSuspend::PowerStateSuspend(class PowerStateManager *,class PowerState *)" (??0PowerStateSuspend@@QAA@PAVPowerStateManager@@PAVPowerState@@@Z) from pwstatemgr.obj
+BUILD: [01:0000003994:INFO  ]     Discarded "public: __cdecl PowerStateScreenOff::PowerStateScreenOff(class PowerStateManager *,class PowerState *)" (??0PowerStateScreenOff@@QAA@PAVPowerStateManager@@PAVPowerState@@@Z) from pwstatemgr.obj
+BUILD: [01:0000003994:INFO  ]     Discarded "public: __cdecl PowerStateBacklightOff::PowerStateBacklightOff(class PowerStateManager *,class PowerState *)" (??0PowerStateBacklightOff@@QAA@PAVPowerStateManager@@PAVPowerState@@@Z) from pwstatemgr.obj
+BUILD: [01:0000003994:INFO  ]     Discarded "public: __cdecl PowerStateColdReboot::PowerStateColdReboot(class PowerStateManager *,class PowerState *)" (??0PowerStateColdReboot@@QAA@PAVPowerStateManager@@PAVPowerState@@@Z) from pwstatemgr.obj
+BUILD: [01:0000003994:INFO  ]     Discarded "public: __cdecl PowerStateReboot::PowerStateReboot(class PowerStateManager *,class PowerState *)" (??0PowerStateReboot@@QAA@PAVPowerStateManager@@PAVPowerState@@@Z) from pwstatemgr.obj
+BUILD: [01:0000003994:INFO  ]     Discarded "public: void * __cdecl PMSystemAPI::GetAPISignalHandle(void)" (?GetAPISignalHandle@PMSystemAPI@@QAAPAXXZ) from pwstatemgr.obj
+BUILD: [01:0000003994:INFO  ]     Discarded "public: int __cdecl NotifyRegKey::Init(void)" (?Init@NotifyRegKey@@QAAHXZ) from pwstatemgr.obj
+BUILD: [01:0000003994:INFO  ]     Discarded "public: int __cdecl NotifyRegKey::AckNotification(void)" (?AckNotification@NotifyRegKey@@QAAHXZ) from pwstatemgr.obj
+BUILD: [01:0000003994:INFO  ]     Discarded "public: void * __cdecl NotifyRegKey::GetNotificationHandle(void)" (?GetNotificationHandle@NotifyRegKey@@QAAPAXXZ) from pwstatemgr.obj
+BUILD: [01:0000003994:INFO  ]     Discarded "public: unsigned long __cdecl PowerStateManager::IncUnattendedRefCount(void)" (?IncUnattendedRefCount@PowerStateManager@@QAAKXZ) from pwstatemgr.obj
+BUILD: [01:0000003994:INFO  ]     Discarded "public: unsigned long __cdecl PowerStateManager::DecUnattendedRefCount(void)" (?DecUnattendedRefCount@PowerStateManager@@QAAKXZ) from pwstatemgr.obj
+BUILD: [01:0000003994:INFO  ]     Discarded "public: unsigned long __cdecl PowerStateManager::GetSuspendTimeOut(void)" (?GetSuspendTimeOut@PowerStateManager@@QAAKXZ) from pwstatemgr.obj
+BUILD: [01:0000003994:INFO  ]     Discarded "public: unsigned long __cdecl PowerStateManager::GetResumingSuspendTimeout(void)" (?GetResumingSuspendTimeout@PowerStateManager@@QAAKXZ) from pwstatemgr.obj
+BUILD: [01:0000003994:INFO  ]     Discarded "public: unsigned long __cdecl PowerStateManager::GetBackLightTimeout(void)" (?GetBackLightTimeout@PowerStateManager@@QAAKXZ) from pwstatemgr.obj
+BUILD: [01:0000003994:INFO  ]     Discarded "public: unsigned long __cdecl PowerStateManager::GetUserIdleTimeOut(void)" (?GetUserIdleTimeOut@PowerStateManager@@QAAKXZ) from pwstatemgr.obj
+BUILD: [01:0000003994:INFO  ]     Discarded "public: int __cdecl PMSystemAPI::Init(void)" (?Init@PMSystemAPI@@QAAHXZ) from pwstatemgr.obj
+BUILD: [01:0000003994:INFO  ]     Discarded "public: void __cdecl PMSystemAPI::RequestComplete(unsigned long)" (?RequestComplete@PMSystemAPI@@QAAXK@Z) from pwstatemgr.obj
+BUILD: [01:0000003994:INFO  ]     Discarded "public: __cdecl CRegistryEdit::~CRegistryEdit(void)" (??1CRegistryEdit@@QAA@XZ) from pwstatemgr.obj
+BUILD: [01:0000003994:INFO  ]     Discarded "public: virtual __cdecl PowerStateOff::~PowerStateOff(void)" (??1PowerStateOff@@UAA@XZ) from pwstatemgr.obj
+BUILD: [01:0000003994:INFO  ]     Discarded "public: virtual __cdecl PowerStateOn::~PowerStateOn(void)" (??1PowerStateOn@@UAA@XZ) from pwstatemgr.obj
+BUILD: [01:0000003994:INFO  ]     Discarded "public: virtual __cdecl PowerStateUserIdle::~PowerStateUserIdle(void)" (??1PowerStateUserIdle@@UAA@XZ) from pwstatemgr.obj
+BUILD: [01:0000003994:INFO  ]     Discarded "public: virtual __cdecl PowerStateUnattended::~PowerStateUnattended(void)" (??1PowerStateUnattended@@UAA@XZ) from pwstatemgr.obj
+BUILD: [01:0000003994:INFO  ]     Discarded "public: virtual __cdecl PowerStateResuming::~PowerStateResuming(void)" (??1PowerStateResuming@@UAA@XZ) from pwstatemgr.obj
+BUILD: [01:0000003994:INFO  ]     Discarded "public: virtual __cdecl PowerStateSuspend::~PowerStateSuspend(void)" (??1PowerStateSuspend@@UAA@XZ) from pwstatemgr.obj
+BUILD: [01:0000003994:INFO  ]     Discarded "public: virtual __cdecl PowerStateScreenOff::~PowerStateScreenOff(void)" (??1PowerStateScreenOff@@UAA@XZ) from pwstatemgr.obj
+BUILD: [01:0000003994:INFO  ]     Discarded "public: virtual __cdecl PowerStateBacklightOff::~PowerStateBacklightOff(void)" (??1PowerStateBacklightOff@@UAA@XZ) from pwstatemgr.obj
+BUILD: [01:0000003994:INFO  ]     Discarded "public: virtual __cdecl PowerStateColdReboot::~PowerStateColdReboot(void)" (??1PowerStateColdReboot@@UAA@XZ) from pwstatemgr.obj
+BUILD: [01:0000003994:INFO  ]     Discarded "public: virtual __cdecl PowerStateReboot::~PowerStateReboot(void)" (??1PowerStateReboot@@UAA@XZ) from pwstatemgr.obj
+BUILD: [01:0000003994:INFO  ]     Discarded "public: __cdecl NotifyRegKey::~NotifyRegKey(void)" (??1NotifyRegKey@@QAA@XZ) from pwstatemgr.obj
+BUILD: [01:0000003994:INFO  ]     Discarded "public: __cdecl NotifyRegKey::NotifyRegKey(struct HKEY__ *,unsigned short const *)" (??0NotifyRegKey@@QAA@PAUHKEY__@@PBG@Z) from pwstatemgr.obj
+BUILD: [01:0000003994:INFO  ]     Discarded "public: void * __cdecl NotifyRegKey::`scalar deleting destructor'(unsigned int)" (??_GNotifyRegKey@@QAAPAXI@Z) from pwstatemgr.obj
+BUILD: [01:0000003994:INFO  ]     Discarded "public: void __cdecl PowerStateManager::DisableBacklightTimeout(void)" (?DisableBacklightTimeout@PowerStateManager@@QAAXXZ) from pwstates.obj
+BUILD: [01:0000003994:INFO  ]     Discarded "public: void __cdecl PowerStateManager::DisableUserIdleTimeout(void)" (?DisableUserIdleTimeout@PowerStateManager@@QAAXXZ) from pwstates.obj
+BUILD: [01:0000003994:INFO  ]     Discarded "public: void __cdecl PowerStateManager::DisableResumingSuspendTimeout(void)" (?DisableResumingSuspendTimeout@PowerStateManager@@QAAXXZ) from pwstates.obj
+BUILD: [01:0000003994:INFO  ]     Discarded "public: void __cdecl PowerStateManager::ClearUnattendedRefCount(void)" (?ClearUnattendedRefCount@PowerStateManager@@QAAXXZ) from pwstates.obj
+BUILD: [01:0000003994:INFO  ]     Discarded "public: unsigned long __cdecl PowerStateManager::GetUnattendedRefCount(void)" (?GetUnattendedRefCount@PowerStateManager@@QAAKXZ) from pwstates.obj
+BUILD: [01:0000003994:INFO  ]     Discarded "public: struct _ActivityTimer_tag * __cdecl PowerStateManager::GetUserActivityTimer(void)" (?GetUserActivityTimer@PowerStateManager@@QAAPAU_ActivityTimer_tag@@XZ) from pwstates.obj
+BUILD: [01:0000003994:INFO  ]     Discarded "int __cdecl Deinit(void)" (?Deinit@@YAHXZ) from pwrButton.obj
+BUILD: [01:0000003994:INFO  ]     Discarded "unsigned long __cdecl PwrBtnThread(void *)" (?PwrBtnThread@@YAKPAX@Z) from pwrButton.obj
+BUILD: [01:0000003994:INFO  ]     Discarded "int __cdecl Init(void)" (?Init@@YAHXZ) from pwrButton.obj
+BUILD: [01:0000003994:INFO  ]     Discarded "int __cdecl GUIDFromString(unsigned short const *,struct _GUID *)" (?GUIDFromString@@YAHPBGPAU_GUID@@@Z) from pm_mdd_lib.lib(pmutils.obj)
+BUILD: [01:0000003994:INFO  ]     Discarded "public: int __cdecl CMiniThread::ForceTerminated(void)" (?ForceTerminated@CMiniThread@@QAAHXZ) from pm_mdd_lib.lib(pmsysstate.obj)
+BUILD: [01:0000003994:INFO  ]     Discarded "public: unsigned short * __cdecl RegKeyOrValue::GetName(void)" (?GetName@RegKeyOrValue@@QAAPAGXZ) from pm_mdd_lib.lib(pmsysstate.obj)
+BUILD: [01:0000003994:INFO  ]     Discarded "public: virtual __cdecl CMiniThread::~CMiniThread(void)" (??1CMiniThread@@UAA@XZ) from pm_mdd_lib.lib(pmsysstate.obj)
+BUILD: [01:0000003994:INFO  ]     Discarded "public: __cdecl CMiniThread::CMiniThread(unsigned long,int)" (??0CMiniThread@@QAA@KH@Z) from pm_mdd_lib.lib(pmsysstate.obj)
+BUILD: [01:0000003994:INFO  ]     Discarded "public: long __cdecl RegKey::RegEnum(class RegKeyOrValue *,unsigned long,unsigned short *,unsigned long *)" (?RegEnum@RegKey@@QAAJPAVRegKeyOrValue@@KPAGPAK@Z) from pm_mdd_lib.lib(pmsysstate.obj)
+BUILD: [01:0000003994:INFO  ]     Discarded "public: long __cdecl RegKey::RegFindValue(unsigned short const *,void *,unsigned long *,unsigned long *)" (?RegFindValue@RegKey@@QAAJPBGPAXPAK2@Z) from pm_mdd_lib.lib(pmsysstate.obj)
+BUILD: [01:0000003994:INFO  ]     Discarded "public: class RegKey * __cdecl RegKey::RegFindKey(unsigned short const *)" (?RegFindKey@RegKey@@QAAPAV1@PBG@Z) from pm_mdd_lib.lib(pmsysstate.obj)
+BUILD: [01:0000003994:INFO  ]     Discarded "public: long __cdecl RegKey::RegEnumValueW(unsigned long,unsigned short *,unsigned long *)" (?RegEnumValueW@RegKey@@QAAJKPAGPAK@Z) from pm_mdd_lib.lib(pmsysstate.obj)
+BUILD: [01:0000003994:INFO  ]     Discarded "public: long __cdecl RegKey::RegEnumKeyExW(unsigned long,unsigned short *,unsigned long *)" (?RegEnumKeyExW@RegKey@@QAAJKPAGPAK@Z) from pm_mdd_lib.lib(pmsysstate.obj)
+BUILD: [01:0000003994:INFO  ]     Discarded "public: int __cdecl CMiniThread::IsTerminated(void)const " (?IsTerminated@CMiniThread@@QBAHXZ) from pm_mdd_lib.lib(pmsysstate.obj)
+BUILD: [01:0000003994:INFO  ]     Discarded "public: int __cdecl CMiniThread::ThreadStart(void)" (?ThreadStart@CMiniThread@@QAAHXZ) from pm_mdd_lib.lib(pmsysstate.obj)
+BUILD: [01:0000003994:INFO  ]     Discarded "public: int __cdecl CMiniThread::WaitThreadComplete(unsigned long)" (?WaitThreadComplete@CMiniThread@@QAAHK@Z) from pm_mdd_lib.lib(pmsysstate.obj)
+BUILD: [01:0000003994:INFO  ]     Discarded KLibSetDeviceStateToIdle from pm_mdd_lib.lib(pmnotify.obj)
+BUILD: [01:0000003994:INFO  ]     Discarded "public: int __cdecl CRegistryEdit::IsKeyOpened(void)const " (?IsKeyOpened@CRegistryEdit@@QBAHXZ) from pm_mdd_lib.lib(pmexthdl.obj)
+BUILD: [01:0000003994:INFO  ]     Discarded "public: int __cdecl CRegistryEdit::RegEnumKeyExW(unsigned long,unsigned short *,unsigned long *,unsigned long *,unsigned short *,unsigned long *,struct _FILETIME *)" (?RegEnumKeyExW@CRegistryEdit@@QAAHKPAGPAK101PAU_FILETIME@@@Z) from pm_mdd_lib.lib(pmexthdl.obj)
+BUILD: [01:0000003994:INFO  ]     Discarded "public: int __cdecl PMExtension::Init(void)" (?Init@PMExtension@@QAAHXZ) from pm_mdd_lib.lib(pmexthdl.obj)
+BUILD: [01:0000003994:INFO  ]     Discarded "public: class PMExtension * __cdecl PMExtension::GetNextPmExt(void)" (?GetNextPmExt@PMExtension@@QAAPAV1@XZ) from pm_mdd_lib.lib(pmexthdl.obj)
+BUILD: [01:0000003994:INFO  ]     Discarded "public: void __cdecl PMExtensionMgr::PMExt_PMBeforeNewSystemState(unsigned short const *,unsigned long)" (?PMExt_PMBeforeNewSystemState@PMExtensionMgr@@QAAXPBGK@Z) from pm_mdd_lib.lib(pmexthdl.obj)
+BUILD: [01:0000003994:INFO  ]     Discarded "public: void __cdecl PMExtensionMgr::PMExt_PMAfterNewSystemState(unsigned short const *,unsigned long)" (?PMExt_PMAfterNewSystemState@PMExtensionMgr@@QAAXPBGK@Z) from pm_mdd_lib.lib(pmexthdl.obj)
+BUILD: [01:0000003994:INFO  ]     Discarded "public: void __cdecl PMExtensionMgr::PMExt_PMBeforeNewDeviceState(unsigned short const *,enum _CEDEVICE_POWER_STATE,enum _CEDEVICE_POWER_STATE)" (?PMExt_PMBeforeNewDeviceState@PMExtensionMgr@@QAAXPBGW4_CEDEVICE_POWER_STATE@@1@Z) from pm_mdd_lib.lib(pmexthdl.obj)
+BUILD: [01:0000003994:INFO  ]     Discarded "public: void __cdecl PMExtensionMgr::PMExt_PMAfterNewDeviceState(unsigned short const *,enum _CEDEVICE_POWER_STATE,enum _CEDEVICE_POWER_STATE)" (?PMExt_PMAfterNewDeviceState@PMExtensionMgr@@QAAXPBGW4_CEDEVICE_POWER_STATE@@1@Z) from pm_mdd_lib.lib(pmexthdl.obj)
+BUILD: [01:0000003994:INFO  ]     Discarded "public: void * __cdecl PMExtension::`scalar deleting destructor'(unsigned int)" (??_GPMExtension@@QAAPAXI@Z) from pm_mdd_lib.lib(pmexthdl.obj)
+BUILD: [01:0000003994:INFO  ]     Discarded "public: void * __cdecl PMExtensionMgr::`scalar deleting destructor'(unsigned int)" (??_GPMExtensionMgr@@QAAPAXI@Z) from pm_mdd_lib.lib(pmexthdl.obj)
+BUILD: [01:0000003994:INFO  ]     Discarded "int __cdecl sThreadedSQMAttemptStart(void)" (?sThreadedSQMAttemptStart@@YAHXZ) from pm_mdd_lib.lib(pmsqm.obj)
+BUILD: [01:0000003994:INFO  ]     Discarded "void __cdecl sThreadedSQMSet(unsigned long,unsigned long)" (?sThreadedSQMSet@@YAXKK@Z) from pm_mdd_lib.lib(pmsqm.obj)
+BUILD: [01:0000003994:INFO  ]     Discarded "void __cdecl SLockRelease(void)" (?SLockRelease@@YAXXZ) from pm_mdd_lib.lib(sqmproxy.obj)
+BUILD: [01:0000003994:INFO  ]     Discarded SqmProxyCleanup from pm_mdd_lib.lib(sqmproxy.obj)
+BUILD: [01:0000003994:INFO  ]     Discarded SqmSaveSession from pm_mdd_lib.lib(sqmproxy.obj)
+BUILD: [01:0000003994:INFO  ]     Discarded SqmAbortUpload from pm_mdd_lib.lib(sqmproxy.obj)
+BUILD: [01:0000003994:INFO  ]     Discarded SqmStartUpload from pm_mdd_lib.lib(sqmproxy.obj)
+BUILD: [01:0000003994:INFO  ]     Discarded SqmGet64 from pm_mdd_lib.lib(sqmproxy.obj)
+BUILD: [01:0000003994:INFO  ]     Discarded SqmAddToStreamV from pm_mdd_lib.lib(sqmproxy.obj)
+BUILD: [01:0000003994:INFO  ]     Discarded SqmSetBool from pm_mdd_lib.lib(sqmproxy.obj)
+BUILD: [01:0000003994:INFO  ]     Discarded SqmSet64 from pm_mdd_lib.lib(sqmproxy.obj)
+BUILD: [01:0000003994:INFO  ]     Discarded SqmTimerAddToAverage from pm_mdd_lib.lib(sqmproxy.obj)
+BUILD: [01:0000003994:INFO  ]     Discarded SqmTimerAccumulate from pm_mdd_lib.lib(sqmproxy.obj)
+BUILD: [01:0000003994:INFO  ]     Discarded SqmTimerRecord from pm_mdd_lib.lib(sqmproxy.obj)
+BUILD: [01:0000003994:INFO  ]     Discarded SqmTimerStart from pm_mdd_lib.lib(sqmproxy.obj)
+BUILD: [01:0000003994:INFO  ]     Discarded SqmGet from pm_mdd_lib.lib(sqmproxy.obj)
+BUILD: [01:0000003994:INFO  ]     Discarded SqmAddToStreamDWORD from pm_mdd_lib.lib(sqmproxy.obj)
+BUILD: [01:0000003994:INFO  ]     Discarded SqmAddToStreamStringW from pm_mdd_lib.lib(sqmproxy.obj)
+BUILD: [01:0000003994:INFO  ]     Discarded SqmAddToAverage from pm_mdd_lib.lib(sqmproxy.obj)
+BUILD: [01:0000003994:INFO  ]     Discarded SqmSetIfMin from pm_mdd_lib.lib(sqmproxy.obj)
+BUILD: [01:0000003994:INFO  ]     Discarded SqmSetIfMax from pm_mdd_lib.lib(sqmproxy.obj)
+BUILD: [01:0000003994:INFO  ]     Discarded SqmSetBits from pm_mdd_lib.lib(sqmproxy.obj)
+BUILD: [01:0000003994:INFO  ]     Discarded SqmSetStringW from pm_mdd_lib.lib(sqmproxy.obj)
+BUILD: [01:0000003994:INFO  ]     Discarded SqmSetAppVersion from pm_mdd_lib.lib(sqmproxy.obj)
+BUILD: [01:0000003994:INFO  ]     Discarded SqmGetUserId from pm_mdd_lib.lib(sqmproxy.obj)
+BUILD: [01:0000003994:INFO  ]     Discarded SqmGetMachineId from pm_mdd_lib.lib(sqmproxy.obj)
+BUILD: [01:0000003994:INFO  ]     Discarded SqmClearFlags from pm_mdd_lib.lib(sqmproxy.obj)
+BUILD: [01:0000003994:INFO  ]     Discarded SqmSetFlags from pm_mdd_lib.lib(sqmproxy.obj)
+BUILD: [01:0000003994:INFO  ]     Discarded SqmGetFlags from pm_mdd_lib.lib(sqmproxy.obj)
+BUILD: [01:0000003994:INFO  ]     Discarded SqmSetEnabled from pm_mdd_lib.lib(sqmproxy.obj)
+BUILD: [01:0000003994:INFO  ]     Discarded SqmGetEnabled from pm_mdd_lib.lib(sqmproxy.obj)
+BUILD: [01:0000003994:INFO  ]     Discarded SqmGetSessionStartTime from pm_mdd_lib.lib(sqmproxy.obj)
+BUILD: [01:0000003994:INFO  ]     Discarded SqmEndManagedSession from pm_mdd_lib.lib(sqmproxy.obj)
+BUILD: [01:0000003994:INFO  ]     Discarded SqmEndSession from pm_mdd_lib.lib(sqmproxy.obj)
+BUILD: [01:0000003994:INFO  ]     Discarded SqmGetSession from pm_mdd_lib.lib(sqmproxy.obj)
+BUILD: [01:0000003994:INFO  ]     Discarded GetSystemPowerState from coredll.lib(COREDLL.dll)
+BUILD: [01:0000003994:INFO  ]     Discarded InterruptDone from coredll.lib(COREDLL.dll)
+BUILD: [01:0000003994:INFO  ]     Discarded InterruptInitialize from coredll.lib(COREDLL.dll)
+BUILD: [01:0000003994:INFO  ]     Discarded DDKGpioReadDataPin from cspddk.lib(CSPDDK.dll)
+BUILD: [01:0000003994:INFO  ]     Discarded DDKGpioClearIntrPin from cspddk.lib(CSPDDK.dll)
+BUILD: [01:0000003994:INFO  ]     Discarded DDKGpioSetConfig from cspddk.lib(CSPDDK.dll)
+BUILD: [01:0000003994:INFO  ]     Discarded __freeCrtMemory from ccrt0.lib(crt0dat.obj)
+BUILD: [01:0000003994:INFO  ]     Discarded _lockexit from ccrt0.lib(crt0dat.obj)
+BUILD: [01:0000003994:INFO  ]     Discarded _unlockexit from ccrt0.lib(crt0dat.obj)
+BUILD: [01:0000003994:INFO  ]     Discarded _init_pointers from ccrt0.lib(crt0dat.obj)
+BUILD: [01:0000003994:INFO  ]     Discarded _initterm from ccrt0.lib(crt0dat.obj)
+BUILD: [01:0000003994:INFO  ]     Discarded _initterm_e from ccrt0.lib(crt0dat.obj)
+BUILD: [01:0000003994:INFO  ]     Discarded _get_wpgmptr from ccrt0.lib(crt0dat.obj)
+BUILD: [01:0000003994:INFO  ]     Discarded _get_pgmptr from ccrt0.lib(crt0dat.obj)
+BUILD: [01:0000003994:INFO  ]     Discarded _c_exit from ccrt0.lib(crt0dat.obj)
+BUILD: [01:0000003994:INFO  ]     Discarded _exit from ccrt0.lib(crt0dat.obj)
+BUILD: [01:0000003994:INFO  ]     Discarded exit from ccrt0.lib(crt0dat.obj)
+BUILD: [01:0000003994:INFO  ]     Discarded GetCurrentProcess from ccrt0.lib(exitproc_proxy.obj)
+BUILD: [01:0000003994:INFO  ]     Discarded _GET_RTERRMSG from ccrt0.lib(crt0msg.obj)
+BUILD: [01:0000003994:INFO  ]     Discarded _initp_heap_handler from msvcrt.lib(MSVCRT.dll)
+BUILD: [01:0000003994:INFO  ]     Discarded _initp_misc_invarg from msvcrt.lib(MSVCRT.dll)
+BUILD: [01:0000003994:INFO  ]     Discarded _initp_misc_purevirt from msvcrt.lib(MSVCRT.dll)
+BUILD: [01:0000003994:INFO  ]     Discarded _errno from msvcrt.lib(MSVCRT.dll)
+BUILD: [01:0000003994:INFO  ]     Discarded _invalid_parameter_noinfo from msvcrt.lib(MSVCRT.dll)
+BUILD: [01:0000003994:INFO  ]     Discarded '.xdata' from pwrButton.obj
+BUILD: [01:0000003994:INFO  ]     Discarded '.xdata' from pm_mdd_lib.lib(pmsqm.obj)
+BUILD: [01:0000003994:INFO  ]     Discarded '.xdata' from pm_mdd_lib.lib(sqmproxy.obj)
+BUILD: [01:0000003994:INFO  ]     Discarded '.xdata' from pm_mdd_lib.lib(sqmproxy.obj)
+BUILD: [01:0000003994:INFO  ]     Discarded '.xdata' from pm_mdd_lib.lib(sqmproxy.obj)
+BUILD: [01:0000003994:INFO  ]     Discarded '.xdata' from pm_mdd_lib.lib(sqmproxy.obj)
+BUILD: [01:0000003994:INFO  ]     Discarded '.xdata' from pm_mdd_lib.lib(sqmproxy.obj)
+BUILD: [01:0000003994:INFO  ]     Discarded '.xdata' from pm_mdd_lib.lib(sqmproxy.obj)
+BUILD: [01:0000003994:INFO  ]     Discarded '.xdata' from pm_mdd_lib.lib(sqmproxy.obj)
+BUILD: [01:0000003994:INFO  ]     Discarded '.xdata' from pm_mdd_lib.lib(sqmproxy.obj)
+BUILD: [01:0000003994:INFO  ]     Discarded '.xdata' from pm_mdd_lib.lib(sqmproxy.obj)
+BUILD: [01:0000003994:INFO  ]     Discarded '.xdata' from pm_mdd_lib.lib(sqmproxy.obj)
+BUILD: [01:0000003994:INFO  ]     Discarded '.xdata' from pm_mdd_lib.lib(sqmproxy.obj)
+BUILD: [01:0000003994:INFO  ]     Discarded '.xdata' from pm_mdd_lib.lib(sqmproxy.obj)
+BUILD: [01:0000003994:INFO  ]     Discarded '.xdata' from pm_mdd_lib.lib(sqmproxy.obj)
+BUILD: [01:0000003994:INFO  ]     Discarded '.xdata' from pm_mdd_lib.lib(sqmproxy.obj)
+BUILD: [01:0000003994:INFO  ]     Discarded '.xdata' from pm_mdd_lib.lib(sqmproxy.obj)
+BUILD: [01:0000003994:INFO  ]     Discarded '.xdata' from pm_mdd_lib.lib(sqmproxy.obj)
+BUILD: [01:0000003994:INFO  ]     Discarded '.xdata' from pm_mdd_lib.lib(sqmproxy.obj)
+BUILD: [01:0000003994:INFO  ]     Discarded '.xdata' from pm_mdd_lib.lib(sqmproxy.obj)
+BUILD: [01:0000003994:INFO  ]     Discarded '.xdata' from pm_mdd_lib.lib(sqmproxy.obj)
+BUILD: [01:0000003994:INFO  ]     Discarded '.xdata' from pm_mdd_lib.lib(sqmproxy.obj)
+BUILD: [01:0000003994:INFO  ]     Discarded '.xdata' from pm_mdd_lib.lib(sqmproxy.obj)
+BUILD: [01:0000003994:INFO  ]     Discarded '.xdata' from pm_mdd_lib.lib(sqmproxy.obj)
+BUILD: [01:0000003994:INFO  ]     Discarded '.xdata' from pm_mdd_lib.lib(sqmproxy.obj)
+BUILD: [01:0000003994:INFO  ]     Discarded '.xdata' from pm_mdd_lib.lib(sqmproxy.obj)
+BUILD: [01:0000003994:INFO  ]     Discarded '.xdata' from pm_mdd_lib.lib(sqmproxy.obj)
+BUILD: [01:0000003994:INFO  ]     Discarded '.xdata' from pm_mdd_lib.lib(sqmproxy.obj)
+BUILD: [01:0000003994:INFO  ]     Discarded '.xdata' from pm_mdd_lib.lib(sqmproxy.obj)
+BUILD: [01:0000003994:INFO  ]     Discarded '.xdata' from pm_mdd_lib.lib(sqmproxy.obj)
+BUILD: [01:0000003994:INFO  ]     Discarded '.xdata' from pm_mdd_lib.lib(sqmproxy.obj)
+BUILD: [01:0000003994:INFO  ]     Discarded '.xdata' from pm_mdd_lib.lib(sqmproxy.obj)
+BUILD: [01:0000003994:INFO  ]     Discarded '.xdata' from pm_mdd_lib.lib(sqmproxy.obj)
+BUILD: [01:0000003994:INFO  ]     Discarded '.idata$4' from coredll.lib(COREDLL.dll)
+BUILD: [01:0000003994:INFO  ]     Discarded '.idata$4' from coredll.lib(COREDLL.dll)
+BUILD: [01:0000003994:INFO  ]     Discarded '.idata$4' from coredll.lib(COREDLL.dll)
+BUILD: [01:0000003994:INFO  ]     Discarded '.idata$4' from cspddk.lib(CSPDDK.dll)
+BUILD: [01:0000003994:INFO  ]     Discarded '.idata$4' from cspddk.lib(CSPDDK.dll)
+BUILD: [01:0000003994:INFO  ]     Discarded '.idata$4' from cspddk.lib(CSPDDK.dll)
+BUILD: [01:0000003994:INFO  ]     Discarded '.idata$4' from msvcrt.lib(MSVCRT.dll)
+BUILD: [01:0000003994:INFO  ]     Discarded '.idata$4' from msvcrt.lib(MSVCRT.dll)
+BUILD: [01:0000003994:INFO  ]     Discarded '.idata$4' from msvcrt.lib(MSVCRT.dll)
+BUILD: [01:0000003994:INFO  ]     Discarded '.idata$4' from msvcrt.lib(MSVCRT.dll)
+BUILD: [01:0000003994:INFO  ]     Discarded '.idata$4' from msvcrt.lib(MSVCRT.dll)
+BUILD: [01:0000003994:INFO  ] 
+BUILD: [01:0000003994:INFO  ]     Selected symbol:
+BUILD: [01:0000003994:INFO  ]         "public: virtual enum PLATFORM_ACTIVITY_STATE __cdecl PowerStateReboot::GetLastNewState(void)" (?GetLastNewState@PowerStateReboot@@UAA?AW4PLATFORM_ACTIVITY_STATE@@XZ) from pwstatemgr.obj
+BUILD: [01:0000003994:INFO  ]     Replaced symbol(s):
+BUILD: [01:0000003994:INFO  ]         "public: virtual enum PLATFORM_ACTIVITY_STATE __cdecl PowerStateReboot::GetState(void)" (?GetState@PowerStateReboot@@UAA?AW4PLATFORM_ACTIVITY_STATE@@XZ) from pwstatemgr.obj
+BUILD: [01:0000003994:INFO  ] 
+BUILD: [01:0000003994:INFO  ]     Selected symbol:
+BUILD: [01:0000003994:INFO  ]         "public: virtual int __cdecl PowerStateColdReboot::AppsCanRequestState(void)" (?AppsCanRequestState@PowerStateColdReboot@@UAAHXZ) from pwstatemgr.obj
+BUILD: [01:0000003994:INFO  ]     Replaced symbol(s):
+BUILD: [01:0000003994:INFO  ]         "public: virtual int __cdecl PowerStateOn::AppsCanRequestState(void)" (?AppsCanRequestState@PowerStateOn@@UAAHXZ) from pwstatemgr.obj
+BUILD: [01:0000003994:INFO  ]         "public: virtual int __cdecl PowerStateReboot::AppsCanRequestState(void)" (?AppsCanRequestState@PowerStateReboot@@UAAHXZ) from pwstatemgr.obj
+BUILD: [01:0000003994:INFO  ]         "public: virtual int __cdecl PowerStateScreenOff::AppsCanRequestState(void)" (?AppsCanRequestState@PowerStateScreenOff@@UAAHXZ) from pwstatemgr.obj
+BUILD: [01:0000003994:INFO  ]         "public: virtual int __cdecl PowerStateSuspend::AppsCanRequestState(void)" (?AppsCanRequestState@PowerStateSuspend@@UAAHXZ) from pwstatemgr.obj
+BUILD: [01:0000003994:INFO  ]         "public: virtual int __cdecl PowerStateUserIdle::AppsCanRequestState(void)" (?AppsCanRequestState@PowerStateUserIdle@@UAAHXZ) from pwstatemgr.obj
+BUILD: [01:0000003994:INFO  ]         "public: virtual enum PLATFORM_ACTIVITY_STATE __cdecl PowerStateUserIdle::GetState(void)" (?GetState@PowerStateUserIdle@@UAA?AW4PLATFORM_ACTIVITY_STATE@@XZ) from pwstatemgr.obj
+BUILD: [01:0000003994:INFO  ]         "int __cdecl InitStreamDeviceInterface(void)" (?InitStreamDeviceInterface@@YAHXZ) from pm_mdd_lib.lib(pmstream.obj)
+BUILD: [01:0000003994:INFO  ] 
+BUILD: [01:0000003994:INFO  ]     Selected symbol:
+BUILD: [01:0000003994:INFO  ]         "public: virtual enum PLATFORM_ACTIVITY_STATE __cdecl PowerStateColdReboot::GetLastNewState(void)" (?GetLastNewState@PowerStateColdReboot@@UAA?AW4PLATFORM_ACTIVITY_STATE@@XZ) from pwstatemgr.obj
+BUILD: [01:0000003994:INFO  ]     Replaced symbol(s):
+BUILD: [01:0000003994:INFO  ]         "public: virtual enum PLATFORM_ACTIVITY_STATE __cdecl PowerStateColdReboot::GetState(void)" (?GetState@PowerStateColdReboot@@UAA?AW4PLATFORM_ACTIVITY_STATE@@XZ) from pwstatemgr.obj
+BUILD: [01:0000003994:INFO  ] 
+BUILD: [01:0000003994:INFO  ]     Selected symbol:
+BUILD: [01:0000003994:INFO  ]         "public: virtual int __cdecl PowerState::AppsCanRequestState(void)" (?AppsCanRequestState@PowerState@@UAAHXZ) from pwstatemgr.obj
+BUILD: [01:0000003994:INFO  ]     Replaced symbol(s):
+BUILD: [01:0000003994:INFO  ]         "public: virtual enum PLATFORM_ACTIVITY_STATE __cdecl PowerStateOn::GetState(void)" (?GetState@PowerStateOn@@UAA?AW4PLATFORM_ACTIVITY_STATE@@XZ) from pwstatemgr.obj
+BUILD: [01:0000003994:INFO  ]         "public: virtual enum PLATFORM_ACTIVITY_EVENT __cdecl PowerStateColdReboot::WaitForEvent(unsigned long,unsigned long,void * *)" (?WaitForEvent@PowerStateColdReboot@@UAA?AW4PLATFORM_ACTIVITY_EVENT@@KKPAPAX@Z) from pwstatemgr.obj
+BUILD: [01:0000003994:INFO  ]         "public: virtual enum PLATFORM_ACTIVITY_EVENT __cdecl PowerStateOff::WaitForEvent(unsigned long,unsigned long,void * *)" (?WaitForEvent@PowerStateOff@@UAA?AW4PLATFORM_ACTIVITY_EVENT@@KKPAPAX@Z) from pwstates.obj
+BUILD: [01:0000003994:INFO  ]         "public: virtual enum PLATFORM_ACTIVITY_EVENT __cdecl PowerStateReboot::WaitForEvent(unsigned long,unsigned long,void * *)" (?WaitForEvent@PowerStateReboot@@UAA?AW4PLATFORM_ACTIVITY_EVENT@@KKPAPAX@Z) from pwstatemgr.obj
+BUILD: [01:0000003994:INFO  ]         "public: virtual enum PLATFORM_ACTIVITY_EVENT __cdecl PowerStateSuspend::WaitForEvent(unsigned long,unsigned long,void * *)" (?WaitForEvent@PowerStateSuspend@@UAA?AW4PLATFORM_ACTIVITY_EVENT@@KKPAPAX@Z) from pwstatemgr.obj
+BUILD: [01:0000003994:INFO  ] 
+BUILD: [01:0000003994:INFO  ]     Selected symbol:
+BUILD: [01:0000003994:INFO  ]         "public: virtual unsigned long __cdecl PowerStateColdReboot::StateValidateRegistry(unsigned long,unsigned long)" (?StateValidateRegistry@PowerStateColdReboot@@UAAKKK@Z) from pwstatemgr.obj
+BUILD: [01:0000003994:INFO  ]     Replaced symbol(s):
+BUILD: [01:0000003994:INFO  ]         "public: virtual unsigned long __cdecl PowerStateReboot::StateValidateRegistry(unsigned long,unsigned long)" (?StateValidateRegistry@PowerStateReboot@@UAAKKK@Z) from pwstatemgr.obj
+BUILD: [01:0000003994:INFO  ] 
+BUILD: [01:0000003994:INFO  ]     Selected symbol:
+BUILD: [01:0000003994:INFO  ]         PowerRestrictionDestroy from pm_mdd_lib.lib(pmutils.obj)
+BUILD: [01:0000003994:INFO  ]     Replaced symbol(s):
+BUILD: [01:0000003994:INFO  ]         SystemPowerStateDestroy from pm_mdd_lib.lib(pmutils.obj)
+BUILD: [01:0000003994:INFO  ] 
+BUILD: [01:0000003994:INFO  ]     Selected symbol:
+BUILD: [01:0000003994:INFO  ]         CeLogMsg from platform.obj
+BUILD: [01:0000003994:INFO  ]     Replaced symbol(s):
+BUILD: [01:0000003994:INFO  ]         CeLogMsg from pwstatemgr.obj
+BUILD: [01:0000003994:INFO  ]         CeLogMsg from pwstates.obj
+BUILD: [01:0000003994:INFO  ] 
+BUILD: [01:0000003994:INFO  ]     Selected symbol:
+BUILD: [01:0000003994:INFO  ]         "public: virtual void __cdecl PowerStateColdReboot::EnterState(void)" (?EnterState@PowerStateColdReboot@@UAAXXZ) from pwstatemgr.obj
+BUILD: [01:0000003994:INFO  ]     Replaced symbol(s):
+BUILD: [01:0000003994:INFO  ]         "public: virtual void __cdecl PowerStateOff::EnterState(void)" (?EnterState@PowerStateOff@@UAAXXZ) from pwstates.obj
+BUILD: [01:0000003994:INFO  ]         "public: virtual void __cdecl PowerStateReboot::EnterState(void)" (?EnterState@PowerStateReboot@@UAAXXZ) from pwstatemgr.obj
+BUILD: [01:0000003994:INFO  ] 
+BUILD: [01:0000003994:INFO  ]     Selected symbol:
+BUILD: [01:0000003994:INFO  ]         "public: virtual void * __cdecl PowerStateBacklightOff::`scalar deleting destructor'(unsigned int)" (??_GPowerStateBacklightOff@@UAAPAXI@Z) from pwstatemgr.obj
+BUILD: [01:0000003994:INFO  ]     Replaced symbol(s):
+BUILD: [01:0000003994:INFO  ]         "public: virtual void * __cdecl PowerStateColdReboot::`scalar deleting destructor'(unsigned int)" (??_GPowerStateColdReboot@@UAAPAXI@Z) from pwstatemgr.obj
+BUILD: [01:0000003994:INFO  ]         "public: virtual void * __cdecl PowerStateOff::`scalar deleting destructor'(unsigned int)" (??_GPowerStateOff@@UAAPAXI@Z) from pwstatemgr.obj
+BUILD: [01:0000003994:INFO  ]         "public: virtual void * __cdecl PowerStateOn::`scalar deleting destructor'(unsigned int)" (??_GPowerStateOn@@UAAPAXI@Z) from pwstatemgr.obj
+BUILD: [01:0000003994:INFO  ]         "public: virtual void * __cdecl PowerStateReboot::`scalar deleting destructor'(unsigned int)" (??_GPowerStateReboot@@UAAPAXI@Z) from pwstatemgr.obj
+BUILD: [01:0000003994:INFO  ]         "public: virtual void * __cdecl PowerStateResuming::`scalar deleting destructor'(unsigned int)" (??_GPowerStateResuming@@UAAPAXI@Z) from pwstatemgr.obj
+BUILD: [01:0000003994:INFO  ]         "public: virtual void * __cdecl PowerStateScreenOff::`scalar deleting destructor'(unsigned int)" (??_GPowerStateScreenOff@@UAAPAXI@Z) from pwstatemgr.obj
+BUILD: [01:0000003994:INFO  ]         "public: virtual void * __cdecl PowerStateSuspend::`scalar deleting destructor'(unsigned int)" (??_GPowerStateSuspend@@UAAPAXI@Z) from pwstatemgr.obj
+BUILD: [01:0000003994:INFO  ]         "public: virtual void * __cdecl PowerStateUnattended::`scalar deleting destructor'(unsigned int)" (??_GPowerStateUnattended@@UAAPAXI@Z) from pwstatemgr.obj
+BUILD: [01:0000003994:INFO  ]         "public: virtual void * __cdecl PowerStateUserIdle::`scalar deleting destructor'(unsigned int)" (??_GPowerStateUserIdle@@UAAPAXI@Z) from pwstatemgr.obj
+BUILD: [01:0000003994:INFO  ] 
+BUILD: [01:0000003994:INFO  ]     Selected symbol:
+BUILD: [01:0000003994:INFO  ]         '.xdata' from platform.obj
+BUILD: [01:0000003994:INFO  ]     Replaced symbol(s):
+BUILD: [01:0000003994:INFO  ]         '.xdata' from pwstatemgr.obj
+BUILD: [01:0000003994:INFO  ]         '.xdata' from pwstates.obj
+BUILD: [01:0000003994:INFO  ] 
+BUILD: [01:0000003994:INFO  ]     Selected symbol:
+BUILD: [01:0000003994:INFO  ]         '.pdata' from pm_mdd_lib.lib(pmutils.obj)
+BUILD: [01:0000003994:INFO  ]     Replaced symbol(s):
+BUILD: [01:0000003994:INFO  ]         '.pdata' from pm_mdd_lib.lib(pmutils.obj)
+BUILD: [01:0000003994:INFO  ] 
+BUILD: [01:0000003994:INFO  ]     Selected symbol:
+BUILD: [01:0000003994:INFO  ]         '.pdata' from platform.obj
+BUILD: [01:0000003994:INFO  ]     Replaced symbol(s):
+BUILD: [01:0000003994:INFO  ]         '.pdata' from pwstates.obj
+BUILD: [01:0000003994:INFO  ]         '.pdata' from pwstatemgr.obj
+BUILD: [01:0000003994:INFO  ] 
+BUILD: [01:0000003994:INFO  ]     Selected symbol:
+BUILD: [01:0000003994:INFO  ]         '.pdata' from pwstatemgr.obj
+BUILD: [01:0000003994:INFO  ]     Replaced symbol(s):
+BUILD: [01:0000003994:INFO  ]         '.pdata' from pwstatemgr.obj
+BUILD: [01:0000003994:INFO  ]         '.pdata' from pwstates.obj
+BUILD: [01:0000003994:INFO  ] 
+BUILD: [01:0000003994:INFO  ]     Selected symbol:
+BUILD: [01:0000003994:INFO  ]         '.pdata' from pwstatemgr.obj
+BUILD: [01:0000003994:INFO  ]     Replaced symbol(s):
+BUILD: [01:0000003994:INFO  ]         '.pdata' from pwstatemgr.obj
+BUILD: [01:0000003994:INFO  ]         '.pdata' from pwstatemgr.obj
+BUILD: [01:0000003994:INFO  ]         '.pdata' from pwstatemgr.obj
+BUILD: [01:0000003994:INFO  ]         '.pdata' from pwstatemgr.obj
+BUILD: [01:0000003994:INFO  ]         '.pdata' from pwstatemgr.obj
+BUILD: [01:0000003994:INFO  ]         '.pdata' from pwstatemgr.obj
+BUILD: [01:0000003994:INFO  ]         '.pdata' from pwstatemgr.obj
+BUILD: [01:0000003994:INFO  ]         '.pdata' from pwstatemgr.obj
+BUILD: [01:0000003994:INFO  ]         '.pdata' from pwstatemgr.obj
+BUILD: [01:0000003994:INFO  ] 
+BUILD: [01:0000003994:INFO  ]     ICF total savings: 828 bytes
+BUILD: [01:0000004009:INFO  ] 
+BUILD: [01:0000004009:INFO  ] Starting pass 2
+BUILD: [01:0000004165:INFO  ]      pm.exp
+BUILD: [01:0000004165:INFO  ]      pwrButton.obj
+BUILD: [01:0000004165:INFO  ]      pwstates.obj
+BUILD: [01:0000004165:INFO  ]      pwstatemgr.obj
+BUILD: [01:0000004165:INFO  ]      platform.obj
+BUILD: [01:0000004165:INFO  ]      pm_mdd_lib.lib(pminit.obj)
+BUILD: [01:0000004165:INFO  ]      pm_mdd_lib.lib(pmpnp.obj)
+BUILD: [01:0000004165:INFO  ]      pm_mdd_lib.lib(pmdevice.obj)
+BUILD: [01:0000004165:INFO  ]      pm_mdd_lib.lib(pmrequire.obj)
+BUILD: [01:0000004165:INFO  ]      pm_mdd_lib.lib(pmrelation.obj)
+BUILD: [01:0000004165:INFO  ]      pm_mdd_lib.lib(pmnotify.obj)
+BUILD: [01:0000004165:INFO  ]      pm_mdd_lib.lib(pmresume.obj)
+BUILD: [01:0000004165:INFO  ]      pm_mdd_lib.lib(pmutils.obj)
+BUILD: [01:0000004165:INFO  ]      pm_mdd_lib.lib(pmsysstate.obj)
+BUILD: [01:0000004165:INFO  ]      pm_mdd_lib.lib(pmtimer.obj)
+BUILD: [01:0000004165:INFO  ]      pm_mdd_lib.lib(pmsystem.obj)
+BUILD: [01:0000004165:INFO  ]      pm_mdd_lib.lib(pmstream.obj)
+BUILD: [01:0000004165:INFO  ]      pm_mdd_lib.lib(pmdisplay.obj)
+BUILD: [01:0000004165:INFO  ]      pm_mdd_lib.lib(pmsqm.obj)
+BUILD: [01:0000004165:INFO  ]      pm_mdd_lib.lib(pmexthdl.obj)
+BUILD: [01:0000004165:INFO  ]      pm_mdd_lib.lib(sqmproxy.obj)
+BUILD: [01:0000004165:INFO  ]      pm_pdd_common_lib.lib(pddpolicy.obj)
+BUILD: [01:0000004165:INFO  ]      pm_pdd_common_lib.lib(pddpower.obj)
+BUILD: [01:0000004165:INFO  ]      pm_pdd_common_lib.lib(pddnotify.obj)
+BUILD: [01:0000004165:INFO  ]      coredll.lib(COREDLL.dll)
+BUILD: [01:0000004165:INFO  ]      coredll.lib(COREDLL.dll)
+BUILD: [01:0000004165:INFO  ]      coredll.lib(COREDLL.dll)
+BUILD: [01:0000004165:INFO  ]      coredll.lib(COREDLL.dll)
+BUILD: [01:0000004165:INFO  ]      coredll.lib(COREDLL.dll)
+BUILD: [01:0000004165:INFO  ]      coredll.lib(COREDLL.dll)
+BUILD: [01:0000004165:INFO  ]      coredll.lib(COREDLL.dll)
+BUILD: [01:0000004165:INFO  ]      coredll.lib(COREDLL.dll)
+BUILD: [01:0000004165:INFO  ]      coredll.lib(COREDLL.dll)
+BUILD: [01:0000004165:INFO  ]      coredll.lib(COREDLL.dll)
+BUILD: [01:0000004165:INFO  ]      coredll.lib(COREDLL.dll)
+BUILD: [01:0000004165:INFO  ]      coredll.lib(COREDLL.dll)
+BUILD: [01:0000004165:INFO  ]      coredll.lib(COREDLL.dll)
+BUILD: [01:0000004165:INFO  ]      coredll.lib(COREDLL.dll)
+BUILD: [01:0000004165:INFO  ]      coredll.lib(COREDLL.dll)
+BUILD: [01:0000004165:INFO  ]      coredll.lib(COREDLL.dll)
+BUILD: [01:0000004165:INFO  ]      coredll.lib(COREDLL.dll)
+BUILD: [01:0000004165:INFO  ]      coredll.lib(COREDLL.dll)
+BUILD: [01:0000004165:INFO  ]      coredll.lib(COREDLL.dll)
+BUILD: [01:0000004165:INFO  ]      coredll.lib(COREDLL.dll)
+BUILD: [01:0000004165:INFO  ]      coredll.lib(COREDLL.dll)
+BUILD: [01:0000004165:INFO  ]      coredll.lib(COREDLL.dll)
+BUILD: [01:0000004165:INFO  ]      coredll.lib(COREDLL.dll)
+BUILD: [01:0000004165:INFO  ]      coredll.lib(COREDLL.dll)
+BUILD: [01:0000004165:INFO  ]      coredll.lib(COREDLL.dll)
+BUILD: [01:0000004165:INFO  ]      coredll.lib(COREDLL.dll)
+BUILD: [01:0000004165:INFO  ]      coredll.lib(COREDLL.dll)
+BUILD: [01:0000004165:INFO  ]      coredll.lib(COREDLL.dll)
+BUILD: [01:0000004165:INFO  ]      coredll.lib(COREDLL.dll)
+BUILD: [01:0000004165:INFO  ]      coredll.lib(COREDLL.dll)
+BUILD: [01:0000004165:INFO  ]      coredll.lib(COREDLL.dll)
+BUILD: [01:0000004165:INFO  ]      coredll.lib(COREDLL.dll)
+BUILD: [01:0000004165:INFO  ]      coredll.lib(COREDLL.dll)
+BUILD: [01:0000004165:INFO  ]      coredll.lib(COREDLL.dll)
+BUILD: [01:0000004165:INFO  ]      coredll.lib(COREDLL.dll)
+BUILD: [01:0000004165:INFO  ]      coredll.lib(COREDLL.dll)
+BUILD: [01:0000004165:INFO  ]      coredll.lib(COREDLL.dll)
+BUILD: [01:0000004165:INFO  ]      coredll.lib(COREDLL.dll)
+BUILD: [01:0000004165:INFO  ]      coredll.lib(COREDLL.dll)
+BUILD: [01:0000004165:INFO  ]      coredll.lib(COREDLL.dll)
+BUILD: [01:0000004165:INFO  ]      coredll.lib(COREDLL.dll)
+BUILD: [01:0000004165:INFO  ]      coredll.lib(COREDLL.dll)
+BUILD: [01:0000004165:INFO  ]      coredll.lib(COREDLL.dll)
+BUILD: [01:0000004181:INFO  ]      coredll.lib(COREDLL.dll)
+BUILD: [01:0000004181:INFO  ]      coredll.lib(COREDLL.dll)
+BUILD: [01:0000004181:INFO  ]      coredll.lib(COREDLL.dll)
+BUILD: [01:0000004181:INFO  ]      coredll.lib(COREDLL.dll)
+BUILD: [01:0000004181:INFO  ]      coredll.lib(COREDLL.dll)
+BUILD: [01:0000004181:INFO  ]      coredll.lib(COREDLL.dll)
+BUILD: [01:0000004181:INFO  ]      coredll.lib(COREDLL.dll)
+BUILD: [01:0000004181:INFO  ]      coredll.lib(COREDLL.dll)
+BUILD: [01:0000004181:INFO  ]      coredll.lib(COREDLL.dll)
+BUILD: [01:0000004181:INFO  ]      coredll.lib(COREDLL.dll)
+BUILD: [01:0000004181:INFO  ]      coredll.lib(COREDLL.dll)
+BUILD: [01:0000004181:INFO  ]      coredll.lib(COREDLL.dll)
+BUILD: [01:0000004181:INFO  ]      coredll.lib(COREDLL.dll)
+BUILD: [01:0000004181:INFO  ]      coredll.lib(COREDLL.dll)
+BUILD: [01:0000004181:INFO  ]      coredll.lib(COREDLL.dll)
+BUILD: [01:0000004181:INFO  ]      coredll.lib(COREDLL.dll)
+BUILD: [01:0000004181:INFO  ]      coredll.lib(COREDLL.dll)
+BUILD: [01:0000004181:INFO  ]      coredll.lib(COREDLL.dll)
+BUILD: [01:0000004181:INFO  ]      coredll.lib(COREDLL.dll)
+BUILD: [01:0000004181:INFO  ]      coredll.lib(COREDLL.dll)
+BUILD: [01:0000004181:INFO  ]      coredll.lib(COREDLL.dll)
+BUILD: [01:0000004181:INFO  ]      coredll.lib(COREDLL.dll)
+BUILD: [01:0000004181:INFO  ]      coredll.lib(COREDLL.dll)
+BUILD: [01:0000004181:INFO  ]      coredll.lib(COREDLL.dll)
+BUILD: [01:0000004181:INFO  ]      coredll.lib(COREDLL.dll)
+BUILD: [01:0000004181:INFO  ]      coredll.lib(COREDLL.dll)
+BUILD: [01:0000004181:INFO  ]      coredll.lib(COREDLL.dll)
+BUILD: [01:0000004181:INFO  ]      coredll.lib(COREDLL.dll)
+BUILD: [01:0000004181:INFO  ]      coredll.lib(COREDLL.dll)
+BUILD: [01:0000004181:INFO  ]      coredll.lib(COREDLL.dll)
+BUILD: [01:0000004181:INFO  ]      coredll.lib(COREDLL.dll)
+BUILD: [01:0000004181:INFO  ]      coredll.lib(COREDLL.dll)
+BUILD: [01:0000004181:INFO  ]      coredll.lib(COREDLL.dll)
+BUILD: [01:0000004181:INFO  ]      coredll.lib(COREDLL.dll)
+BUILD: [01:0000004181:INFO  ]      coredll.lib(COREDLL.dll)
+BUILD: [01:0000004181:INFO  ]      cspddk.lib(CSPDDK.dll)
+BUILD: [01:0000004181:INFO  ]      cspddk.lib(CSPDDK.dll)
+BUILD: [01:0000004181:INFO  ]      cspddk.lib(CSPDDK.dll)
+BUILD: [01:0000004181:INFO  ]      cspddk.lib(CSPDDK.dll)
+BUILD: [01:0000004181:INFO  ]      cspddk.lib(CSPDDK.dll)
+BUILD: [01:0000004181:INFO  ]      ccrt0.lib(exitproc_proxy.obj)
+BUILD: [01:0000004181:INFO  ]      ccrt0.lib(seccinit.obj)
+BUILD: [01:0000004181:INFO  ]      ccrt0.lib(pegdmain.obj)
+BUILD: [01:0000004181:INFO  ]      ccrt0.lib(crt0msg.obj)
+BUILD: [01:0000004181:INFO  ]      ccrt0.lib(crt0init.obj)
+BUILD: [01:0000004181:INFO  ]      ccrt0.lib(crt0fp.obj)
+BUILD: [01:0000004181:INFO  ]      ccrt0.lib(crt0dat.obj)
+BUILD: [01:0000004181:INFO  ]      ccrt0.lib(cmiscdat.obj)
+BUILD: [01:0000004181:INFO  ]      ccrt0.lib(gshandlerseh.obj)
+BUILD: [01:0000004181:INFO  ]      ccrt0.lib(gshandler.obj)
+BUILD: [01:0000004181:INFO  ]      ccrt0.lib(secpushpop.obj)
+BUILD: [01:0000004181:INFO  ]      ccrt0.lib(armsecgs.obj)
+BUILD: [01:0000004181:INFO  ]      msvcrt.lib(MSVCRT.dll)
+BUILD: [01:0000004181:INFO  ]      msvcrt.lib(MSVCRT.dll)
+BUILD: [01:0000004181:INFO  ]      msvcrt.lib(MSVCRT.dll)
+BUILD: [01:0000004181:INFO  ]      msvcrt.lib(MSVCRT.dll)
+BUILD: [01:0000004181:INFO  ]      msvcrt.lib(MSVCRT.dll)
+BUILD: [01:0000004181:INFO  ]      msvcrt.lib(MSVCRT.dll)
+BUILD: [01:0000004181:INFO  ]      msvcrt.lib(MSVCRT.dll)
+BUILD: [01:0000004181:INFO  ]      msvcrt.lib(MSVCRT.dll)
+BUILD: [01:0000004181:INFO  ]      msvcrt.lib(MSVCRT.dll)
+BUILD: [01:0000004181:INFO  ]      msvcrt.lib(MSVCRT.dll)
+BUILD: [01:0000004181:INFO  ]      msvcrt.lib(MSVCRT.dll)
+BUILD: [01:0000004181:INFO  ]      msvcrt.lib(MSVCRT.dll)
+BUILD: [01:0000004181:INFO  ]      msvcrt.lib(MSVCRT.dll)
+BUILD: [01:0000004181:INFO  ]      msvcrt.lib(MSVCRT.dll)
+BUILD: [01:0000004181:INFO  ]      msvcrt.lib(MSVCRT.dll)
+BUILD: [01:0000004181:INFO  ]      msvcrt.lib(MSVCRT.dll)
+BUILD: [01:0000004181:INFO  ]      msvcrt.lib(MSVCRT.dll)
+BUILD: [01:0000004181:INFO  ]      msvcrt.lib(MSVCRT.dll)
+BUILD: [01:0000004181:INFO  ]      msvcrt.lib(MSVCRT.dll)
+BUILD: [01:0000004181:INFO  ]      msvcrt.lib(MSVCRT.dll)
+BUILD: [01:0000004181:INFO  ]      msvcrt.lib(MSVCRT.dll)
+BUILD: [01:0000004181:INFO  ]      msvcrt.lib(MSVCRT.dll)
+BUILD: [01:0000004181:INFO  ]      msvcrt.lib(MSVCRT.dll)
+BUILD: [01:0000004181:INFO  ]      msvcrt.lib(MSVCRT.dll)
+BUILD: [01:0000004181:INFO  ]      msvcrt.lib(MSVCRT.dll)
+BUILD: [01:0000004181:INFO  ]      msvcrt.lib(MSVCRT.dll)
+BUILD: [01:0000004181:INFO  ]      msvcrt.lib(MSVCRT.dll)
+BUILD: [01:0000004181:INFO  ]      msvcrt.lib(MSVCRT.dll)
+BUILD: [01:0000004181:INFO  ]      msvcrt.lib(MSVCRT.dll)
+BUILD: [01:0000004181:INFO  ] Finished pass 2
+BUILD: [01:0000004212:PROGC ] Warning(s) in directory "C:\wince800\platform\rrm_ppc_windows\src\drivers\pm\pdd\".
+BUILD: [01:0000004212:WARNN ] pm_mdd_lib.lib(sqmproxy.obj) : warning LNK4099: PDB 'sqmproxy.pdb' was not found with 'pm_mdd_lib.lib(sqmproxy.obj)' or at 'C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Retail\cesysgen\platform\rrm_ppc_windows\target\ARMV7\retail\sqmproxy.pdb'; linking object as if no debug info
+BUILD: [01:0000004992:INFO  ] 	C:\WINDOWS\system32\cmd.exe /c md C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\RelDir\rrm_ppc_windows_ARMV7_Release
+BUILD: [01:0000005008:INFO  ] A subdirectory or file C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\RelDir\rrm_ppc_windows_ARMV7_Release already exists.
+BUILD: [01:0000005008:INFO  ] 	C:\WINDOWS\system32\cmd.exe /c copy C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Retail\cesysgen\platform\rrm_ppc_windows\target\ARMV7\retail\pm.map C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\RelDir\rrm_ppc_windows_ARMV7_Release\pm.map
+BUILD: [01:0000005039:INFO  ]         1 file(s) copied.
+BUILD: [01:0000005039:INFO  ] 	C:\WINDOWS\system32\cmd.exe /c if exist C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Retail\cesysgen\platform\rrm_ppc_windows\target\ARMV7\retail\pm.pdb copy C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Retail\cesysgen\platform\rrm_ppc_windows\target\ARMV7\retail\pm.pdb C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\RelDir\rrm_ppc_windows_ARMV7_Release
+BUILD: [01:0000005054:INFO  ]         1 file(s) copied.
+BUILD: [01:0000005054:INFO  ] 	C:\WINDOWS\system32\cmd.exe /c if exist C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Retail\cesysgen\platform\rrm_ppc_windows\target\ARMV7\retail\pm.rel copy C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Retail\cesysgen\platform\rrm_ppc_windows\target\ARMV7\retail\pm.rel C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\RelDir\rrm_ppc_windows_ARMV7_Release\pm.rel
+BUILD: [01:0000005070:INFO  ]         1 file(s) copied.
+BUILD: [01:0000005086:INFO  ] 	C:\WINDOWS\system32\cmd.exe /c if exist C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Retail\cesysgen\platform\rrm_ppc_windows\target\ARMV7\retail\pm.res copy C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Retail\cesysgen\platform\rrm_ppc_windows\target\ARMV7\retail\pm.res C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\RelDir\rrm_ppc_windows_ARMV7_Release\pm.res
+BUILD: [01:0000005101:INFO  ] 	C:\WINDOWS\system32\cmd.exe /c copy C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Retail\cesysgen\platform\rrm_ppc_windows\target\ARMV7\retail\pm.dll C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\RelDir\rrm_ppc_windows_ARMV7_Release\pm.dll
+BUILD: [01:0000005117:INFO  ]         1 file(s) copied.
+BUILD: [00:0000005117:PROGC ] Starting LOCALIZE Pass.
+BUILD: [00:0000005117:PROGC ] Analyzing project dependency information for pass LOCALIZE.
+BUILD: [00:0000005132:PROGC ] Starting MANAGEDRESX Pass.
+BUILD: [00:0000005132:PROGC ] Analyzing project dependency information for pass MANAGEDRESX.
+BUILD: [00:0000005132:PROGC ] Starting MANAGEDMOD Pass.
+BUILD: [00:0000005132:PROGC ] Analyzing project dependency information for pass MANAGEDMOD.
+BUILD: [00:0000005132:PROGC ] Starting MANAGEDDLL Pass.
+BUILD: [00:0000005132:PROGC ] Analyzing project dependency information for pass MANAGEDDLL.
+BUILD: [00:0000005132:PROGC ] Starting MANAGEDEXE Pass.
+BUILD: [00:0000005132:PROGC ] Analyzing project dependency information for pass MANAGEDEXE.
+BUILD: [00:0000005132:PROGC ] Starting MANAGEDWIN Pass.
+BUILD: [00:0000005132:PROGC ] Analyzing project dependency information for pass MANAGEDWIN.
+BUILD: [00:0000005132:PROGC ] Starting POSTBUILD Pass.
+BUILD: [00:0000005132:PROGC ] Analyzing project dependency information for pass POSTBUILD.
+BUILD: [00:0000005132:PROGC ] Saving C:\wince800\platform\rrm_ppc_windows\BuildARMV7retail.dat.
+BUILD: [00:0000005132:INFO  ] Done.
+BUILD: [00:0000005132:PROGC ] Done.
+BUILD: [00:0000005132:PROGC ]                        Files  Warnings  Errors
+BUILD: [00:0000005132:PROGC ] Midl                       0         0       0
+BUILD: [00:0000005132:PROGC ] Message                    0         0       0
+BUILD: [00:0000005132:PROGC ] Precomp Header             0         0       0
+BUILD: [00:0000005132:PROGC ] Resource                   0         0       0
+BUILD: [00:0000005132:PROGC ] XRPack                     0         0       0
+BUILD: [00:0000005132:PROGC ] MASM                       0         0       0
+BUILD: [00:0000005132:PROGC ] SHASM                      0         0       0
+BUILD: [00:0000005132:PROGC ] ARMASM                     0         0       0
+BUILD: [00:0000005132:PROGC ] C++                        0         0       0
+BUILD: [00:0000005132:PROGC ] C                          0         0       0
+BUILD: [00:0000005132:PROGC ] CheckLibs                  0         0       0
+BUILD: [00:0000005132:PROGC ] Static Libraries           0         0       0
+BUILD: [00:0000005132:PROGC ] Exe's                      0         0       0
+BUILD: [00:0000005132:PROGC ] Dll's                      2         1       0
+BUILD: [00:0000005132:PROGC ] Preprocess deffile         0         0       0
+BUILD: [00:0000005132:PROGC ] Resx                       0         0       0
+BUILD: [00:0000005132:PROGC ] CSharp Compile             0         0       0
+BUILD: [00:0000005132:PROGC ] VCProj Compile             0         0       0
+BUILD: [00:0000005132:PROGC ] NETCF Build                0         0       0
+BUILD: [00:0000005132:PROGC ] Localization               0         0       0
+BUILD: [00:0000005132:PROGC ] Other                      0         0       0
+BUILD: [00:0000005132:PROGC ] 
+BUILD: [00:0000005132:PROGC ] Total                      2         1       0
+BUILD: [00:0000005132:PROGC ] 
+BUILD: [00:0000005132:PROGC ] 1 Warnings,  0 Errors
+BUILD: [00:0000005132:PROGC ] GetSystemTimes (seconds): Idle: 15    Kernel: 17    User: 3    
+BUILD: [00:0000005132:PROGC ] Elapsed  time  (seconds): 5    

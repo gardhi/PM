@@ -1,0 +1,433 @@
+EnvHash:
+
+EnvVars:
+ASM_ARCH_CMD_LINE
+CDEBUG_DEFINES
+CDECLDECORATION
+CODEPAGE
+CODE_ANALYSIS_CMD_LINE
+C_ARCH_CMD_LINE
+C_DEBUG_INFO_FLAG
+ERRORFORBANNEDAPIS_CMD_LINE
+EXCEPTION_CPP_CMD_LINE
+EXCEPTION_EXTERN_C_CMD_LINE
+HEADEROBJNAME
+LDEFSTACK
+LIBRARIAN_FLAGS
+LOCALE
+MAKEDIR
+OBJECTS
+OPTIMIZE_FAVOR_FLAG
+PASS0_SOURCEDIR
+PRECOMPILED_CPP_ONLY_CMD_LINE
+PRECOMPILED_C_ONLY_CMD_LINE
+PRECOMPILED_HEADEROBJNAME
+RTTI_CMD_LINE
+SG_OUTPUT_ROOT
+SOURCES
+TARGETNAME
+WARNLEVEL
+WINCEDEBUG
+_COMMONSOCLIBVERSION
+_COMMONSOCNAME
+_COMMONSOCVENDOR
+_DOTNETSDKROOT
+_PLATFORMROOT
+_PUBLICROOT
+_SOCLIBVERSION
+_SOCNAME
+_SOCVENDOR
+_TARGETPLATROOT
+_TGTCPU
+_TGTCPUDEFINES
+_TGTCPUFAMILY
+_TGTCPUISA
+_TGTPLAT
+_WINCEOSVER
+_WINCEROOT
+Includes:
+C:\WINCE800\public\common\oak\misc\makefile.def
+C:\WINCE800\public\common\oak\misc\Sources.default
+C:\WINCE800\platform\rrm_ppc_windows\sources.cmn
+C:\wince800\platform\rrm_ppc_windows\src\drivers\pm\pdd\sources
+C:\WINCE800\public\common\oak\misc\Sources.CE
+C:\WINCE800\public\common\oak\misc\sources.ReleaseType_PLATFORM
+Macros:
+ACF_SOURCES = platform.cpp pwstatemgr.cpp pwstates.cpp pwrButton.cpp
+ADDLIB_SOURCES = 
+ADEFINES = -pd "Thumbing SETL {FALSE}" -pd "Interworking SETL {TRUE}" -pd "DEBUG SETA 1" -pd "IMGDEBUG SETL {TRUE}" -pd "_WINCEOSVER SETA 800" -pd "ARM SETL {TRUE}" -pd "ARMV7 SETL {TRUE}"
+AFLAGS =  -machine ARM -i .,C:\WINCE800\platform\common\src\inc,C:\WINCE800\platform\rrm_ppc_windows\src\inc,C:\WINCE800\platform\common\src\soc\common_fsl_v4\inc,C:\WINCE800\platform\common\src\soc\common_fsl_v4\oal\inc,C:\WINCE800\platform\common\src\soc\mx6_fsl_v4\inc,C:\WINCE800\public\common\oak\inc,C:\WINCE800\public\common\sdk\inc,C:\WINCE800\public\common\ddk\inc,C:\WINCE800\public\common\oak\drivers\pm\mdd,C:\WINCE800\public\common\sdk\inc,C:\WINCE800\public\common\oak\inc,C:\WINCE800\public\common\ddk\inc,C:\WINCE800\public\common\sdk\inc\cestl,C:\WINCE800\public\common\sdk\inc\crt -i arm -pd "Thumbing SETL {FALSE}" -pd "Interworking SETL {TRUE}" -pd "DEBUG SETA 1" -pd "IMGDEBUG SETL {TRUE}" -pd "_WINCEOSVER SETA 800" -pd "ARM SETL {TRUE}" -pd "ARMV7 SETL {TRUE}" 
+ALLOW_BITFIELD_NON_INT = 1
+ALLOW_GTR_64KB_SOURCE = 1
+ALLOW_MISMATCHED_TYPES = 
+ALLOW_NAMELESS_STRUCT = 1
+ALLOW_TYPEDEF_IN_PARENS = 1
+ALLOW_UNREFERENCED_LOCAL_FUNCTION = 1
+ALLOW_UNREF_FORMAL_PARAMS = 1
+ALLUSERSPROFILE = C:\ProgramData
+APPDATA = C:\Users\gh\AppData\Roaming
+ARM = 1
+ARMV7 = 1
+AS = ml
+ASM_ARCH_CMD_LINE = 
+ASSEMBLER = armasm -nologo
+ASSEMBLER_CMD_LINE =  -machine ARM -i .,C:\WINCE800\platform\common\src\inc,C:\WINCE800\platform\rrm_ppc_windows\src\inc,C:\WINCE800\platform\common\src\soc\common_fsl_v4\inc,C:\WINCE800\platform\common\src\soc\common_fsl_v4\oal\inc,C:\WINCE800\platform\common\src\soc\mx6_fsl_v4\inc,C:\WINCE800\public\common\oak\inc,C:\WINCE800\public\common\sdk\inc,C:\WINCE800\public\common\ddk\inc,C:\WINCE800\public\common\oak\drivers\pm\mdd,C:\WINCE800\public\common\sdk\inc,C:\WINCE800\public\common\oak\inc,C:\WINCE800\public\common\ddk\inc,C:\WINCE800\public\common\sdk\inc\cestl,C:\WINCE800\public\common\sdk\inc\crt -i arm -pd "Thumbing SETL {FALSE}" -pd "Interworking SETL {TRUE}" -pd "DEBUG SETA 1" -pd "IMGDEBUG SETL {TRUE}" -pd "_WINCEOSVER SETA 800" -pd "ARM SETL {TRUE}" -pd "ARMV7 SETL {TRUE}" 
+ATL_LIBS = C:\WINCE800\others\atl9\lib\ARMV7\atls.lib C:\WINCE800\others\atl9\lib\ARMV7\atlosapis.lib
+ATL_LIBSD = C:\WINCE800\others\atl9\lib\ARMV7\atlsd.lib C:\WINCE800\others\atl9\lib\ARMV7\atlosapis.lib
+A_DEBUG_INFO_FLAG = -Zi
+BAD_POINTER_TO_MEMBER_SYNTAX = 1
+BROKEN_PCH = 1
+BSP_ALS = 1
+BSP_BACKLIGHT_PWM = 1
+BSP_BUSENUM2 = 1
+BSP_DISPLAY_LVDS1 = 1
+BSP_ECSPI1 = 1
+BSP_ENET = 1
+BSP_I2CBUS1 = 1
+BSP_I2CBUS2 = 1
+BSP_I2CBUS3 = 1
+BSP_IMX6Q = 1
+BSP_PP = 1
+BSP_TOUCH_HSD100 = 1
+BSP_USDHC2 = 1
+BSP_USDHC3 = 1
+BSP_USDHC4 = 1
+BUILDMSG = 
+BUILDROOT = C:\WINCE800\platform\rrm_ppc_windows
+BUILD_DEFAULT = -nmake -nologo
+BUILD_MULTIPROCESSOR = 0
+CBUG_FLAGS = -wd4007 -Zc:wchar_t- -Zc:forScope- -wd4867 -wd4430 -wd4603 -wd4627 -wd4100 -wd4201 -wd4115 -wd4214 -wd4049 -wd4505 -MT -U_MT
+CC = cl
+CCOMPILER = cl.exe -nologo 
+CDEBUG_FLAGS = -Ox -Os -Oy- -GF -Zi -FdC:\wince800\platform\rrm_ppc_windows\src\drivers\pm\pdd\obj\ARMV7\checked\pm.pdb
+CDECLDECORATION = 
+CDEFINES = -DTHUMBSUPPORT -D_CRT_SECURE_NO_DEPRECATE -D_USE_32BIT_TIME_T -DUNICODE -D_UNICODE -DUNDER_CE=800 -D_WIN32_WCE=0x0800 -DWINCEOEM -DWINCEINTERNAL -DWIN32 -DSTRICT -DARM -DARMV7 -D_ARM_ -D__RPC_ARM32__ -D_MIDL_USE_GUIDDEF_ -DDEBUG=1 -DCEDDK_USEDDKMACRO -DIMGDEBUG -D_WINCEOSVER=800 -DARM=1 -DARMV7=1 -DSABRE_SDB -DINTERNATIONAL -DINTLMSG_CODEPAGE=1252
+CEBASE = 1
+CFLAGS = -QRimplicit-import- /QRunaligned- -c -I. -IC:\WINCE800\platform\common\src\inc -IC:\WINCE800\platform\rrm_ppc_windows\src\inc -IC:\WINCE800\platform\common\src\soc\common_fsl_v4\inc -IC:\WINCE800\platform\common\src\soc\common_fsl_v4\oal\inc -IC:\WINCE800\platform\common\src\soc\mx6_fsl_v4\inc -IC:\WINCE800\public\common\oak\inc -IC:\WINCE800\public\common\sdk\inc -IC:\WINCE800\public\common\ddk\inc -IC:\WINCE800\public\common\oak\drivers\pm\mdd -IC:\WINCE800\public\common\sdk\inc -IC:\WINCE800\public\common\oak\inc -IC:\WINCE800\public\common\ddk\inc -IC:\WINCE800\public\common\sdk\inc\cestl -IC:\WINCE800\public\common\sdk\inc\crt -I.\Resource\0409 -Ox -Os -Oy- -GF -Zi -FdC:\wince800\platform\rrm_ppc_windows\src\drivers\pm\pdd\obj\ARMV7\checked\pm.pdb -DTHUMBSUPPORT -D_CRT_SECURE_NO_DEPRECATE -D_USE_32BIT_TIME_T -DUNICODE -D_UNICODE -DUNDER_CE=800 -D_WIN32_WCE=0x0800 -DWINCEOEM -DWINCEINTERNAL -DWIN32 -DSTRICT -DARM -DARMV7 -D_ARM_ -D__RPC_ARM32__ -D_MIDL_USE_GUIDDEF_ -DDEBUG=1 -DCEDDK_USEDDKMACRO -DIMGDEBUG -D_WINCEOSVER=800 -DARM=1 -DARMV7=1 -DSABRE_SDB -DINTERNATIONAL -DINTLMSG_CODEPAGE=1252 -FaC:\wince800\platform\rrm_ppc_windows\src\drivers\pm\pdd\obj\ARMV7\checked\ -FAsc -WX 
+CINCLUDES = -I. -IC:\WINCE800\platform\common\src\inc -IC:\WINCE800\platform\rrm_ppc_windows\src\inc -IC:\WINCE800\platform\common\src\soc\common_fsl_v4\inc -IC:\WINCE800\platform\common\src\soc\common_fsl_v4\oal\inc -IC:\WINCE800\platform\common\src\soc\mx6_fsl_v4\inc -IC:\WINCE800\public\common\oak\inc -IC:\WINCE800\public\common\sdk\inc -IC:\WINCE800\public\common\ddk\inc -IC:\WINCE800\public\common\oak\drivers\pm\mdd -IC:\WINCE800\public\common\sdk\inc -IC:\WINCE800\public\common\oak\inc -IC:\WINCE800\public\common\ddk\inc -IC:\WINCE800\public\common\sdk\inc\cestl -IC:\WINCE800\public\common\sdk\inc\crt -I.\Resource\0409
+CMD = C:\WINDOWS\system32\cmd.exe /c
+CODEPAGE = 1252
+CODE_ANALYSIS_CMD_LINE = 
+COMMONPROGRAMFILES = C:\Program Files (x86)\Common Files
+COMMONPROGRAMW6432 = C:\Program Files\Common Files
+COMPUTERNAME = LT-MDL01
+COMSPEC = C:\WINDOWS\system32\cmd.exe
+CONFORMING_FORSCOPE = 
+COPY = C:\WINDOWS\system32\cmd.exe /c copy
+COPYCMD = /y
+CPP = cl
+CRTINCLUDEPATH = C:\WINCE800\public\common\sdk\inc\cestl;C:\WINCE800\public\common\sdk\inc\crt
+CSC = "C:\windows\Microsoft.NET\Framework\v4.0.30319\csc.exe"
+CSC_DEBUG_CMD_LINE = /debug+ /debug:full
+CSC_DEBUG_DEFINE_CMD_LINE = /define:DEBUG
+CVTRES = cvtres -machine:ARM /WINDOWSCE
+CXX = cl
+CXXCOMPILER = cl.exe -nologo 
+C_ARCH_CMD_LINE = 
+C_COMMAND_LINE_OPTIONS = -QRimplicit-import- /QRunaligned- -c -I. -IC:\WINCE800\platform\common\src\inc -IC:\WINCE800\platform\rrm_ppc_windows\src\inc -IC:\WINCE800\platform\common\src\soc\common_fsl_v4\inc -IC:\WINCE800\platform\common\src\soc\common_fsl_v4\oal\inc -IC:\WINCE800\platform\common\src\soc\mx6_fsl_v4\inc -IC:\WINCE800\public\common\oak\inc -IC:\WINCE800\public\common\sdk\inc -IC:\WINCE800\public\common\ddk\inc -IC:\WINCE800\public\common\oak\drivers\pm\mdd -IC:\WINCE800\public\common\sdk\inc -IC:\WINCE800\public\common\oak\inc -IC:\WINCE800\public\common\ddk\inc -IC:\WINCE800\public\common\sdk\inc\cestl -IC:\WINCE800\public\common\sdk\inc\crt -I.\Resource\0409 -Ox -Os -Oy- -GF -Zi -FdC:\wince800\platform\rrm_ppc_windows\src\drivers\pm\pdd\obj\ARMV7\checked\pm.pdb -DTHUMBSUPPORT -D_CRT_SECURE_NO_DEPRECATE -D_USE_32BIT_TIME_T -DUNICODE -D_UNICODE -DUNDER_CE=800 -D_WIN32_WCE=0x0800 -DWINCEOEM -DWINCEINTERNAL -DWIN32 -DSTRICT -DARM -DARMV7 -D_ARM_ -D__RPC_ARM32__ -D_MIDL_USE_GUIDDEF_ -DDEBUG=1 -DCEDDK_USEDDKMACRO -DIMGDEBUG -D_WINCEOSVER=800 -DARM=1 -DARMV7=1 -DSABRE_SDB -DINTERNATIONAL -DINTLMSG_CODEPAGE=1252 -FaC:\wince800\platform\rrm_ppc_windows\src\drivers\pm\pdd\obj\ARMV7\checked\ -FAsc -WX -wd4007 -Zc:wchar_t- -Zc:forScope- -wd4867 -wd4430 -wd4603 -wd4627 -wd4100 -wd4201 -wd4115 -wd4214 -wd4049 -wd4505 -MT -U_MT /FC -W4 /GR-
+C_DEBUG_INFO_FLAG = -Zi
+DEBUG_LINK_CMD_LINE = -debug -incremental:no -debugtype:cv,fixup,PDATA -novcfeature
+DEFAULT_LOCALE = en-US
+DEFFILE = C:\WINCE800\public\common\oak\inc\pm.def
+DEFFILEFLAG = -def:C:\WINCE800\public\common\oak\inc\pm.def
+DEPRECATE_BANNED_CRT = 
+DEPRECATE_UNSAFE_CRT = 
+DEP_COMPATIBLE = 1
+DLLBASE = 0x10000000
+DLLENTRYOPTION = -include:DllMain -entry:_DllMainCRTStartup
+DLL_EXT = dll
+ECHO = C:\WINDOWS\system32\cmd.exe /c echo
+ENABLE_OPTIMIZER = 1
+ERRORFORBANNEDAPIS = 0
+ERRORFORBANNEDAPIS_CMD_LINE = 
+EXCEPTION_CPP = NONE
+EXCEPTION_EXTERN_C = THROW
+EXEBASE = 0x00010000
+EXEENTRYOPTION = -entry:WinMainCRTStartup
+EXPORTFILE = C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Checked\cesysgen\platform\rrm_ppc_windows\lib\ARMV7\checked\pm.exp
+EXTERNAL_SRCDIR = .
+FIXTS = C:\WINCE800\public\common\oak\bin\i386\fixts.exe
+FP_NO_HOST_CHECK = NO
+HOME = c:\WINCE800\
+HOMEDRIVE = C:
+HOMEPATH = \Users\gh
+HOSTCOMPILER = cl.exe
+IMGEBOOT = 1
+IMGNODEBUGGER = 1
+IMG_SCREEN_MEDIUM = 1
+IMG_XRST_THEME_3 = 1
+INCLUDEPATH = .;C:\WINCE800\platform\common\src\inc;C:\WINCE800\platform\rrm_ppc_windows\src\inc;C:\WINCE800\platform\common\src\soc\common_fsl_v4\inc;C:\WINCE800\platform\common\src\soc\common_fsl_v4\oal\inc;C:\WINCE800\platform\common\src\soc\mx6_fsl_v4\inc;C:\WINCE800\public\common\oak\inc;C:\WINCE800\public\common\sdk\inc;C:\WINCE800\public\common\ddk\inc;C:\WINCE800\public\common\oak\drivers\pm\mdd;C:\WINCE800\public\common\sdk\inc;C:\WINCE800\public\common\oak\inc;C:\WINCE800\public\common\ddk\inc;C:\WINCE800\public\common\sdk\inc\cestl;C:\WINCE800\public\common\sdk\inc\crt
+INCLUDES = ;C:\WINCE800\platform\common\src\inc;C:\WINCE800\platform\rrm_ppc_windows\src\inc;C:\WINCE800\platform\common\src\soc\common_fsl_v4\inc;C:\WINCE800\platform\common\src\soc\common_fsl_v4\oal\inc;C:\WINCE800\platform\common\src\soc\mx6_fsl_v4\inc;;C:\WINCE800\public\common\oak\inc;C:\WINCE800\public\common\sdk\inc;C:\WINCE800\public\common\ddk\inc;C:\WINCE800\public\common\oak\drivers\pm\mdd
+LDEFINES = -MERGE:.rdata=.text -merge:.astart=.text -ignore:4001,4070,4078,4086,4089,4096,4099,4108,4229 /STACK:65536,4096
+LDEFSTACK = /STACK:65536,4096
+LIBRARIAN = link.exe -lib 
+LINKER = link.exe /LARGEADDRESSAWARE /filealign:0x1000
+LINKER_DEBUG =  /verbose
+LINKER_SUBSYSTEM = /subsystem:windowsce,8.00
+LOCALAPPDATA = C:\Users\gh\AppData\Local
+LOCALE = 0409
+LOGONSERVER = \\DC-HOVIK
+MACHINEOPTION = -machine:ARM
+MAKE = C:\WINCE800\public\common\oak\Bin\i386\nmake.exe
+MAKECMD = C:\WINCE800\public\common\oak\Bin\i386\nmake.exe 
+MAKEDIR = C:\wince800\platform\rrm_ppc_windows\src\drivers\pm\pdd
+MAKEFLAGS =  
+MANAGED_ADDMODULES_DEFAULT_DIR = C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Checked\cesysgen\platform\rrm_ppc_windows\target\ARMV7\checked
+MANAGED_CS = 1
+MANAGED_DLL_TARGET_DIRECTORY = C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Checked\cesysgen\platform\rrm_ppc_windows\target\ARMV7\checked
+MANAGED_EXE_TARGET_DIRECTORY = C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Checked\cesysgen\platform\rrm_ppc_windows\target\ARMV7\checked
+MANAGED_FRAMEWORK_DIR = C:\WINCE800\public\netcf\sdk\target\managed\checked
+MANAGED_INTERMEDIATE_PDB = C:\wince800\platform\rrm_ppc_windows\src\drivers\pm\pdd\obj\ARMV7\checked\pm.pdb
+MANAGED_INTERMEDIATE_TARGET = C:\wince800\platform\rrm_ppc_windows\src\drivers\pm\pdd\obj\ARMV7\checked\pm.
+MANAGED_MODULE_TARGET_DIRECTORY = C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Checked\cesysgen\platform\rrm_ppc_windows\target\ARMV7\checked
+MANAGED_REFERENCES_DEFAULT_DIR = C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Checked\cesysgen\platform\rrm_ppc_windows\target\ARMV7\checked
+MANAGED_TARGET_PDB = \pm.pdb
+MANAGED_WINEXE_TARGET_DIRECTORY = C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Checked\cesysgen\platform\rrm_ppc_windows\target\ARMV7\checked
+MC_SOURCEDIR = .
+MESSAGE_COMPILER = mc
+MIDLCOMPILER = midl.exe -nologo /env arm32
+MIDL_FLAGS =  -no_stamp -sal
+MIDL_OPTIMIZATION = -Oicf
+MKDIR = C:\WINDOWS\system32\cmd.exe /c mkdir
+MKTYPLIBFLAGS = /win32 /mktyplib203 /no_stamp
+MSBUILD = C:\windows\Microsoft.NET\Framework\v4.0.30319\msbuild.exe
+MSBUILDLOADMICROSOFTTARGETSREADONLY = true
+MSBUILD_FLAGS =  /consoleloggerparameters:NoSummary
+NOCRTDLL = 1
+NOIMPLICITIMPORT = 1
+NOINCLUDEOBJMAC = 1
+NOMIPS16CODE = 1
+NO_WCHAR_T = 1
+NUMBER_OF_PROCESSORS = 4
+O = obj\ARMV7\checked
+OBJ_PATH = C:\wince800\platform\rrm_ppc_windows\src\drivers\pm\pdd
+OPTIMIZE_FAVOR = SPACE
+OPTIMIZE_FAVOR_FLAG = -Os
+OS = Windows_NT
+PASS0_HEADERDIR = .
+PASS0_SOURCEDIR = .
+PATH = C:\WINCE800\sdk\bin\i386\ARM;C:\WINCE800\sdk\bin\i386;C:\WINCE800\sdk\bin\i386\ARM;C:\WINCE800\public\common\oak\Bin\i386;C:\WINCE800\private\bin\i386;C:\WINCE800\private\bat;C:\WINCE800\public\common\oak\misc;C:\WINCE800\developr\gh;C:\Python26;C:\Qt\5.2.1\qt-src\qt-base\bin;C:\Python34;C:\Perl64\site\bin;C:\Perl64\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Microsoft\Web Platform Installer\;C:\Program Files (x86)\Microsoft ASP.NET\ASP.NET Web Pages\v1.0\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files (x86)\Windows Kits\8.0\Windows Performance Toolkit\;C:\Program Files\Microsoft Network Monitor 3\;C:\Program Files (x86)\Microsoft Visual Studio 11.0\Common7\IDE\Extensions\Microsoft\VsGraphics;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files (x86)\Microsoft Platform Builder\8.00\cepb\ideVS
+PATHEXT = .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.PY
+PBCONFIG = PPC_WEC2013 ARMV7 Release
+PBCONFIGTAG = A6C19DBE
+PBWORKSPACE = C:\WINCE800\OSDESI~1\RRM_PP~1\RRM_PP~1\RRM_PP~1.PBX
+PBWORKSPACEROOT = C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows
+PKGDEFAPPLICATIONCONFIGFILE = C:\Users\gh\AppData\Local\Microsoft\VisualStudio\11.0\devenv.exe.config
+PRECOMPILED_CPP_ONLY_CMD_LINE = 
+PRECOMPILED_C_ONLY_CMD_LINE = 
+PRECOMPILED_GENERATE_CMD_LINE = /Tc
+PROCESSOR_ARCHITECTURE = x86
+PROCESSOR_ARCHITEW6432 = AMD64
+PROCESSOR_IDENTIFIER = Intel64 Family 6 Model 37 Stepping 5, GenuineIntel
+PROCESSOR_LEVEL = 6
+PROCESSOR_REVISION = 2505
+PROGRAMDATA = C:\ProgramData
+PROGRAMFILES = C:\Program Files (x86)
+PROGRAMW6432 = C:\Program Files
+PROMPT = 
+PSMODULEPATH = C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules\
+PUBLIC = C:\Users\Public
+PYTHONPATH = C:\Python34\Lib\site-packages
+RC = rc
+RCFLAGS = 
+RCOMPILER = rc.exe -r -I. -IC:\WINCE800\platform\common\src\inc -IC:\WINCE800\platform\rrm_ppc_windows\src\inc -IC:\WINCE800\platform\common\src\soc\common_fsl_v4\inc -IC:\WINCE800\platform\common\src\soc\common_fsl_v4\oal\inc -IC:\WINCE800\platform\common\src\soc\mx6_fsl_v4\inc -IC:\WINCE800\public\common\oak\inc -IC:\WINCE800\public\common\sdk\inc -IC:\WINCE800\public\common\ddk\inc -IC:\WINCE800\public\common\oak\drivers\pm\mdd -IC:\WINCE800\public\common\sdk\inc -IC:\WINCE800\public\common\oak\inc -IC:\WINCE800\public\common\ddk\inc -IC:\WINCE800\public\common\sdk\inc\cestl -IC:\WINCE800\public\common\sdk\inc\crt -I.\Resource\0409 -DWINCEINTERNAL -DUNDER_CE=800 -D_WIN32_WCE=0x0800 -DINTERNATIONAL -l 409 -c 1252 -DDEBUG
+RDEFINES = -DWINCEINTERNAL -DUNDER_CE=800 -D_WIN32_WCE=0x0800 -DINTERNATIONAL -l 409 -c 1252 -DDEBUG
+RELEASETYPE = PLATFORM
+RENUMBERICONIDS_CMD = C:\WINCE800\public\common\oak\bin\i386\RenumberIconIds.exe
+RES2RES = C:\WINCE800\public\common\oak\bin\i386\res2res.exe
+RESGEN = resgen.exe
+RESX_RESOURCE_TARGET_PATH = C:\wince800\platform\rrm_ppc_windows\src\drivers\pm\pdd\obj\ARMV7\checked
+RTTI = NO
+RTTI_CMD_LINE = /GR-
+SAFESEH = 1
+SESSIONNAME = Console
+SG_OUTPUT_OAKLIB = C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Checked\cesysgen\oak\lib\ARMV7\checked
+SG_OUTPUT_OAKTGT = C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Checked\cesysgen\oak\target\ARMV7\checked
+SG_OUTPUT_OAKTGTMGD = C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Checked\cesysgen\oak\target\managed
+SG_OUTPUT_OAK_MANAGED = C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Checked\cesysgen\oak\target\managed\checked
+SG_OUTPUT_ROOT = C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Checked\cesysgen
+SG_OUTPUT_SDKLIB = C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Checked\cesysgen\sdk\lib\ARMV7\checked
+SG_OUTPUT_SDKTGTMGD = C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Checked\cesysgen\sdk\target\managed
+SG_OUTPUT_SDK_MANAGED = C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Checked\cesysgen\sdk\target\managed\checked
+SIGNBIN = C:\WINCE800\public\common\oak\bin\i386\signbin.cmd
+SN = sn.exe
+SOURCELIBS =  C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Checked\cesysgen\oak\lib\ARMV7\checked\pm_mdd_lib.lib C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Checked\cesysgen\oak\lib\ARMV7\checked\pm_pdd_common_lib.lib C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Checked\cesysgen\oak\lib\ARMV7\checked\cspddk.lib
+SOURCELIBS_DELIMITED = ***C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Checked\cesysgen\oak\lib\ARMV7\checked\pm_mdd_lib.lib**C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Checked\cesysgen\oak\lib\ARMV7\checked\pm_pdd_common_lib.lib**C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Checked\cesysgen\oak\lib\ARMV7\checked\cspddk.lib*
+SOURCELIBS_NOBATCH =  C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Checked\cesysgen\oak\lib\ARMV7\checked\pm_mdd_lib.lib C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Checked\cesysgen\oak\lib\ARMV7\checked\pm_pdd_common_lib.lib C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Checked\cesysgen\oak\lib\ARMV7\checked\cspddk.lib 
+SOURCELIBS_NOBATCH_DELIMITED = ***C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Checked\cesysgen\oak\lib\ARMV7\checked\pm_mdd_lib.lib**C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Checked\cesysgen\oak\lib\ARMV7\checked\pm_pdd_common_lib.lib**C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Checked\cesysgen\oak\lib\ARMV7\checked\cspddk.lib*
+SOURCES = platform.cpp pwstatemgr.cpp pwstates.cpp pwrButton.cpp
+SUPPORT_DEFAULT_INT = 1
+SYSGEN_APPDEBUG = 1
+SYSGEN_ATL = 1
+SYSGEN_AUTH = 1
+SYSGEN_AUTH_KERBEROS = 1
+SYSGEN_AUTH_NTLM = 1
+SYSGEN_AUTH_SCHANNEL = 1
+SYSGEN_BACKLIGHT = 1
+SYSGEN_CMD = 1
+SYSGEN_COMMCTRL = 1
+SYSGEN_COMMDLG = 1
+SYSGEN_CONSOLE = 1
+SYSGEN_DCOM = 1
+SYSGEN_DDRAW = 1
+SYSGEN_ETH_80211_NWIFI = 1
+SYSGEN_FIREWALL = 1
+SYSGEN_HELP = 1
+SYSGEN_JSCRIPT = 1
+SYSGEN_MFC = 1
+SYSGEN_MINSHELL = 1
+SYSGEN_MINWMGR = 1
+SYSGEN_MSHTML = 1
+SYSGEN_MSXML = 1
+SYSGEN_MULTIMON = 1
+SYSGEN_NETCF_WINFORMS = 1
+SYSGEN_NETUTILS = 1
+SYSGEN_NETWORKING = 1
+SYSGEN_NOTIFY = 1
+SYSGEN_OLE = 1
+SYSGEN_PM = 1
+SYSGEN_REMOTETOOLS = 1
+SYSGEN_SDBUS = 1
+SYSGEN_SD_MEMORY = 1
+SYSGEN_SOFTKB = 1
+SYSGEN_VBSCRIPT = 1
+SYSGEN_WININET = 1
+SYSGEN_XAMLIM = 1
+SYSGEN_XPSKIN = 1
+SYSTEMDRIVE = C:
+SYSTEMROOT = C:\WINDOWS
+S_ATL_LIBS = C:\WINCE800\others\atl9\lib\ARMV7\atls.lib C:\WINCE800\others\atl9\lib\ARMV7\atlosapis.lib
+S_ATL_LIBSD = C:\WINCE800\others\atl9\lib\ARMV7\atlsd.lib C:\WINCE800\others\atl9\lib\ARMV7\atlosapis.lib
+TARGETEXEFILES = C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Checked\cesysgen\platform\rrm_ppc_windows\target\ARMV7\checked\pm.dll
+TARGETEXPFILES = C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Checked\cesysgen\platform\rrm_ppc_windows\lib\ARMV7\checked\pm.exp
+TARGETLIBFILES = C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Checked\cesysgen\platform\rrm_ppc_windows\lib\ARMV7\checked\pm.lib
+TARGETLIBS = C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Checked\cesysgen\sdk\lib\ARMV7\checked\coredll.lib C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Checked\cesysgen\oak\lib\ARMV7\checked\ccrt0.lib C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Checked\cesysgen\oak\lib\ARMV7\checked\msvcrt.lib
+TARGETNAME = pm
+TARGETOBJFILES =  
+TARGETTHREADMODEL = ST
+TARGETTYPE = DYNLINK
+TARGET_PDB_NAME = C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Checked\cesysgen\platform\rrm_ppc_windows\target\ARMV7\checked\pm.pdb
+TEMP = C:\Users\gh\AppData\Local\Temp\bld_49682
+TGTCPUDEFINES = -DARM -DARMV7 -D_ARM_ -D__RPC_ARM32__
+TGTCPUISANAME = ARMV7
+TMP = C:\Users\gh\AppData\Local\Temp\bld_49682
+TYPE = C:\WINDOWS\system32\cmd.exe /c type
+UATDATA = C:\WINDOWS\CCM\UATData\D9F8C395-CAB8-491d-B8AC-179A1FE1BE77
+USERDNSDOMAIN = data-respons.com
+USERDOMAIN = DATA-RESPONS
+USERNAME = gh
+USERPROFILE = C:\Users\gh
+USING_PB_WORKSPACE_ENVIRONMENT = 1
+VBOX_INSTALL_PATH = C:\Program Files\Oracle\VirtualBox\
+VISUALSTUDIODIR = C:\Users\gh\Documents\Visual Studio 2012
+VISUALSTUDIOEDITION = Microsoft Visual Studio Professional 2012
+VISUALSTUDIOVERSION = 11.0
+VS110COMNTOOLS = C:\Program Files (x86)\Microsoft Visual Studio 11.0\Common7\Tools\
+VSLANG = 1033
+WARNISERROR = 1
+WARNLEVEL = 4
+WARNLEVEL_CMD_LINE = -W4
+WECSDK = SDKTEST
+WINCECOD = 1
+WINCECPU = 1
+WINCEDEBUG = checked
+WINCEDEBUG_COMPILE = debug
+WINCEMAP = 1
+WINCEOEM = 1
+WINCEREL = 1
+WINCETREE = 
+WINCEVSCRT_DEBUG_SUFFIX = 
+WINCE_ELIM_DEAD_CODE = 1
+WINCE_VERBOSE_LINK = 1
+WINDIR = C:\WINDOWS
+WINDOWS_TRACING_FLAGS = 3
+WINDOWS_TRACING_LOGFILE = C:\BVTBin\Tests\installpackage\csilogfile.log
+WPP_TARGETS = 
+XCOPY = xcopy /exclude:C:\WINCE800\public\common\oak\misc\exclude.txt
+_BUILDERR = : ERROR:
+_BUILDMSG = : Message:
+_BUILDOUTPUTFILTER_RUNNING = 1
+_BUILDWRN = : Warning:
+_CDTMP = -DTHUMBSUPPORT -D_CRT_SECURE_NO_DEPRECATE -D_USE_32BIT_TIME_T -DUNICODE -D_UNICODE -DUNDER_CE=800 -D_WIN32_WCE=0x0800 -DWINCEOEM -DWINCEINTERNAL -DWIN32 -DSTRICT -DARM -DARMV7 -D_ARM_ -D__RPC_ARM32__ -D_MIDL_USE_GUIDDEF_ -DDEBUG=1 -DCEDDK_USEDDKMACRO -DIMGDEBUG -D_WINCEOSVER=800 -DARM=1 -DARMV7=1 -DSABRE_SDB -DINTERNATIONAL -DINTLMSG_CODEPAGE=1252 DUMMY
+_COMMONDDKROOT = C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Checked\cesysgen\ddk
+_COMMONOAKROOT = C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Checked\cesysgen\oak
+_COMMONPUBROOT = C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Checked\cesysgen
+_COMMONSDKROOT = C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Checked\cesysgen\sdk
+_COMMONSOCDIR = common_fsl_v4
+_COMMONSOCLIBVERSION = v4
+_COMMONSOCNAME = common
+_COMMONSOCVENDOR = fsl
+_CPUDEPPATH = ARMV7\checked
+_CPUINDPATH = ARMV7\checked
+_DEPTREES = winceos dcom wgi html netcf servers cellcore ossvcs shell directx ostest CEBASE
+_DOTNET20ROOT = C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727
+_DOTNET20SP2INSTALLED = 1
+_DOTNET30ROOT = C:\WINDOWS\Microsoft.NET\Framework\v3.0
+_DOTNET30SP2INSTALLED = 1
+_DOTNET35ROOT = C:\Windows\Microsoft.NET\Framework\v3.5
+_DOTNET35SP1INSTALLED = 1
+_DOTNET40CLIENTINSTALLED = 1
+_DOTNET40FULLINSTALLED = 1
+_DOTNET40ROOT = C:\windows\Microsoft.NET\Framework\v4.0.30319
+_DOTNET45INSTALLED = 1
+_DOTNETSDKROOT = C:\windows\Microsoft.NET\Framework\v4.0.30319\
+_FLATRELEASEDIR = C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\RelDir\rrm_ppc_windows_ARMV7_Release
+_HOSTCPUTYPE = i386
+_ISVINCPATH = C:\WINCE800\public\common\sdk\inc;
+_MAJORVERSION = 8
+_MAKEENVROOT = C:\WINCE800\public\common\oak\misc
+_MANAGED_DIR = checked
+_MANAGED_FRAMEWORK_DIR = C:\WINCE800\public\netcf\sdk\target\managed\checked
+_MANAGED_FRAMEWORK_DIR_CE = C:\WINCE800\public\netcf\sdk\target\managed\checked
+_MINORVERSION = 00
+_NMAKE_VER = 11.00.50727.169
+_OBJDIR = C:\wince800\platform\rrm_ppc_windows\src\drivers\pm\pdd\obj\ARMV7\checked
+_OEMINCPATH = C:\WINCE800\public\common\sdk\inc;;C:\WINCE800\public\common\oak\inc;;C:\WINCE800\public\common\ddk\inc;
+_OSDESIGNDDKROOT = C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Checked\ddk
+_OSDESIGNOAKROOT = C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Checked\oak
+_OSDESIGNROOT = C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows
+_OSDESIGNSDKROOT = C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Checked\sdk
+_PB_INSTALL_ROOT = C:\PROGRA~2\MIFAB2~1\8.00
+_PLATCOMMONLIB = C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Checked\cesysgen\platcomm\rrm_ppc_windows\lib
+_PLATFORMDRIVE = C:
+_PLATFORMROOT = C:\WINCE800\platform
+_PLATLIB = C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Checked\cesysgen\platform\rrm_ppc_windows\lib
+_PMICNAME = LTC3589
+_PREWINCEPATH = C:\Python26;C:\Qt\5.2.1\qt-src\qt-base\bin;C:\Python34;C:\Perl64\site\bin;C:\Perl64\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Microsoft\Web Platform Installer\;C:\Program Files (x86)\Microsoft ASP.NET\ASP.NET Web Pages\v1.0\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files (x86)\Windows Kits\8.0\Windows Performance Toolkit\;C:\Program Files\Microsoft Network Monitor 3\;C:\Program Files (x86)\Microsoft Visual Studio 11.0\Common7\IDE\Extensions\Microsoft\VsGraphics
+_PRIVATEDRIVE = C:
+_PRIVATEROOT = C:\WINCE800\private
+_PROJECTDDKROOT = C:\WINCE800\public\CEBASE\ddk
+_PROJECTOAKROOT = C:\WINCE800\public\CEBASE\oak
+_PROJECTROOT = C:\WINCE800\public\CEBASE
+_PROJECTSDKROOT = C:\WINCE800\public\CEBASE\sdk
+_PROJPUBLICROOT = C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\WINCE800\PUBLIC
+_PUBLICDRIVE = C:
+_PUBLICROOT = C:\WINCE800\public
+_RELEASEDIR = C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Checked\cesysgen\platform\rrm_ppc_windows\target\ARMV7\checked
+_RELEASELIBDIR = C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Checked\cesysgen\platform\rrm_ppc_windows\lib\ARMV7\checked
+_SDKDRIVE = C:
+_SDKROOT = C:\WINCE800\sdk
+_SOCDIR = mx6_fsl_v4
+_SOCLIBVERSION = v4
+_SOCNAME = mx6
+_SOCVENDOR = fsl
+_SRCDIR = ARM
+_SYSGENDDKROOT = C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Checked\cesysgen\ddk
+_SYSGENOAKROOT = C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Checked\cesysgen\oak
+_SYSGENSDKROOT = C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Checked\cesysgen\sdk
+_TARGETPLATROOT = C:\WINCE800\platform\rrm_ppc_windows
+_TGTCPU = ARMV7
+_TGTCPUISA = V7
+_TGTOS = CE
+_TGTPLAT = rrm_ppc_windows
+_TGTPROJ = CEBASE
+_TLTMP = 
+_TOOLSSDKDRIVE = C:
+_TOOLSSDKROOT = C:\WINCE800\tools\public\ext
+_WINCECALLED = 1
+_WINCEDRIVE = C:
+_WINCEOSVER = 800
+_WINCEROOT = C:\WINCE800
+__CPUDIR = ARMV7\checked
+__PROJROOT = C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Checked\cesysgen
+dumplist = 1

@@ -1,0 +1,2 @@
+BUILD: [Thread:SystemTickCount:Type  ] Message
+BUILD: [01:0000004212:WARNN ] pm_mdd_lib.lib(sqmproxy.obj) : warning LNK4099: PDB 'sqmproxy.pdb' was not found with 'pm_mdd_lib.lib(sqmproxy.obj)' or at 'C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Retail\cesysgen\platform\rrm_ppc_windows\target\ARMV7\retail\sqmproxy.pdb'; linking object as if no debug info

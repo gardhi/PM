@@ -1,0 +1,107 @@
+BUILD: [Thread:SystemTickCount:Type  ] Message
+BUILD: [00:0000000000:PROGC ] Build started with parameters:
+BUILD: [00:0000000000:PROGC ] Build started in directory: C:\WINCE800\platform\rrm_ppc_windows\SRC\DRIVERS\PM
+BUILD: [00:0000000000:PROGC ] Running passes WCEFILES0, MIDL, MC, ASN, THUNK, RUN_WPP, XRPACK, PRECOMPHEADER, COMPILE, RENUMBERICONIDS, RES2RES, LIB, EXPLIB, LINK, LOCALIZE, MANAGEDRESX, MANAGEDMOD, MANAGEDDLL, MANAGEDEXE, MANAGEDWIN, POSTBUILD for ARM.
+BUILD: [00:0000000000:PROGC ] Loading database "C:\wince800\platform\rrm_ppc_windows\BuildARMV7retail.dat".
+BUILD: [00:0000000031:PROGC ] Done.
+BUILD: [00:0000000031:PROGC ] Computing include file dependencies:
+BUILD: [01:0000000031:PROGC ] Scan C:\wince800\platform\rrm_ppc_windows\src\drivers\pm\pdd\
+BUILD: [02:0000000031:PROGC ] Scan C:\wince800\platform\rrm_ppc_windows\src\drivers\pm\mdd\
+BUILD: [03:0000000031:PROGC ] Scan C:\wince800\platform\rrm_ppc_windows\src\drivers\pm\dll\
+BUILD: [00:0000000764:PROGC ] Directory scanning complete.
+BUILD: [00:0000000764:PROGC ] Saving Master Database complete.
+BUILD: [00:0000000764:PROGC ] Starting WCEFILES0 Pass.
+BUILD: [00:0000000764:PROGC ] Analyzing project dependency information for pass WCEFILES0.
+BUILD: [00:0000000764:PROGC ] Starting MIDL Pass.
+BUILD: [00:0000000764:PROGC ] Analyzing project dependency information for pass MIDL.
+BUILD: [00:0000000764:PROGC ] Starting MC Pass.
+BUILD: [00:0000000764:PROGC ] Analyzing project dependency information for pass MC.
+BUILD: [00:0000000764:PROGC ] Starting ASN Pass.
+BUILD: [00:0000000764:PROGC ] Analyzing project dependency information for pass ASN.
+BUILD: [00:0000000764:PROGC ] Starting THUNK Pass.
+BUILD: [00:0000000764:PROGC ] Analyzing project dependency information for pass THUNK.
+BUILD: [00:0000000764:PROGC ] Starting RUN_WPP Pass.
+BUILD: [00:0000000764:PROGC ] Analyzing project dependency information for pass RUN_WPP.
+BUILD: [00:0000000764:PROGC ] Starting XRPACK Pass.
+BUILD: [00:0000000764:PROGC ] Analyzing project dependency information for pass XRPACK.
+BUILD: [00:0000000764:PROGC ] Starting PRECOMPHEADER Pass.
+BUILD: [00:0000000764:PROGC ] Analyzing project dependency information for pass PRECOMPHEADER.
+BUILD: [00:0000000764:PROGC ] Starting COMPILE Pass.
+BUILD: [00:0000000764:PROGC ] Analyzing project dependency information for pass COMPILE.
+BUILD: [00:0000000982:PROGC ] Starting RENUMBERICONIDS Pass.
+BUILD: [00:0000000982:PROGC ] Analyzing project dependency information for pass RENUMBERICONIDS.
+BUILD: [00:0000000982:PROGC ] Starting RES2RES Pass.
+BUILD: [00:0000000982:PROGC ] Analyzing project dependency information for pass RES2RES.
+BUILD: [00:0000000982:PROGC ] Starting LIB Pass.
+BUILD: [00:0000000982:PROGC ] Analyzing project dependency information for pass LIB.
+BUILD: [00:0000001419:PROGC ] Starting EXPLIB Pass.
+BUILD: [00:0000001419:PROGC ] Analyzing project dependency information for pass EXPLIB.
+BUILD: [00:0000001638:PROGC ] Building EXPLIB Pass in C:\wince800\platform\rrm_ppc_windows\src\drivers\pm\pdd\ directory.
+BUILD: [00:0000001653:PROGC ] Building EXPLIB Pass in C:\wince800\platform\rrm_ppc_windows\src\drivers\pm\dll\ directory.
+BUILD: [01:0000001778:PROGC ] Linking C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Retail\cesysgen\platform\rrm_ppc_windows\lib\ARMV7\retail\pm.lib
+BUILD: [00:0000002028:PROGC ] Starting LINK Pass.
+BUILD: [00:0000002028:PROGC ] Analyzing project dependency information for pass LINK.
+BUILD: [00:0000002152:PROGC ] Building LINK Pass in C:\wince800\platform\rrm_ppc_windows\src\drivers\pm\dll\ directory.
+BUILD: [01:0000002277:PROGC ] Linking C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Retail\cesysgen\platform\rrm_ppc_windows\target\ARMV7\retail\pm.dll
+BUILD: [01:0000002808:PROGC ] Warning(s) in directory "C:\wince800\platform\rrm_ppc_windows\src\drivers\pm\dll\".
+BUILD: [01:0000002808:WARNN ] pm_mdd_lib.lib(pminit.obj) : warning LNK4099: PDB 'pm_mdd_lib.pdb' was not found with 'pm_mdd_lib.lib(pminit.obj)' or at 'C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Retail\cesysgen\platform\rrm_ppc_windows\target\ARMV7\retail\pm_mdd_lib.pdb'; linking object as if no debug info     ccrt0.lib(cmiscdat.obj)
+BUILD: [01:0000002808:WARNN ] pm_mdd_lib.lib(pmpnp.obj) : warning LNK4099: PDB 'pm_mdd_lib.pdb' was not found with 'pm_mdd_lib.lib(pmpnp.obj)' or at 'C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Retail\cesysgen\platform\rrm_ppc_windows\target\ARMV7\retail\pm_mdd_lib.pdb'; linking object as if no debug info
+BUILD: [01:0000002823:WARNN ] pm_mdd_lib.lib(pmdevice.obj) : warning LNK4099: PDB 'pm_mdd_lib.pdb' was not found with 'pm_mdd_lib.lib(pmdevice.obj)' or at 'C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Retail\cesysgen\platform\rrm_ppc_windows\target\ARMV7\retail\pm_mdd_lib.pdb'; linking object as if no debug info
+BUILD: [01:0000002823:WARNN ] pm_mdd_lib.lib(pmrequire.obj) : warning LNK4099: PDB 'pm_mdd_lib.pdb' was not found with 'pm_mdd_lib.lib(pmrequire.obj)' or at 'C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Retail\cesysgen\platform\rrm_ppc_windows\target\ARMV7\retail\pm_mdd_lib.pdb'; linking object as if no debug info
+BUILD: [01:0000002823:WARNN ] pm_mdd_lib.lib(pmrelation.obj) : warning LNK4099: PDB 'pm_mdd_lib.pdb' was not found with 'pm_mdd_lib.lib(pmrelation.obj)' or at 'C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Retail\cesysgen\platform\rrm_ppc_windows\target\ARMV7\retail\pm_mdd_lib.pdb'; linking object as if no debug info
+BUILD: [01:0000002823:WARNN ] pm_mdd_lib.lib(pmnotify.obj) : warning LNK4099: PDB 'pm_mdd_lib.pdb' was not found with 'pm_mdd_lib.lib(pmnotify.obj)' or at 'C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Retail\cesysgen\platform\rrm_ppc_windows\target\ARMV7\retail\pm_mdd_lib.pdb'; linking object as if no debug info
+BUILD: [01:0000002839:WARNN ] pm_mdd_lib.lib(pmresume.obj) : warning LNK4099: PDB 'pm_mdd_lib.pdb' was not found with 'pm_mdd_lib.lib(pmresume.obj)' or at 'C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Retail\cesysgen\platform\rrm_ppc_windows\target\ARMV7\retail\pm_mdd_lib.pdb'; linking object as if no debug info
+BUILD: [01:0000002839:WARNN ] pm_mdd_lib.lib(pmutils.obj) : warning LNK4099: PDB 'pm_mdd_lib.pdb' was not found with 'pm_mdd_lib.lib(pmutils.obj)' or at 'C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Retail\cesysgen\platform\rrm_ppc_windows\target\ARMV7\retail\pm_mdd_lib.pdb'; linking object as if no debug info
+BUILD: [01:0000002839:WARNN ] pm_mdd_lib.lib(pmsysstate.obj) : warning LNK4099: PDB 'pm_mdd_lib.pdb' was not found with 'pm_mdd_lib.lib(pmsysstate.obj)' or at 'C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Retail\cesysgen\platform\rrm_ppc_windows\target\ARMV7\retail\pm_mdd_lib.pdb'; linking object as if no debug info
+BUILD: [01:0000002839:WARNN ] pm_mdd_lib.lib(pmtimer.obj) : warning LNK4099: PDB 'pm_mdd_lib.pdb' was not found with 'pm_mdd_lib.lib(pmtimer.obj)' or at 'C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Retail\cesysgen\platform\rrm_ppc_windows\target\ARMV7\retail\pm_mdd_lib.pdb'; linking object as if no debug info
+BUILD: [01:0000002839:WARNN ] pm_mdd_lib.lib(pmsystem.obj) : warning LNK4099: PDB 'pm_mdd_lib.pdb' was not found with 'pm_mdd_lib.lib(pmsystem.obj)' or at 'C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Retail\cesysgen\platform\rrm_ppc_windows\target\ARMV7\retail\pm_mdd_lib.pdb'; linking object as if no debug info
+BUILD: [01:0000002839:WARNN ] pm_mdd_lib.lib(pmstream.obj) : warning LNK4099: PDB 'pm_mdd_lib.pdb' was not found with 'pm_mdd_lib.lib(pmstream.obj)' or at 'C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Retail\cesysgen\platform\rrm_ppc_windows\target\ARMV7\retail\pm_mdd_lib.pdb'; linking object as if no debug info
+BUILD: [01:0000002839:WARNN ] pm_mdd_lib.lib(pmdisplay.obj) : warning LNK4099: PDB 'pm_mdd_lib.pdb' was not found with 'pm_mdd_lib.lib(pmdisplay.obj)' or at 'C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Retail\cesysgen\platform\rrm_ppc_windows\target\ARMV7\retail\pm_mdd_lib.pdb'; linking object as if no debug info
+BUILD: [01:0000002854:WARNN ] pm_mdd_lib.lib(pmsqm.obj) : warning LNK4099: PDB 'pm_mdd_lib.pdb' was not found with 'pm_mdd_lib.lib(pmsqm.obj)' or at 'C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Retail\cesysgen\platform\rrm_ppc_windows\target\ARMV7\retail\pm_mdd_lib.pdb'; linking object as if no debug info
+BUILD: [01:0000002854:WARNN ] pm_mdd_lib.lib(pmexthdl.obj) : warning LNK4099: PDB 'pm_mdd_lib.pdb' was not found with 'pm_mdd_lib.lib(pmexthdl.obj)' or at 'C:\WINCE800\osdesigns\rrm_ppc_windows\rrm_ppc_windows\Wince800\rrm_ppc_windows_ARMV7_Retail\cesysgen\platform\rrm_ppc_windows\target\ARMV7\retail\pm_mdd_lib.pdb'; linking object as if no debug info
+BUILD: [00:0000003229:PROGC ] Starting LOCALIZE Pass.
+BUILD: [00:0000003229:PROGC ] Analyzing project dependency information for pass LOCALIZE.
+BUILD: [00:0000003229:PROGC ] Starting MANAGEDRESX Pass.
+BUILD: [00:0000003229:PROGC ] Analyzing project dependency information for pass MANAGEDRESX.
+BUILD: [00:0000003229:PROGC ] Starting MANAGEDMOD Pass.
+BUILD: [00:0000003229:PROGC ] Analyzing project dependency information for pass MANAGEDMOD.
+BUILD: [00:0000003229:PROGC ] Starting MANAGEDDLL Pass.
+BUILD: [00:0000003229:PROGC ] Analyzing project dependency information for pass MANAGEDDLL.
+BUILD: [00:0000003229:PROGC ] Starting MANAGEDEXE Pass.
+BUILD: [00:0000003229:PROGC ] Analyzing project dependency information for pass MANAGEDEXE.
+BUILD: [00:0000003229:PROGC ] Starting MANAGEDWIN Pass.
+BUILD: [00:0000003229:PROGC ] Analyzing project dependency information for pass MANAGEDWIN.
+BUILD: [00:0000003229:PROGC ] Starting POSTBUILD Pass.
+BUILD: [00:0000003229:PROGC ] Analyzing project dependency information for pass POSTBUILD.
+BUILD: [00:0000003229:PROGC ] Saving C:\wince800\platform\rrm_ppc_windows\BuildARMV7retail.dat.
+BUILD: [00:0000003244:PROGC ] Done.
+BUILD: [00:0000003244:PROGC ]                        Files  Warnings  Errors
+BUILD: [00:0000003244:PROGC ] Midl                       0         0       0
+BUILD: [00:0000003244:PROGC ] Message                    0         0       0
+BUILD: [00:0000003244:PROGC ] Precomp Header             0         0       0
+BUILD: [00:0000003244:PROGC ] Resource                   0         0       0
+BUILD: [00:0000003244:PROGC ] XRPack                     0         0       0
+BUILD: [00:0000003244:PROGC ] MASM                       0         0       0
+BUILD: [00:0000003244:PROGC ] SHASM                      0         0       0
+BUILD: [00:0000003244:PROGC ] ARMASM                     0         0       0
+BUILD: [00:0000003244:PROGC ] C++                        0         0       0
+BUILD: [00:0000003244:PROGC ] C                          0         0       0
+BUILD: [00:0000003244:PROGC ] CheckLibs                  0         0       0
+BUILD: [00:0000003244:PROGC ] Static Libraries           0         0       0
+BUILD: [00:0000003244:PROGC ] Exe's                      0         0       0
+BUILD: [00:0000003244:PROGC ] Dll's                      2        15       0
+BUILD: [00:0000003244:PROGC ] Preprocess deffile         0         0       0
+BUILD: [00:0000003244:PROGC ] Resx                       0         0       0
+BUILD: [00:0000003244:PROGC ] CSharp Compile             0         0       0
+BUILD: [00:0000003244:PROGC ] VCProj Compile             0         0       0
+BUILD: [00:0000003244:PROGC ] NETCF Build                0         0       0
+BUILD: [00:0000003244:PROGC ] Localization               0         0       0
+BUILD: [00:0000003244:PROGC ] Other                      0         0       0
+BUILD: [00:0000003244:PROGC ] 
+BUILD: [00:0000003244:PROGC ] Total                      2        15       0
+BUILD: [00:0000003244:PROGC ] 
+BUILD: [00:0000003244:PROGC ] 15 Warnings,  0 Errors
+BUILD: [00:0000003244:PROGC ] GetSystemTimes (seconds): Idle: 7     Kernel: 9     User: 3    
+BUILD: [00:0000003244:PROGC ] Elapsed  time  (seconds): 3    
+Build for Windows CE (Release 800) (Built on Apr  2 2013 01:37:43)
+File names: Build.log Build.wrn Build.err BuildARMV7retail.dat

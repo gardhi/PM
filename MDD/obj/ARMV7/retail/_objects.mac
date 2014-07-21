@@ -1,0 +1,17 @@
+OBJECTS=\
+    C:\wince800\platform\rrm_ppc_windows\src\drivers\pm\mdd\obj\ARMV7\retail\pminit.obj\
+    C:\wince800\platform\rrm_ppc_windows\src\drivers\pm\mdd\obj\ARMV7\retail\pmpnp.obj\
+    C:\wince800\platform\rrm_ppc_windows\src\drivers\pm\mdd\obj\ARMV7\retail\pmdevice.obj\
+    C:\wince800\platform\rrm_ppc_windows\src\drivers\pm\mdd\obj\ARMV7\retail\pmrequire.obj\
+    C:\wince800\platform\rrm_ppc_windows\src\drivers\pm\mdd\obj\ARMV7\retail\pmrelation.obj\
+    C:\wince800\platform\rrm_ppc_windows\src\drivers\pm\mdd\obj\ARMV7\retail\pmnotify.obj\
+    C:\wince800\platform\rrm_ppc_windows\src\drivers\pm\mdd\obj\ARMV7\retail\pmresume.obj\
+    C:\wince800\platform\rrm_ppc_windows\src\drivers\pm\mdd\obj\ARMV7\retail\pmutils.obj\
+    C:\wince800\platform\rrm_ppc_windows\src\drivers\pm\mdd\obj\ARMV7\retail\pmsysstate.obj\
+    C:\wince800\platform\rrm_ppc_windows\src\drivers\pm\mdd\obj\ARMV7\retail\pmtimer.obj\
+    C:\wince800\platform\rrm_ppc_windows\src\drivers\pm\mdd\obj\ARMV7\retail\pmsystem.obj\
+    C:\wince800\platform\rrm_ppc_windows\src\drivers\pm\mdd\obj\ARMV7\retail\pmstream.obj\
+    C:\wince800\platform\rrm_ppc_windows\src\drivers\pm\mdd\obj\ARMV7\retail\pmdisplay.obj\
+    C:\wince800\platform\rrm_ppc_windows\src\drivers\pm\mdd\obj\ARMV7\retail\pmsqm.obj\
+    C:\wince800\platform\rrm_ppc_windows\src\drivers\pm\mdd\obj\ARMV7\retail\pmexthdl.obj
+

@@ -1,0 +1,6 @@
+OBJECTS=\
+    C:\wince800\platform\rrm_ppc_windows\src\drivers\pm\pdd\obj\ARMV7\checked\platform.obj\
+    C:\wince800\platform\rrm_ppc_windows\src\drivers\pm\pdd\obj\ARMV7\checked\pwstatemgr.obj\
+    C:\wince800\platform\rrm_ppc_windows\src\drivers\pm\pdd\obj\ARMV7\checked\pwstates.obj\
+    C:\wince800\platform\rrm_ppc_windows\src\drivers\pm\pdd\obj\ARMV7\checked\pwrButton.obj
+
